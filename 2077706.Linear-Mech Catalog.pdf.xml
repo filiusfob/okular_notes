@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Desktop/Downloads/Linear-Mech Catalog.pdf" >
+ <pageList>
+  <page number="2" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-17T20:17:05" uniqueName="okular-2-1" author="Marc Ahrens" modifyDate="2010-01-17T20:17:05" color="#ffff00" >
+      <boundary l="0.2828485456369108" r="0.4423269809428285" b="0.3558139534883721" t="0.3434108527131783" />
+     </base>
+     <hl>
+      <quad dx="0.2835898039215686" cx="0.4423529411764707" dy="0.3436278787878789" bx="0.4423529411764707" cy="0.3436278787878789" ax="0.2835898039215686" by="0.3565218181818182" ay="0.3565218181818182" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="15" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-17T20:20:51" uniqueName="okular-15-1" author="Marc Ahrens" modifyDate="2010-01-17T20:20:51" color="#ffff00" >
+      <boundary l="0.1175879396984925" r="0.5597989949748744" b="0.6767676767676768" t="0.6161616161616161" />
+     </base>
+     <hl>
+      <quad dx="0.1176470588235294" cx="0.5602031372549021" dy="0.616489696969697" bx="0.5602031372549021" cy="0.616489696969697" ax="0.1176470588235294" by="0.6293836363636364" ay="0.6293836363636364" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-17T20:20:58" uniqueName="okular-15-2" author="Marc Ahrens" modifyDate="2010-01-17T20:20:58" color="#ffff00" >
+      <boundary l="0.1175879396984925" r="0.5597989949748744" b="0.6767676767676768" t="0.6324786324786325" />
+     </base>
+     <hl>
+      <quad dx="0.1176470588235294" cx="0.4484501960784313" dy="0.6484527272727273" bx="0.4484501960784313" cy="0.6484527272727273" ax="0.1176470588235294" by="0.6613466666666666" ay="0.6613466666666666" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="31" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-18T12:35:46" uniqueName="okular-31-1" author="Marc Ahrens" modifyDate="2010-01-18T12:35:46" color="#ffff00" >
+      <boundary l="0.6753768844221105" r="0.7035175879396985" b="0.3333333333333333" t="0.3219616204690832" />
+     </base>
+     <hl>
+      <quad dx="0.6761620913275765" cx="0.7041853432344345" dy="0.3226173396674586" bx="0.7041853432344345" cy="0.3226173396674586" ax="0.6761620913275765" by="0.3336030878859859" ay="0.3336030878859859" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-18T12:35:51" uniqueName="okular-31-2" author="Marc Ahrens" modifyDate="2010-01-18T12:35:51" color="#ffff00" >
+      <boundary l="0.5839195979899497" r="0.8773869346733668" b="0.365316275764037" t="0.3383084577114428" />
+     </base>
+     <hl>
+      <quad dx="0.6761620913275765" cx="0.7041853432344345" dy="0.3385555819477435" bx="0.7041853432344345" cy="0.3385555819477435" ax="0.6761620913275765" by="0.3495413301662709" ay="0.3495413301662709" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="7;C2:0.499497:0.180526:1" />
+   <oldPage viewport="6;C2:0.499497:0.20239:1" />
+   <oldPage viewport="5;C2:0.499497:0.20239:1" />
+   <oldPage viewport="4;C2:0.499497:0.180526:1" />
+   <oldPage viewport="3;C2:0.499497:0.180526:1" />
+   <oldPage viewport="2;C2:0.499497:0.202068:1" />
+   <oldPage viewport="1;C2:0.499497:0.197052:1" />
+   <oldPage viewport="0;C2:0.499497:0.869765:1" />
+   <oldPage viewport="1;C2:0.499497:0.802172:1" />
+   <oldPage viewport="2;C2:0.499497:0:1" />
+   <current viewport="1;C2:0.499697:0.367929:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="2.774789810180664" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

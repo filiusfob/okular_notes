@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/unsw_biography/policy_path/equal_opportunity.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-07T14:38:38" uniqueName="okular-0-3" author="Marc Ahrens" modifyDate="2010-01-07T14:38:38" color="#ffff00" >
+      <boundary l="0.2621359223300971" r="0.4957928802588997" b="0.4965" t="0.488" />
+     </base>
+     <hl>
+      <quad dx="0.2623342892156862" cx="0.4958159549413808" dy="0.4880479266098485" bx="0.4958159549413808" cy="0.4880479266098485" ax="0.2623342892156862" by="0.4967500740214646" ay="0.4967500740214646" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-07T14:39:04" uniqueName="okular-0-4" author="Marc Ahrens" modifyDate="2010-01-07T14:39:04" color="#ffff00" >
+      <boundary l="0.2621359223300971" r="0.8284789644012945" b="0.5905" t="0.5629999999999999" />
+     </base>
+     <hl>
+      <quad dx="0.4644831839109476" cx="0.8283475538993053" dy="0.5724373527179609" bx="0.8283475538993053" cy="0.5724373527179609" ax="0.4644831839109476" by="0.581139500129577" ay="0.581139500129577" feather="1" />
+      <quad dx="0.2623342801190768" cx="0.5802122600296159" dy="0.5818096146846592" bx="0.5802122600296159" cy="0.5818096146846592" ax="0.2623342801190768" by="0.5905117620962753" ay="0.5905117620962753" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-07T14:39:34" uniqueName="okular-0-5" author="Marc Ahrens" modifyDate="2010-01-07T14:39:34" color="#ffff00" >
+      <boundary l="0.2621359223300971" r="0.8258899676375404" b="0.656" t="0.5995" />
+     </base>
+     <hl>
+      <quad dx="0.7848859732649101" cx="0.8081369070884395" dy="0.619337727114899" bx="0.8081369070884395" cy="0.619337727114899" ax="0.7848859732649101" by="0.6280398745265151" ay="0.6280398745265151" feather="1" />
+      <quad dx="0.2623342710224673" cx="0.3037784238002451" dy="0.6287099890815971" bx="0.3037784238002451" cy="0.6287099890815971" ax="0.2623342710224673" by="0.6374121364932134" ay="0.6374121364932134" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-07T14:40:07" uniqueName="okular-0-6" author="Marc Ahrens" modifyDate="2010-01-07T14:40:07" color="#ffff00" >
+      <boundary l="0.2621359223300971" r="0.8258899676375404" b="0.6755" t="0.619" />
+     </base>
+     <hl>
+      <quad dx="0.7778158791572711" cx="0.8136929069350489" dy="0.6287099890815971" bx="0.8136929069350489" cy="0.6287099890815971" ax="0.7778158791572711" by="0.6374121364932134" ay="0.6374121364932134" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-07T14:40:35" uniqueName="okular-0-7" author="Marc Ahrens" modifyDate="2010-01-07T14:40:35" color="#ffff00" >
+      <boundary l="0.2621359223300971" r="0.829126213592233" b="0.759" t="0.741" />
+     </base>
+     <hl>
+      <quad dx="0.2623342892156862" cx="0.829369412428309" dy="0.7412552637310605" bx="0.829369412428309" cy="0.7412552637310605" ax="0.2623342892156862" by="0.7499574111426768" ay="0.7499574111426768" feather="1" />
+      <quad dx="0.2623342801190767" cx="0.717675164733047" dy="0.7506275256977589" bx="0.717675164733047" cy="0.7506275256977589" ax="0.2623342801190767" by="0.7593296731093749" ay="0.7593296731093749" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-07T14:40:57" uniqueName="okular-0-8" author="Marc Ahrens" modifyDate="2010-01-07T14:40:57" color="#ffff00" >
+      <boundary l="0.2621359223300971" r="0.8381877022653722" b="0.806" t="0.768" />
+     </base>
+     <hl>
+      <quad dx="0.2623342892156862" cx="0.8384629836378673" dy="0.7881556349431819" bx="0.8384629836378673" cy="0.7881556349431819" ax="0.2623342892156862" by="0.796857782354798" ay="0.796857782354798" feather="1" />
+      <quad dx="0.2623342801190768" cx="0.6701716603198528" dy="0.79752789690988" bx="0.6701716603198528" cy="0.79752789690988" ax="0.2623342801190768" by="0.8062300443214963" ay="0.8062300443214963" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <current viewport="0;C2:0.553398:0.68998:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="0" value="2.525799989700317" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

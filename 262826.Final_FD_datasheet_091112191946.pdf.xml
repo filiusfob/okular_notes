@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/em/skf_brand/Final_FD_datasheet_091112191946.pdf" >
+ <pageList>
+  <page number="1" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-22T12:40:41" uniqueName="okular-1-1" author="Marc Ahrens" modifyDate="2010-01-22T12:40:41" color="#ffff00" >
+      <boundary l="0.07462686567164178" r="0.5279850746268657" b="0.8671328671328671" t="0.8433566433566434" />
+     </base>
+     <hl>
+      <quad dx="0.07486487394957946" cx="0.2213253781512601" dy="0.8437719143576825" bx="0.2213253781512601" cy="0.8437719143576825" ax="0.07486487394957946" by="0.8563865239294711" ay="0.8563865239294711" feather="1" />
+      <quad dx="0.2671068907563021" cx="0.2796245378151256" dy="0.8437719143576825" bx="0.2796245378151256" cy="0.8437719143576825" ax="0.2671068907563021" by="0.8563865239294711" ay="0.8563865239294711" feather="1" />
+      <quad dx="0.3545287394957978" cx="0.3727337815126046" dy="0.8437719143576825" bx="0.3727337815126046" cy="0.8437719143576825" ax="0.3545287394957978" by="0.8563865239294711" ay="0.8563865239294711" feather="1" />
+      <quad dx="0.4991472268907558" cx="0.5173522689075626" dy="0.8437719143576825" bx="0.5173522689075626" cy="0.8437719143576825" ax="0.4991472268907558" by="0.8563865239294711" ay="0.8563865239294711" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499497:0.803695:1" />
+   <oldPage viewport="1;C2:0.499497:0.177622:1" />
+   <oldPage viewport="0;C2:0.499497:0.803695:1" />
+   <oldPage viewport="1;C2:0.499497:0:1" />
+   <oldPage viewport="0;C2:0.499497:0.803695:1" />
+   <oldPage viewport="1;C2:0.499497:0.177622:1" />
+   <oldPage viewport="0;C2:0.499497:0.803695:1" />
+   <oldPage viewport="1;C2:0.499497:0.177622:1" />
+   <current viewport="0;C2:0.499497:0.195535:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="1.672268867492676" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

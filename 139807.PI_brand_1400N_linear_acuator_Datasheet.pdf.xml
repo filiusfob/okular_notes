@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/piezo/PI_brand_1400N_linear_acuator_Datasheet.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-12-06T16:33:28" uniqueName="okular-0-1" author="Marc Ahrens" modifyDate="2009-12-06T16:33:28" color="#ffff00" >
+      <boundary l="0.01407035175879397" r="0.4894472361809045" b="0.9321266968325792" t="0.920814479638009" />
+     </base>
+     <hl>
+      <quad dx="0.4564364765251749" cx="0.4897527869425274" dy="0.9216041053242973" bx="0.4897527869425274" cy="0.9216041053242973" ax="0.4564364765251749" by="0.928513508235469" ay="0.928513508235469" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-12-06T16:33:37" uniqueName="okular-0-2" author="Marc Ahrens" modifyDate="2009-12-06T16:33:37" color="#ffff00" >
+      <boundary l="0.01407035175879397" r="0.7879396984924623" b="0.9328808446455505" t="0.920814479638009" />
+     </base>
+     <hl>
+      <quad dx="0.687887769706825" cx="0.7178567252837339" dy="0.9216041053242973" bx="0.7178567252837339" cy="0.9216041053242973" ax="0.687887769706825" by="0.928513508235469" ay="0.928513508235469" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-12-06T16:33:52" uniqueName="okular-0-3" author="Marc Ahrens" modifyDate="2009-12-06T16:33:52" color="#ffff00" >
+      <boundary l="0.02613065326633166" r="0.5346733668341709" b="0.7873303167420814" t="0.777526395173454" />
+     </base>
+     <hl>
+      <quad dx="0.0263795281516473" cx="0.03559206149752384" dy="0.7832665701567718" bx="0.03559206149752384" cy="0.7832665701567718" ax="0.0263795281516473" by="0.7853666053085481" ay="0.7853666053085481" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-12-06T16:33:58" uniqueName="okular-0-4" author="Marc Ahrens" modifyDate="2009-12-06T16:33:58" color="#ffff00" >
+      <boundary l="0.01407035175879397" r="0.5748743718592965" b="0.8107088989441931" t="0.777526395173454" />
+     </base>
+     <hl>
+      <quad dx="0.0263795281516473" cx="0.03559206149752384" dy="0.7832665701567718" bx="0.03559206149752384" cy="0.7832665701567718" ax="0.0263795281516473" by="0.7853666053085481" ay="0.7853666053085481" feather="1" />
+      <quad dx="0.5276662422136958" cx="0.5748900510015522" dy="0.777769336311785" bx="0.5748900510015522" cy="0.777769336311785" ax="0.5276662422136958" by="0.7875576571026117" ay="0.7875576571026117" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-12-06T16:34:01" uniqueName="okular-0-5" author="Marc Ahrens" modifyDate="2009-12-06T16:34:01" color="#ffff00" >
+      <boundary l="0.01407035175879397" r="0.5728643216080402" b="0.8046757164404224" t="0.7933634992458521" />
+     </base>
+     <hl>
+      <quad dx="0.5080082180366755" cx="0.5730466203912135" dy="0.7935183400298098" bx="0.5730466203912135" cy="0.7935183400298098" ax="0.5080082180366755" by="0.8033066608206365" ay="0.8033066608206365" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <current viewport="0;C2:0.499736:0.221936:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="3.176677703857422" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

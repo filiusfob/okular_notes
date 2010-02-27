@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/thomson_brand/entire_12V_Electrak1_range.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="1" >
+     <base creationDate="2010-01-09T22:11:35" uniqueName="okular-0-1" author="Marc Ahrens" modifyDate="2010-01-09T22:12:18" color="#ffff00" >
+      <boundary l="0.127230857800806" r="0.9981458904805446" b="0.1300639910452994" t="0.1010235870048954" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[1st and 3rd are about same Power, but it's factored differently in P=F*v.
+Weights are < 0.61kgm.]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <current viewport="0;C2:0.499697:0.319493:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="2.838186979293823" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/em/thomson_brand/best_under500N_100mmstroke_12V_devices.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-09T20:07:28" uniqueName="okular-0-2" author="Marc Ahrens" contents="DE12 weighs &lt; 0.91kg (2lb) for max stroke." modifyDate="2010-01-09T20:07:28" color="#ffff00" >
+      <boundary l="0.2927063339731286" r="0.3675623800383877" b="0.2546399406087602" t="0.2464736451373422" />
+     </base>
+     <hl>
+      <quad dx="0.2930117647058824" cx="0.3675930258823529" dy="0.247181109090909" bx="0.3675930258823529" cy="0.247181109090909" ax="0.2930117647058824" by="0.2550248818181817" ay="0.2550248818181817" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-09T20:08:10" uniqueName="okular-0-3" author="Marc Ahrens" contents="SP12 weighs &lt; 0.61 kg (1.5lb) for max stroke." modifyDate="2010-01-09T20:08:10" color="#ffff00" >
+      <boundary l="0.6391554702495201" r="0.7284069097888676" b="0.2546399406087602" t="0.2464736451373422" />
+     </base>
+     <hl>
+      <quad dx="0.6395098039215688" cx="0.7290551294117649" dy="0.247181109090909" bx="0.7290551294117649" cy="0.247181109090909" ax="0.6395098039215688" by="0.2550248818181817" ay="0.2550248818181817" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="1;C2:0.499697:0.232225:1" />
+   <oldPage viewport="0;C2:0.499697:0.379641:1" />
+   <oldPage viewport="1;C2:0.499697:0.232225:1" />
+   <oldPage viewport="0" />
+   <oldPage viewport="1" />
+   <oldPage viewport="0" />
+   <oldPage viewport="1" />
+   <oldPage viewport="0;C2:0.5:0.42446:1" />
+   <oldPage viewport="1" />
+   <oldPage viewport="0;C2:0.5:1:1" />
+   <current viewport="1;C2:0.5:0.499157:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="0" value="1.411800026893616" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

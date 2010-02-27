@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/em/framomorat_brand/Mini_Operating_manual.pdf" >
+ <pageList>
+  <page number="4" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-13T23:10:02" uniqueName="okular-4-1" author="Marc Ahrens" modifyDate="2010-01-13T23:10:02" color="#ffff00" >
+      <boundary l="0.1467268623024831" r="0.9576749435665914" b="0.3204309656823623" t="0.2641660015961692" />
+     </base>
+     <hl>
+      <quad dx="0.1963031913285208" cx="0.7743540974970248" dy="0.2644448240137843" bx="0.7743540974970248" cy="0.2644448240137843" ax="0.1963031913285208" by="0.2767005848033793" ay="0.2767005848033793" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499697:0.818363:1" />
+   <oldPage viewport="1;C2:0.499697:0.818436:1" />
+   <oldPage viewport="2;C2:0.499697:0.818436:1" />
+   <oldPage viewport="3;C2:0.499697:0.818436:1" />
+   <oldPage viewport="4;C2:0.499697:0.181165:1" />
+   <oldPage viewport="3;C2:0.499697:0.818436:1" />
+   <current viewport="4;C2:0.499697:0.436951:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="2.977240085601807" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

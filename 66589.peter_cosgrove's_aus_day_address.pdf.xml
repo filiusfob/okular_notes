@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/unsw_biography/corresp_with_smh/peter_cosgrove's_aus_day_address.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="2" >
+     <base creationDate="2010-01-25T12:49:45" uniqueName="okular-0-1" author="Marc Ahrens" modifyDate="2010-01-25T12:50:04" color="#ffe000" >
+      <boundary l="0.2883031301482702" r="0.8583196046128501" b="0.6997455470737913" t="0.6946564885496184" />
+      <penStyle width="5" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <line>
+      <point x="0.2883031301482702" y="0.6946564885496184" />
+      <point x="0.8599670510708401" y="0.7010178117048346" />
+     </line>
+    </annotation>
+    <annotation type="2" >
+     <base creationDate="2010-01-25T12:50:39" uniqueName="okular-0-2" author="Marc Ahrens" modifyDate="2010-01-25T12:50:56" color="#ffe000" >
+      <boundary l="0.57166392092257" r="0.8583196046128501" b="0.7646310432569975" t="0.7582697201017812" />
+      <penStyle width="5" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <line>
+      <point x="0.5733113673805601" y="0.7595419847328244" />
+      <point x="0.8599670510708401" y="0.7646310432569975" />
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0" />
+   <oldPage viewport="1;C2:0.5:0:1" />
+   <current viewport="0;C2:0.499497:0.800313:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="1.625816941261292" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

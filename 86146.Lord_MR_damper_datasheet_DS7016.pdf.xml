@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/Lord_MR_damper_datasheet_DS7016.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-07-31T17:21:44" uniqueName="okular-0-2" author="Marc Ahrens" contents="by def'n&#xa;-  spring force is prop. to x&#xa;- damping force is prop. to v&#xa;&#xa;Thus, damping force is a resistance to change in fluid flow velocity." modifyDate="2009-07-31T17:21:44" color="#ffff00" >
+      <boundary l="0.08792650918635171" r="0.2545931758530184" b="0.7870182555780934" t="0.7748478701825557" />
+     </base>
+     <hl>
+      <quad dx="0.08823529411764706" cx="0.2558986928104575" dy="0.7753762626262626" bx="0.2558986928104575" cy="0.7753762626262626" ax="0.08823529411764706" by="0.7870429292929293" ay="0.7870429292929293" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499344:0.724645:1" />
+   <oldPage viewport="1;C2:0.337024:0.264545:1" />
+   <oldPage viewport="0;C2:0.337024:0.763518:1" />
+   <oldPage viewport="1;C2:0.337024:0.00444901:1" />
+   <current viewport="0;C2:0.337024:0.758042:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="0" value="1.84509813785553" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

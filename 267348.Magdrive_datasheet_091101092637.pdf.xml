@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/em/skf_brand/Magdrive_datasheet_091101092637.pdf" >
+ <pageList>
+  <page number="1" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-22T01:04:30" uniqueName="okular-1-1" author="Marc Ahrens" modifyDate="2010-01-22T01:04:30" color="#ffff00" >
+      <boundary l="0.074487895716946" r="0.5381750465549349" b="0.8666201117318436" t="0.8428770949720671" />
+     </base>
+     <hl>
+      <quad dx="0.07485176470588192" cx="0.113103865546218" dy="0.8434962216624685" bx="0.113103865546218" cy="0.8434962216624685" ax="0.07485176470588192" by="0.856110831234257" ay="0.856110831234257" feather="1" />
+      <quad dx="0.2670937815126046" cx="0.2796114285714281" dy="0.8434962216624685" bx="0.2796114285714281" cy="0.8434962216624685" ax="0.2670937815126046" by="0.856110831234257" ay="0.856110831234257" feather="1" />
+      <quad dx="0.3525526050420164" cx="0.370757647058823" dy="0.8434962216624685" bx="0.370757647058823" cy="0.8434962216624685" ax="0.3525526050420164" by="0.856110831234257" ay="0.856110831234257" feather="1" />
+      <quad dx="0.50128537815126" cx="0.5194904201680668" dy="0.8434962216624685" bx="0.5194904201680668" cy="0.8434962216624685" ax="0.50128537815126" by="0.856110831234257" ay="0.856110831234257" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499497:0.803695:1" />
+   <current viewport="1;C2:0.499497:0.817335:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="1.672268867492676" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

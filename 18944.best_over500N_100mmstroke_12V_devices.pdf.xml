@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/thomson_brand/best_over500N_100mmstroke_12V_devices.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-09T20:10:04" uniqueName="okular-0-2" author="Marc Ahrens" contents="PR12 weighs" modifyDate="2010-01-09T20:10:04" color="#ffff00" >
+      <boundary l="0.7252851711026616" r="0.80893536121673" b="0.2549595885378398" t="0.2468772961058046" />
+     </base>
+     <hl>
+      <quad dx="0.7255529411764707" cx="0.8093153539215687" dy="0.247181109090909" bx="0.8093153539215687" cy="0.247181109090909" ax="0.7255529411764707" by="0.2550248818181817" ay="0.2550248818181817" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-09T20:10:34" uniqueName="okular-0-3" author="Marc Ahrens" contents="DE12 Weighs &lt; 0.91kg(2lb) for max stroke.&#xa;&#xa;It's electrical rating is 12V,3.8A, running at 25% duty cycle for max load. Max load is 510N, which it can move at 9.4mm/s.&#xa;&#xa;Thus, ElecPwr = 12V*3.8A *25% =11.4W&#xa;&#xa;MechPwr = 510N * 9.4mm/s = 4.8W&#xa;&#xa;=> Power efficiency is 42%&#xa;&#xa;" modifyDate="2010-01-09T20:10:34" color="#ffff00" >
+      <boundary l="0.3792775665399239" r="0.80893536121673" b="0.2549595885378398" t="0.2468772961058046" />
+     </base>
+     <hl>
+      <quad dx="0.3802176470588236" cx="0.4473689670588235" dy="0.247181109090909" bx="0.4473689670588235" cy="0.247181109090909" ax="0.3802176470588236" by="0.2550248818181817" ay="0.2550248818181817" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <current viewport="0;C2:0.499497:0.49949:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="1.718962669372559" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

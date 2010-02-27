@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/maths/surreal_numbers_an_introduction.pdf" >
+ <pageList>
+  <page number="6" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-10-09T15:07:30" uniqueName="okular-6-1" author="Marc Ahrens" modifyDate="2009-10-09T15:07:30" color="#ffff00" >
+      <boundary l="0.1208487084870849" r="0.9068265682656826" b="0.7847358121330724" t="0.741030658838878" />
+     </base>
+     <hl>
+      <quad dx="0.2453092436974791" cx="0.9070913529411764" dy="0.7416320118764842" bx="0.9070913529411764" cy="0.7416320118764842" ax="0.2453092436974791" by="0.753136990498812" ay="0.753136990498812" feather="1" />
+      <quad dx="0.1210084033613446" cx="0.9070981092436974" dy="0.7577234608076006" bx="0.9070981092436974" cy="0.7577234608076006" ax="0.1210084033613446" by="0.7692284394299284" ay="0.7692284394299284" feather="1" />
+      <quad dx="0.1210084033613446" cx="0.4042573798319328" dy="0.7738149097387169" bx="0.4042573798319328" cy="0.7738149097387169" ax="0.1210084033613446" by="0.7853198883610448" ay="0.7853198883610448" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="7" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-10-09T15:07:14" uniqueName="okular-7-1" author="Marc Ahrens" contents="Assuming a total ordering on surreal numbers, this means&#xa;    x&lt;=y&#xa;     iff&#xa;   [max(xL) &lt; y] &amp;&amp; [x &lt; min(yR)]&#xa;&#xa;where xL=x's left set&#xa;          yR=y's right set&#xa;&#xa;" modifyDate="2009-10-09T15:07:14" color="#ffff00" >
+      <boundary l="0.1203358208955224" r="0.9067164179104478" b="0.1978891820580475" t="0.1543535620052771" />
+     </base>
+     <hl>
+      <quad dx="0.2455058823529412" cx="0.9070955361344538" dy="0.1546118218527316" bx="0.9070955361344538" cy="0.1546118218527316" ax="0.2455058823529412" by="0.1661168004750594" ay="0.1661168004750594" feather="1" />
+      <quad dx="0.1210084033613447" cx="0.9070902084033611" dy="0.170703270783848" bx="0.9070902084033611" cy="0.170703270783848" ax="0.1210084033613447" by="0.1822082494061757" ay="0.1822082494061757" feather="1" />
+      <quad dx="0.1210084033613447" cx="0.1591379210084035" dy="0.1867947197149644" bx="0.1591379210084035" cy="0.1867947197149644" ax="0.1210084033613447" by="0.1982996983372921" ay="0.1982996983372921" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="9" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-10-09T15:12:29" uniqueName="okular-9-1" author="Marc Ahrens" contents="NB firstly, based on the def'n of &quot;=&quot; later on:&#xa;x&lt;=y &amp;&amp; x!=y&#xa;3iff   x&lt;=y &amp;&amp; not(y&lt;=x)&#xa;&#xa;This statement seems reasonable, but is it true?:&#xa;  as long as there is a total ordering,&#xa;  not (y&lt;=x) implies y>x&#xa;" modifyDate="2009-10-09T15:12:29" color="#ffff00" >
+      <boundary l="0.1207865168539326" r="0.9063670411985019" b="0.6591661151555261" t="0.6307081403044341" />
+     </base>
+     <hl>
+      <quad dx="0.1494739495798325" cx="0.3162964873949585" dy="0.6313696555819479" bx="0.3162964873949585" cy="0.6313696555819479" ax="0.1494739495798325" by="0.6436001733966747" ay="0.6436001733966747" feather="1" />
+      <quad dx="0.3452890756302526" cx="0.5402118705882358" dy="0.6320951947743469" bx="0.5402118705882358" cy="0.6320951947743469" ax="0.3452890756302526" by="0.6436001733966747" ay="0.6436001733966747" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-10-14T14:32:14" uniqueName="okular-9-2" author="Marc Ahrens" modifyDate="2009-10-14T14:32:14" color="#ffff00" >
+      <boundary l="0.1207865168539326" r="0.9063670411985019" b="0.7240238252812706" t="0.6955658504301787" />
+     </base>
+     <hl>
+      <quad dx="0.1494739495798324" cx="0.5437933831932776" dy="0.6957366389548694" bx="0.5437933831932776" cy="0.6957366389548694" ax="0.1494739495798324" by="0.7079671567695963" ay="0.7079671567695963" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="10" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-10-14T15:13:54" uniqueName="okular-10-1" author="Marc Ahrens" contents="The left and right sets of the new numbers can be any of the subsets of {-1,0,+1}. There are 2**3 such sets,&#xa;so since each L and R set can be any of them, that's 2**4=64 such pairs of sets (ie surreal numbers).&#xa;&#xa;There are already 3 numbers, though,&#xa;giving 64-3=61 NEW numbers." modifyDate="2009-10-14T15:13:54" color="#ffff00" >
+      <boundary l="0.5041860465116279" r="0.9069767441860465" b="0.5840998685939554" t="0.5722733245729303" />
+     </base>
+     <hl>
+      <quad dx="0.5042901596638656" cx="0.6403868100840336" dy="0.5732317743467935" bx="0.6403868100840336" cy="0.5732317743467935" ax="0.5042901596638656" by="0.5847367529691214" ay="0.5847367529691214" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="10;C2:0.499448:0.0501203:1" />
+   <oldPage viewport="9;C2:0.499448:-0.00443548:1" />
+   <oldPage viewport="8;C2:0.499448:0.956295:1" />
+   <oldPage viewport="9;C2:0.499448:-0.00524194:1" />
+   <oldPage viewport="8;C2:0.499448:0.956295:1" />
+   <oldPage viewport="9;C2:0.499448:-0.00524194:1" />
+   <oldPage viewport="8;C2:0.499448:0.956295:1" />
+   <oldPage viewport="9;C2:0.499448:0.9625:1" />
+   <oldPage viewport="10;C2:0.499448:0.00120289:1" />
+   <oldPage viewport="9;C2:0.499448:0.9625:1" />
+   <current viewport="10;C2:0.499448:0.926624:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="1.5226891040802" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/thomson_brand/entire_12V_ElectrakPro_range.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="1" >
+     <base creationDate="2010-01-09T23:41:35" uniqueName="okular-0-1" author="Marc Ahrens" modifyDate="2010-01-09T23:41:35" color="#ffff00" >
+      <boundary l="0.03523974581166955" r="0.9647602541883304" b="0.1580357142857143" t="0.05" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" >
+      <escapedText><![CDATA[Need to get current specs from salesman, as max current is not specified.]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-09T23:42:07" uniqueName="okular-0-2" author="Marc Ahrens" contents="That has just about everything:&#xa;PROs&#xa;* can lift my weight&#xa;* more than sufficient holding force&#xa;* best speed of all thomson actuators&#xa;But no current is specified, so I can't find power efficiency.&#xa;&#xa;CONs&#xa;* Quite heavy: ~4kg." modifyDate="2010-01-09T23:42:07" color="#ffff00" >
+      <boundary l="0.2882726747544772" r="0.3720392836510688" b="0.2267857142857143" t="0.2191964285714286" />
+     </base>
+     <hl>
+      <quad dx="0.2883607843137255" cx="0.3721231970588235" dy="0.2193280787878787" bx="0.3721231970588235" cy="0.2193280787878787" ax="0.2883607843137255" by="0.2271718515151515" ay="0.2271718515151515" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499697:0.715625:1" />
+   <oldPage viewport="1;C2:0.499697:0.286797:1" />
+   <oldPage viewport="0;C2:0.499697:0.39625:1" />
+   <oldPage viewport="1" />
+   <current viewport="0;C2:0.499506:0.49898:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="2.126279592514038" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

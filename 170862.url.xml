@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Desktop/Downloads/url" >
+ <pageList>
+  <page number="1" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:24:55" uniqueName="okular-1-1" author="Marc Ahrens" contents="&quot;-ly&quot; means &quot;YACC source code&quot;. NB without -e or -i default mode is &quot;standalone&quot;, ie produce a complete, standalone latex file." modifyDate="2009-08-31T23:24:55" color="#ffff00" >
+      <boundary l="0.2430632630410655" r="0.8374028856825749" b="0.8243137254901961" t="0.7850980392156863" />
+     </base>
+     <hl>
+      <quad dx="0.3035407159663865" cx="0.5501375243697484" dy="0.800461580760095" bx="0.5501375243697484" cy="0.800461580760095" ax="0.3035407159663865" by="0.8104600783847981" ay="0.8104600783847981" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="2" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:20:11" uniqueName="okular-2-1" author="Marc Ahrens" modifyDate="2009-08-31T23:20:11" color="#ffff00" >
+      <boundary l="0.2430632630410655" r="0.8379578246392897" b="0.6474509803921569" t="0.6082352941176471" />
+     </base>
+     <hl>
+      <quad dx="0.7626472386554627" cx="0.8377967243697485" dy="0.6083576888361045" bx="0.8377967243697485" cy="0.6083576888361045" ax="0.7626472386554627" by="0.6190661389548694" ay="0.6190661389548694" feather="1" />
+      <quad dx="0.243214931092437" cx="0.2575446756302521" dy="0.6226159014251781" bx="0.2575446756302521" cy="0.6226159014251781" ax="0.243214931092437" by="0.633324351543943" ay="0.633324351543943" feather="1" />
+      <quad dx="0.2551260504201681" cx="0.5505834201680671" dy="0.6226197458432303" bx="0.5505834201680671" cy="0.6226197458432303" ax="0.2551260504201681" by="0.6357538669833729" ay="0.6357538669833729" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:20:55" uniqueName="okular-2-3" author="Marc Ahrens" contents="This means &quot;choose C language&quot;." modifyDate="2009-08-31T23:20:55" color="#ffff00" >
+      <boundary l="0.4123196448390677" r="0.4389567147613763" b="0.548235294117647" t="0.5380392156862746" />
+     </base>
+     <hl>
+      <quad dx="0.4124301075630253" cx="0.4389702000000001" dy="0.5383826247030878" bx="0.4389702000000001" cy="0.5383826247030878" ax="0.4124301075630253" by="0.548381122327791" ay="0.548381122327791" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:21:26" uniqueName="okular-2-4" author="Marc Ahrens" contents="This means &quot;include mode&quot;, ie take a script (C in this case) and generate a .tex file suitable for inclusion in a bigger latex file.&#xa;&#xa;As with &quot;standalone&quot; this takes source code and produces LaTeX, but in this case the LaTeX has none of the header stuff. Instead, you included it in a bigger LaTeX file with its own &quot;\usepackage{lgrind}&quot;, etc." modifyDate="2009-08-31T23:21:26" color="#ffff00" >
+      <boundary l="0.3856825749167592" r="0.4034406215316315" b="0.548235294117647" t="0.5380392156862746" />
+     </base>
+     <hl>
+      <quad dx="0.3860072268907564" cx="0.4036727142857144" dy="0.5383826247030878" bx="0.4036727142857144" cy="0.5383826247030878" ax="0.3860072268907564" by="0.548381122327791" ay="0.548381122327791" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="3" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:29:06" uniqueName="okular-3-1" author="Marc Ahrens" modifyDate="2009-08-31T23:29:06" color="#ffff00" >
+      <boundary l="0.2430632630410655" r="0.8374028856825749" b="0.4741176470588235" t="0.4494117647058823" />
+     </base>
+     <hl>
+      <quad dx="0.359814156302521" cx="0.4727560638655463" dy="0.450450690023753" bx="0.4727560638655463" cy="0.450450690023753" ax="0.359814156302521" by="0.4604491876484561" ay="0.4604491876484561" feather="1" />
+      <quad dx="0.4727560638655463" cx="0.5017910924369747" dy="0.4494685890736342" bx="0.5017910924369747" cy="0.4494685890736342" ax="0.4727560638655463" by="0.4601652066508314" ay="0.4601652066508314" feather="1" />
+      <quad dx="0.5017910924369747" cx="0.5106656974789916" dy="0.450450690023753" bx="0.5106656974789916" cy="0.450450690023753" ax="0.5017910924369747" by="0.4604491876484561" ay="0.4604491876484561" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:29:18" uniqueName="okular-3-2" author="Marc Ahrens" modifyDate="2009-08-31T23:29:18" color="#ffff00" >
+      <boundary l="0.1614872364039956" r="0.8374028856825749" b="0.5027450980392156" t="0.4494117647058823" />
+     </base>
+     <hl>
+      <quad dx="0.4405780134453781" cx="0.8007195327731099" dy="0.463569864608076" bx="0.8007195327731099" cy="0.463569864608076" ax="0.4405780134453781" by="0.4742783147268409" ay="0.4742783147268409" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:29:26" uniqueName="okular-3-3" author="Marc Ahrens" modifyDate="2009-08-31T23:29:26" color="#ffff00" >
+      <boundary l="0.1614872364039956" r="0.8379578246392897" b="0.5596078431372549" t="0.4776470588235294" />
+     </base>
+     <hl>
+      <quad dx="0.3553650605042017" cx="0.4416831529411765" dy="0.4787983456057007" bx="0.4416831529411765" cy="0.4787983456057007" ax="0.3553650605042017" by="0.4887968432304038" ay="0.4887968432304038" feather="1" />
+      <quad dx="0.4416831529411765" cx="0.4814011966386555" dy="0.477816244655582" bx="0.4814011966386555" cy="0.477816244655582" ax="0.4416831529411765" by="0.4885128622327791" ay="0.4885128622327791" feather="1" />
+      <quad dx="0.4814011966386555" cx="0.5055970537815127" dy="0.4787983456057007" bx="0.5055970537815127" cy="0.4787983456057007" ax="0.4814011966386555" by="0.4887968432304038" ay="0.4887968432304038" feather="1" />
+      <quad dx="0.5055970537815127" cx="0.5346320823529411" dy="0.477816244655582" bx="0.5346320823529411" cy="0.477816244655582" ax="0.5055970537815127" by="0.4885128622327791" ay="0.4885128622327791" feather="1" />
+      <quad dx="0.5346320823529411" cx="0.5588279394957983" dy="0.4787983456057007" bx="0.5588279394957983" cy="0.4787983456057007" ax="0.5346320823529411" by="0.4887968432304038" ay="0.4887968432304038" feather="1" />
+      <quad dx="0.5588279394957983" cx="0.6189240857142858" dy="0.477816244655582" bx="0.6189240857142858" cy="0.477816244655582" ax="0.5588279394957983" by="0.4885128622327791" ay="0.4885128622327791" feather="1" />
+      <quad dx="0.6189240857142858" cx="0.6431199428571429" dy="0.4787983456057007" bx="0.6431199428571429" cy="0.4787983456057007" ax="0.6189240857142858" by="0.4887968432304038" ay="0.4887968432304038" feather="1" />
+      <quad dx="0.6431199428571429" cx="0.682837986554622" dy="0.477816244655582" bx="0.682837986554622" cy="0.477816244655582" ax="0.6431199428571429" by="0.4885128622327791" ay="0.4885128622327791" feather="1" />
+      <quad dx="0.682837986554622" cx="0.6916288689075631" dy="0.4787983456057007" bx="0.6916288689075631" cy="0.4787983456057007" ax="0.682837986554622" by="0.4887968432304038" ay="0.4887968432304038" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:29:36" uniqueName="okular-3-4" author="Marc Ahrens" modifyDate="2009-08-31T23:29:36" color="#ffff00" >
+      <boundary l="0.2430632630410655" r="0.8379578246392897" b="0.5313725490196078" t="0.4917647058823529" />
+     </base>
+     <hl>
+      <quad dx="0.2762806084033614" cx="0.4783871798319327" dy="0.4920734275534442" bx="0.4783871798319327" cy="0.4920734275534442" ax="0.2762806084033614" by="0.5027818776722091" ay="0.5027818776722091" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:30:47" uniqueName="okular-3-5" author="Marc Ahrens" modifyDate="2009-08-31T23:30:47" color="#ffff00" >
+      <boundary l="0.2430632630410655" r="0.8374028856825749" b="0.6992156862745098" t="0.6745098039215687" />
+     </base>
+     <hl>
+      <quad dx="0.3997525966386554" cx="0.6509876420168068" dy="0.6747876971496437" bx="0.6509876420168068" cy="0.6747876971496437" ax="0.3997525966386554" by="0.6854961472684086" ay="0.6854961472684086" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:34:13" uniqueName="okular-3-7" author="Marc Ahrens" contents="Present code with %( %) on their own lines.&#xa;5" modifyDate="2009-08-31T23:34:13" color="#ffff00" >
+      <boundary l="0.1853496115427303" r="0.8374028856825749" b="0.7705882352941177" t="0.7313725490196078" />
+     </base>
+     <hl>
+      <quad dx="0.1853512605042017" cx="0.2247263159663866" dy="0.7332136698337292" bx="0.2247263159663866" cy="0.7332136698337292" ax="0.1853512605042017" by="0.7422009667458432" ay="0.7422009667458432" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:35:12" uniqueName="okular-3-8" author="Marc Ahrens" modifyDate="2009-08-31T23:35:12" color="#ffff00" >
+      <boundary l="0.2008879023307436" r="0.2247502774694784" b="0.756078431372549" t="0.7474509803921568" />
+     </base>
+     <hl>
+      <quad dx="0.2010823529411765" cx="0.2249213647058824" dy="0.7474654513064133" bx="0.2249213647058824" cy="0.7474654513064133" ax="0.2010823529411765" by="0.7564527482185274" ay="0.7564527482185274" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="4" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:33:06" uniqueName="okular-4-1" author="Marc Ahrens" modifyDate="2009-08-31T23:33:06" color="#ffff00" >
+      <boundary l="0.2430632630410655" r="0.8379578246392897" b="0.2549019607843137" t="0.2298039215686274" />
+     </base>
+     <hl>
+      <quad dx="0.3774176168067226" cx="0.8381770638655464" dy="0.2301154085510689" bx="0.8381770638655464" cy="0.2301154085510689" ax="0.3774176168067226" by="0.2408238586698338" ay="0.2408238586698338" feather="1" />
+      <quad dx="0.2432268907563025" cx="0.4837621764705883" dy="0.2443774655581947" bx="0.4837621764705883" cy="0.2443774655581947" ax="0.2432268907563025" by="0.2550859156769595" ay="0.2550859156769595" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:35:39" uniqueName="okular-4-2" author="Marc Ahrens" contents="This is for full listings." modifyDate="2009-08-31T23:35:39" color="#ffff00" >
+      <boundary l="0.1853496115427303" r="0.4644839067702553" b="0.2407843137254902" t="0.2156862745098039" />
+     </base>
+     <hl>
+      <quad dx="0.1853512605042017" cx="0.2247263159663866" dy="0.231835997624703" bx="0.2247263159663866" cy="0.231835997624703" ax="0.1853512605042017" by="0.240823294536817" ay="0.240823294536817" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:36:16" uniqueName="okular-4-3" author="Marc Ahrens" contents="'%*' means &quot;Suggest a page-break here&quot;. These are the only possible places page breaks will go." modifyDate="2009-08-31T23:36:16" color="#ffff00" >
+      <boundary l="0.2086570477247503" r="0.8374028856825749" b="0.2690196078431373" t="0.2584313725490196" />
+     </base>
+     <hl>
+      <quad dx="0.2089478991596639" cx="0.2247250453781513" dy="0.2601970427553444" bx="0.2247250453781513" cy="0.2601970427553444" ax="0.2089478991596639" by="0.2691843396674585" ay="0.2691843396674585" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:38:08" uniqueName="okular-4-4" author="Marc Ahrens" contents="Include source from file.5" modifyDate="2009-08-31T23:38:08" color="#ffff00" >
+      <boundary l="0.2086570477247503" r="0.2241953385127636" b="0.572156862745098" t="0.5631372549019608" />
+     </base>
+     <hl>
+      <quad dx="0.2089478991596639" cx="0.2247250453781513" dy="0.5633324346793349" bx="0.2247250453781513" cy="0.5633324346793349" ax="0.2089478991596639" by="0.5723197315914489" ay="0.5723197315914489" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:38:52" uniqueName="okular-4-5" author="Marc Ahrens" contents="Take input from command line." modifyDate="2009-08-31T23:38:52" color="#ffff00" >
+      <boundary l="0.2086570477247503" r="0.2241953385127636" b="0.6149019607843137" t="0.6058823529411764" />
+     </base>
+     <hl>
+      <quad dx="0.2089478991596639" cx="0.2247250453781513" dy="0.6059452612826604" bx="0.2247250453781513" cy="0.6059452612826604" ax="0.2089478991596639" by="0.6149325581947744" ay="0.6149325581947744" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:39:59" uniqueName="okular-4-6" author="Marc Ahrens" contents="Switch parsing of @ on and off with&#xa;%@+ and %@- ." modifyDate="2009-08-31T23:39:59" color="#ffff00" >
+      <boundary l="0.2086570477247503" r="0.2241953385127636" b="0.6717647058823529" t="0.6627450980392157" />
+     </base>
+     <hl>
+      <quad dx="0.2089411764705882" cx="0.2247183226890756" dy="0.6628098693586698" bx="0.2247183226890756" cy="0.6628098693586698" ax="0.2089411764705882" by="0.6717971662707839" ay="0.6717971662707839" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:41:14" uniqueName="okular-4-7" author="Marc Ahrens" modifyDate="2009-08-31T23:41:14" color="#ffff00" >
+      <boundary l="0.2846836847946726" r="0.8374028856825748" b="0.7650980392156863" t="0.7403921568627451" />
+     </base>
+     <hl>
+      <quad dx="0.2852054470588234" cx="0.2991201579831931" dy="0.7414710522565321" bx="0.2991201579831931" cy="0.7414710522565321" ax="0.2852054470588234" by="0.7514695498812352" ay="0.7514695498812352" feather="1" />
+      <quad dx="0.2991201579831931" cx="0.8378924067226882" dy="0.7404889513064133" bx="0.8378924067226882" cy="0.7404889513064133" ax="0.2991201579831931" by="0.7511974014251781" ay="0.7511974014251781" feather="1" />
+      <quad dx="0.2852054470588234" cx="0.3846512571428571" dy="0.7547353313539193" bx="0.3846512571428571" cy="0.7547353313539193" ax="0.2852054470588234" by="0.765443781472684" ay="0.765443781472684" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:41:39" uniqueName="okular-4-8" author="Marc Ahrens" modifyDate="2009-08-31T23:41:39" color="#ffff00" >
+      <boundary l="0.2846836847946726" r="0.8374028856825748" b="0.8450980392156863" t="0.7776470588235294" />
+     </base>
+     <hl>
+      <quad dx="0.2852054470588234" cx="0.538734494117647" dy="0.7778206199524941" bx="0.538734494117647" cy="0.7778206199524941" ax="0.2852054470588234" by="0.7885290700712588" ay="0.7885290700712588" feather="1" />
+      <quad dx="0.538734494117647" cx="0.5540557462184873" dy="0.7788027209026128" bx="0.5540557462184873" cy="0.7788027209026128" ax="0.538734494117647" by="0.7888012185273159" ay="0.7888012185273159" feather="1" />
+      <quad dx="0.5540557462184873" cx="0.7168628873949582" dy="0.7778206199524941" bx="0.7168628873949582" cy="0.7778206199524941" ax="0.5540557462184873" by="0.7885290700712588" ay="0.7885290700712588" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="5" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:42:27" uniqueName="okular-5-2" author="Marc Ahrens" modifyDate="2009-08-31T23:42:27" color="#ffff00" >
+      <boundary l="0.2846836847946726" r="0.8374028856825748" b="0.2156862745098039" t="0.1905882352941176" />
+     </base>
+     <hl>
+      <quad dx="0.2851647680672269" cx="0.643966724369748" dy="0.2050275665083135" bx="0.643966724369748" cy="0.2050275665083135" ax="0.2851647680672269" by="0.2157360166270783" ay="0.2157360166270783" feather="1" />
+      <quad dx="0.643966724369748" cx="0.666956974789916" dy="0.2060096674584322" bx="0.666956974789916" cy="0.2060096674584322" ax="0.643966724369748" by="0.2160081650831353" ay="0.2160081650831353" feather="1" />
+      <quad dx="0.666956974789916" cx="0.7374012453781511" dy="0.2050275665083135" bx="0.7374012453781511" cy="0.2050275665083135" ax="0.666956974789916" by="0.2157360166270783" ay="0.2157360166270783" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:43:57" uniqueName="okular-5-3" author="Marc Ahrens" contents="%%blah%% is passed directly to LaTeX as {blah}.4" modifyDate="2009-08-31T23:43:57" color="#ffff00" >
+      <boundary l="0.1847946725860155" r="0.8374028856825749" b="0.372156862745098" t="0.3592156862745098" />
+     </base>
+     <hl>
+      <quad dx="0.185346218487395" cx="0.2247212739495798" dy="0.3609571377672209" bx="0.2247212739495798" cy="0.3609571377672209" ax="0.185346218487395" by="0.369944434679335" ay="0.369944434679335" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2009-08-31T23:44:36" uniqueName="okular-5-4" author="Marc Ahrens" contents="%$blah$% is passed directly to LaTeX as $blah$, ie it is typeset as maths." modifyDate="2009-08-31T23:44:36" color="#ffff00" >
+      <boundary l="0.1853496115427303" r="0.2241953385127636" b="0.3984313725490196" t="0.3894117647058823" />
+     </base>
+     <hl>
+      <quad dx="0.1853512605042017" cx="0.2247263159663866" dy="0.389460700712589" bx="0.2247263159663866" cy="0.389460700712589" ax="0.1853512605042017" by="0.3984479976247031" ay="0.3984479976247031" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="8;C2:0.499723:0.294314:1" />
+   <oldPage viewport="7;C2:0.499723:0.14451:1" />
+   <oldPage viewport="6;C2:0.499723:0.799412:1" />
+   <oldPage viewport="7;C2:0.499723:0.367255:1" />
+   <oldPage viewport="6;C2:0.499723:0.998627:1" />
+   <oldPage viewport="7;C2:0.499723:0.00176471:1" />
+   <oldPage viewport="6;C2:0.499723:0.75549:1" />
+   <oldPage viewport="7;C2:0.499723:0.084902:1" />
+   <oldPage viewport="6;C2:0.499723:0.0245098:1" />
+   <oldPage viewport="5;C2:0.499723:0.655882:1" />
+   <current viewport="6;C2:0.499723:0.771176:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="3.028571367263794" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

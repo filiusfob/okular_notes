@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/em/skf_brand/3_CAHB20_datasheet_091002115823.pdf" >
+ <pageList>
+  <page number="1" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-22T01:18:27" uniqueName="okular-1-1" author="Marc Ahrens" modifyDate="2010-01-22T01:18:27" color="#ffff00" >
+      <boundary l="0.07541899441340782" r="0.5307262569832403" b="0.8777932960893855" t="0.854050279329609" />
+     </base>
+     <hl>
+      <quad dx="0.07559344537815076" cx="0.2220539495798314" dy="0.8544382871536523" bx="0.2220539495798314" cy="0.8544382871536523" ax="0.07559344537815076" by="0.8670528967254408" ay="0.8670528967254408" feather="1" />
+      <quad dx="0.2678354621848734" cx="0.2803531092436969" dy="0.8544382871536523" bx="0.2803531092436969" cy="0.8544382871536523" ax="0.2678354621848734" by="0.8670528967254408" ay="0.8670528967254408" feather="1" />
+      <quad dx="0.3560371428571423" cx="0.374242184873949" dy="0.8544382871536523" bx="0.374242184873949" cy="0.8544382871536523" ax="0.3560371428571423" by="0.8670528967254408" ay="0.8670528967254408" feather="1" />
+      <quad dx="0.5020270588235288" cx="0.5202321008403357" dy="0.8544382871536523" bx="0.5202321008403357" cy="0.8544382871536523" ax="0.5020270588235288" by="0.8670528967254408" ay="0.8670528967254408" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499497:0.803695:1" />
+   <current viewport="1;C2:0.499497:0.817335:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="1.672268867492676" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

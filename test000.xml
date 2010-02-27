@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/maths/Probability_Theory_The_Logic_Of_Science_-_E._T._Jaynes.pdf" >
+ <pageList>
+  <page number="48" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-23T18:20:24" uniqueName="okular-48-1" author="Marc Ahrens" modifyDate="2010-02-23T18:20:39" color="#ff0000" >
+      <boundary l="0.1170124481327801" r="0.8821576763485477" b="0.4249037227214377" t="0.3677792041078305" />
+     </base>
+     <hl>
+      <quad dx="0.6219607843137255" cx="0.8823529411764706" dy="0.3680176767676768" bx="0.8823529411764706" cy="0.3680176767676768" ax="0.6219607843137255" by="0.3923106060606061" ay="0.3923106060606061" feather="1" />
+      <quad dx="0.1176474509803921" cx="0.8823529411764708" dy="0.3843813131313131" bx="0.8823529411764708" cy="0.3843813131313131" ax="0.1176474509803921" by="0.4086742424242424" ay="0.4086742424242424" feather="1" />
+      <quad dx="0.1176474509803921" cx="0.2368631372549019" dy="0.4010479797979798" bx="0.2368631372549019" cy="0.4010479797979798" ax="0.1176474509803921" by="0.4253409090909091" ay="0.4253409090909091" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="45;C2:0.4995:0.194483:1" />
+   <oldPage viewport="44;C2:0.4995:0.804682:1" />
+   <oldPage viewport="45;C2:0.4995:0.804272:1" />
+   <oldPage viewport="46;C2:0.4995:0.804818:1" />
+   <oldPage viewport="47;C2:0.4995:0.804545:1" />
+   <oldPage viewport="48;C2:0.4995:0.804135:1" />
+   <oldPage viewport="49;C2:0.4995:0.194755:1" />
+   <oldPage viewport="48;C2:0.4995:0.804135:1" />
+   <oldPage viewport="49;C2:0.4995:0:1" />
+   <oldPage viewport="48;C2:0.4995:1:1" />
+   <current viewport="49;C2:0.4995:0:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="1.973376512527466" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

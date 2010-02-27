@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/em/thomson_brand/dimensioned_drawings_all_actuators.pdf" >
+ <pageList>
+  <page number="1" >
+   <annotationList>
+    <annotation type="1" >
+     <base opacity="0.29" creationDate="2010-01-10T14:45:49" uniqueName="okular-1-2" author="Marc Ahrens" modifyDate="2010-01-10T14:46:12" color="#ffff00" >
+      <boundary l="0.4136460554371002" r="0.9696906465175401" b="0.3687782805429864" t="0.2594268476621418" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[The 16mm clevis joint at the fixed end could be threaded
+to mate with an igubal GERM-17(F) clevis joint. 
+]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="5;C2:0.499431:0.460784:1" />
+   <oldPage viewport="4" />
+   <oldPage viewport="3;C2:0.498847:0.54048:1" />
+   <oldPage viewport="2;C2:0.499441:0.199756:1" />
+   <oldPage viewport="1;C2:0.498857:0.30234:1" />
+   <oldPage viewport="0;C2:0.46617:0.651899:1" />
+   <oldPage viewport="2;C2:0.396:0.799104:1" />
+   <oldPage viewport="3;C2:0.60496:0.368066:1" />
+   <oldPage viewport="2;C2:0.466857:0.799104:1" />
+   <oldPage viewport="3;C2:0.534602:0.368066:1" />
+   <current viewport="2;C2:0.499429:0.608802:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="0" value="1.575799942016602" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

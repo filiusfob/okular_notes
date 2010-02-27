@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/tcniso_answers000.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="1" >
+     <base creationDate="2009-07-20T14:24:47" uniqueName="okular-0-1" author="Marc Ahrens" modifyDate="2009-07-20T14:24:47" color="#ffff00" >
+      <boundary l="0.3954410307234886" r="0.5898854751679331" b="0.1117356567203428" t="0.08269525267993874" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" >
+      <escapedText><![CDATA[2 wrong ansers]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <current viewport="0;C2:0.5:0.166156:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="0" value="1.649199962615967" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

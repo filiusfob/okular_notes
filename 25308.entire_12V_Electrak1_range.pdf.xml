@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/em/thomson_brand/entire_12V_Electrak1_range.pdf" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="1" >
+     <base creationDate="2010-01-09T23:26:17" uniqueName="okular-0-1" author="Marc Ahrens" contents="1st and 3rd are about same Power, but it's factored differently in P=F*v.&#xa;Weights are &lt; 0.61kgm." modifyDate="2010-01-09T23:26:51" color="#ffff00" >
+      <boundary l="0.04438040345821326" r="0.07438040345821326" b="0.1229621380846325" t="0.09977728285077951" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text icon="Note" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-01-09T23:28:05" uniqueName="okular-0-4" author="Marc Ahrens" modifyDate="2010-01-09T23:28:17" color="#ffff00" >
+      <boundary l="0.04034582132564841" r="0.9446685878962536" b="0.1380846325167038" t="0.05612472160356347" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[1st and 3rd are about same Power, but it's factored differently in P=F*v.
+ Weights are < 0.61kgm.]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="1" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-09T23:35:51" uniqueName="okular-1-1" author="Marc Ahrens" contents="ElecPwr=12V*5.6A*25% = 16.8W&#xa;MechPwr=340N*17mm/s = 5.78W&#xa;&#xa;=>power efficiency = 5.78/16.8 = 34%&#xa;&#xa;weight = 0.63kg&#xa;retracted length=160mm(50mm stroke).&#xa;retracted length=210.7mm(100mm stroke).&#xa;" modifyDate="2010-01-09T23:35:51" color="#ffff00" >
+      <boundary l="0.3195639701663798" r="0.4010327022375215" b="0.2279379157427938" t="0.2199556541019956" />
+     </base>
+     <hl>
+      <quad dx="0.3197549019607844" cx="0.4011610117647059" dy="0.2202265636363636" bx="0.4011610117647059" cy="0.2202265636363636" ax="0.3197549019607844" by="0.2280703363636363" ay="0.2280703363636363" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499697:0.319718:1" />
+   <oldPage viewport="1;C2:0.499697:0.394783:1" />
+   <oldPage viewport="0;C2:0.499697:0.488732:1" />
+   <oldPage viewport="1" />
+   <oldPage viewport="0;C2:0.499697:0.460563:1" />
+   <current viewport="1;C2:0.499697:0.41616:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="2.848999977111816" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/physics/koonin1990computational_physics/koonin1990computational_physics_ch1.djvu" >
+ <pageList>
+  <page number="0" >
+   <annotationList>
+    <annotation type="2" >
+     <base creationDate="2009-09-29T16:48:34" uniqueName="okular-0-1" author="Marc Ahrens" modifyDate="2009-09-29T16:56:09" color="#ffe000" >
+      <boundary l="0.3642384105960265" r="0.8211920529801324" b="0.4773790951638066" t="0.4765990639625585" />
+      <penStyle width="20" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <line>
+      <point x="0.3653421633554084" y="0.4765990639625585" />
+      <point x="0.8222958057395143" y="0.4781591263650546" />
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <current viewport="0;C2:0.499723:0.35563:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="0.7269060015678406" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

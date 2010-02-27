@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/marca/Documents/projecta/linear actuators/em/thomson_brand/linear-acutators_catalogue.pdf" >
+ <pageList>
+  <page number="24" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-01-30T12:42:19" uniqueName="okular-24-1" author="Marc Ahrens" modifyDate="2010-01-30T12:42:19" color="#ffff00" >
+      <boundary l="0.4206049149338374" r="0.4357277882797732" b="0.4659090909090909" t="0.4538770053475936" />
+     </base>
+     <hl>
+      <quad dx="0.4214426633454051" cx="0.436360128438033" dy="0.4545265803322855" bx="0.436360128438033" cy="0.4545265803322855" ax="0.4214426633454051" by="0.4663000983264543" ay="0.4663000983264543" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-30T12:42:23" uniqueName="okular-24-2" author="Marc Ahrens" modifyDate="2010-01-30T12:42:23" color="#ffff00" >
+      <boundary l="0.4120982986767486" r="0.4385633270321361" b="0.4204545454545455" t="0.4084224598930482" />
+     </base>
+     <hl>
+      <quad dx="0.4125322329798972" cx="0.4393836701466272" dy="0.4090574248826504" bx="0.4393836701466272" cy="0.4090574248826504" ax="0.4125322329798972" by="0.4208309428768192" ay="0.4208309428768192" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-01-30T12:42:28" uniqueName="okular-24-3" author="Marc Ahrens" modifyDate="2010-01-30T12:42:28" color="#ffff00" >
+      <boundary l="0.4120982986767486" r="0.4385633270321361" b="0.4358288770053476" t="0.4237967914438502" />
+     </base>
+     <hl>
+      <quad dx="0.4125322329798972" cx="0.4393836701466272" dy="0.4242138100325288" bx="0.4393836701466272" cy="0.4242138100325288" ax="0.4125322329798972" by="0.4359873280266977" ay="0.4359873280266977" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499497:0.814275:1" />
+   <oldPage viewport="1;C2:0.499497:0.818763:1" />
+   <oldPage viewport="2;C2:0.499497:0:1" />
+   <oldPage viewport="1;C2:0.499497:1:1" />
+   <oldPage viewport="2;C2:0.499497:0.4446:1" />
+   <oldPage viewport="23;C2:0.499497:0.820801:1" />
+   <oldPage viewport="24;C2:0.499497:0.178496:1" />
+   <current viewport="23;C2:0.499497:0.192551:1" />
+  </history>
+  <views>
+   <view name="PageView" >
+    <zoom mode="1" value="1.775862693786621" />
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>
