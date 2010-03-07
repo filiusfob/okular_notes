@@ -2,6 +2,311 @@
 <!DOCTYPE documentInfo>
 <documentInfo url="/home/marca/Documents/maths/Probability_Theory_The_Logic_Of_Science_-_E._T._Jaynes.pdf" >
  <pageList>
+  <page number="20" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T11:26:44" uniqueName="okular-20-1" author="Marc Ahrens" contents="Consider what this means in&#xa;Set Theory, since predicate logic&#xa;maps over isomorphically.&#xa;&#xa;&quot;A=>B&quot; means &quot;A \subset B&quot;&#xa;Some event &quot;A&quot; maps over to the set&#xa;theoretical idea &quot;(outcome) x \in A&quot;.&#xa;&#xa;Using set theory we will calculate&#xa;probabilities using the a posteriori&#xa;noition of probabilities:&#xa;P(A) = [no. of outcomes in A]/[total no. of outcomes]&#xa;&#xa;NB, A is an &quot;event&quot;, being a SET of&#xa;outcomes. The &quot;total&quot; no. of outcomes is&#xa;the size of the &quot;universal set&quot;, ie the set&#xa;of all outcomes U.&#xa;&#xa;Thus, U should be considered part of the&#xa;&quot;prior information&quot;,so we should write p(A|U)&#xa;instead of just p(A). Now,&#xa;p(A|U) == |A|/|U|.&#xa;&#xa;It may be that |U| is not the set of all&#xa;outcomes -- we may know (as prior info)&#xa;that the event necessarily is already in some&#xa;B, a subset of U.&#xa;&#xa;Thus, &quot;B&quot; takes tthe place of &quot;U&quot;&#xa;ie p(A|B )=|A|/|B| = p(A|BU) (since BU==B)&#xa;&#xa;&#xa;So we have a Venn diagram of universal set&#xa;U containing set B which contains set A.&#xa;&#xa;Thus, &#xa;    p(A|BU) \in [ |A|/|U| , 1 ]&#xa;is the range of values of p(A|BU), where it is&#xa;    p(A|BU) == |A|/|U| == P(A|U)&#xa;   if B==U, which makes sense coz BU==U      &#xa;   p(A|BU) == |A|/|A| == 1&#xa;   if B==A&#xa;&#xa;&#xa;NB Later, we'll see another perspective of&#xa;this. The PRODUCT RULE (given in ch2) will&#xa;be shown to reduce to this syllogism. That&#xa;rule is a statement of 3 variables A, B, and&#xa;C, where C is always our prior info, ie our U&#xa;here. The prior info is the acceptance of the&#xa;rule &quot;A => B&quot;.&#xa;&#xa;See that discussion in ch2, p211.&#xa;" modifyDate="2010-02-28T11:26:53" color="#ff0000" >
+      <boundary l="0.1168289290681502" r="0.8817802503477051" b="0.9483870967741935" t="0.8462365591397849" />
+     </base>
+     <hl>
+      <quad dx="0.3956937254901959" cx="0.604321176470588" dy="0.8471843434343436" bx="0.604321176470588" cy="0.8471843434343436" ax="0.3956937254901959" by="0.8734469696969698" ay="0.8734469696969698" feather="1" />
+      <quad dx="0.4654976470588234" cx="0.5345172549019606" dy="0.8665782828282829" bx="0.5345172549019606" cy="0.8665782828282829" ax="0.4654976470588234" by="0.8928409090909092" ay="0.8928409090909092" feather="1" />
+      <quad dx="0.8392231372549017" cx="0.8827525490196078" dy="0.8675378787878788" bx="0.8827525490196078" cy="0.8675378787878788" ax="0.8392231372549017" by="0.8924873737373739" ay="0.8924873737373739" feather="1" />
+      <quad dx="0.4219607843137255" cx="0.5780392156862745" dy="0.8968813131313131" bx="0.5780392156862745" cy="0.8968813131313131" ax="0.4219607843137255" by="0.9231439393939394" ay="0.9231439393939394" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="32" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:14:49" uniqueName="okular-32-1" author="Marc Ahrens" modifyDate="2010-02-28T12:14:56" color="#ff0000" >
+      <boundary l="0.274310595065312" r="0.8824383164005805" b="0.9494949494949495" t="0.9225589225589226" />
+     </base>
+     <hl>
+      <quad dx="0.2745105882352941" cx="0.3015694117647059" dy="0.9242045454545454" bx="0.3015694117647059" cy="0.9242045454545454" ax="0.2745105882352941" by="0.9491540404040404" ay="0.9491540404040404" feather="1" />
+      <quad dx="0.3372556862745097" cx="0.7254909803921569" dy="0.9232449494949495" bx="0.7254909803921569" cy="0.9232449494949495" ax="0.3372556862745097" by="0.9495075757575757" ay="0.9495075757575757" feather="1" />
+      <quad dx="0.8305890196078431" cx="0.8831380392156863" dy="0.9242045454545454" bx="0.8831380392156863" cy="0.9242045454545454" ax="0.8305890196078431" by="0.9491540404040404" ay="0.9491540404040404" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="33" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:15:28" uniqueName="okular-33-2" author="Marc Ahrens" modifyDate="2010-02-28T12:15:36" color="#ff0000" >
+      <boundary l="0.2552301255230126" r="0.8828451882845187" b="0.2481121898597627" t="0.2017259978425027" />
+     </base>
+     <hl>
+      <quad dx="0.2560792156862745" cx="0.7647066666666668" dy="0.2020328282828283" bx="0.7647066666666668" cy="0.2020328282828283" ax="0.2560792156862745" by="0.2282954545454546" ay="0.2282954545454546" feather="1" />
+      <quad dx="0.2560796078431373" cx="0.6368639215686273" dy="0.223598484848485" bx="0.6368639215686273" cy="0.223598484848485" ax="0.2560796078431373" by="0.2485479797979799" ay="0.2485479797979799" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:15:44" uniqueName="okular-33-3" author="Marc Ahrens" modifyDate="2010-02-28T12:15:52" color="#ff0000" >
+      <boundary l="0.2370990237099024" r="0.783821478382148" b="0.3764832793959008" t="0.3106796116504854" />
+     </base>
+     <hl>
+      <quad dx="0.3854913725490196" cx="0.7015698039215685" dy="0.3281439393939394" bx="0.7015698039215685" cy="0.3281439393939394" ax="0.3854913725490196" by="0.3530934343434344" ay="0.3530934343434344" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:16:03" uniqueName="okular-33-4" author="Marc Ahrens" modifyDate="2010-02-28T12:16:12" color="#ff0000" >
+      <boundary l="0.1562064156206416" r="0.7824267782426778" b="0.4282632146709817" t="0.3473570658036678" />
+     </base>
+     <hl>
+      <quad dx="0.76706" cx="0.7827462745098039" dy="0.3474974747474748" bx="0.7827462745098039" cy="0.3474974747474748" ax="0.76706" by="0.37664898989899" ay="0.37664898989899" feather="1" />
+      <quad dx="0.2568639215686274" cx="0.7827462745098039" dy="0.359618686868687" bx="0.7827462745098039" cy="0.359618686868687" ax="0.2568639215686274" by="0.3887702020202022" ay="0.3887702020202022" feather="1" />
+      <quad dx="0.2380403921568627" cx="0.2568639215686274" dy="0.3762853535353536" bx="0.2568639215686274" cy="0.3762853535353536" ax="0.2380403921568627" by="0.4054368686868688" ay="0.4054368686868688" feather="1" />
+      <quad dx="0.2568639215686274" cx="0.5286286274509804" dy="0.3826893939393941" bx="0.5286286274509804" cy="0.3826893939393941" ax="0.2568639215686274" by="0.407638888888889" ay="0.407638888888889" feather="1" />
+      <quad dx="0.2380403921568627" cx="0.2537266666666666" dy="0.3844671717171718" bx="0.2537266666666666" cy="0.3844671717171718" ax="0.2380403921568627" by="0.413618686868687" ay="0.413618686868687" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="38" >
+   <annotationList>
+    <annotation type="1" >
+     <base creationDate="2010-03-04T21:21:10" uniqueName="okular-38-4" author="Marc Ahrens" contents="Below he enumerates&#xa;combinations of A,B,C that&#xa;(AB|C) might be functions of." modifyDate="2010-03-04T21:21:27" color="#ffff00" >
+      <boundary l="0.7140864714086471" r="0.7440864714086471" b="0.6790830636461705" t="0.6558791801510249" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text icon="Note" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T21:22:22" uniqueName="okular-38-6" author="Marc Ahrens" contents="Indeed, that either order must give&#xa;the same result is exactly what gives&#xa;BAYES' THEOREM: it's just the&#xa;statement that the order of acquiring&#xa;data shouldn't affect the result." modifyDate="2010-03-04T21:24:06" color="#ff0000" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.948220064724919" t="0.8888888888888888" />
+     </base>
+     <hl>
+      <quad dx="0.2925509803921568" cx="0.6600019607843138" dy="0.9068813131313131" bx="0.6600019607843138" cy="0.9068813131313131" ax="0.2925509803921568" by="0.9331439393939395" ay="0.9331439393939395" feather="1" />
+      <quad dx="0.660786274509804" cx="0.8580411764705883" dy="0.9059217171717172" bx="0.8580411764705883" cy="0.9059217171717172" ax="0.660786274509804" by="0.9334974747474748" ay="0.9334974747474748" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="39" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T21:26:07" uniqueName="okular-39-1" author="Marc Ahrens" modifyDate="2010-03-04T21:26:07" color="#ffff00" >
+      <boundary l="0.1898016997167139" r="0.8101983002832861" b="0.4972617743702081" t="0.4359255202628697" />
+     </base>
+     <hl>
+      <quad dx="0.4505913725490195" cx="0.5078462745098039" dy="0.4708207070707072" bx="0.5078462745098039" cy="0.4708207070707072" ax="0.4505913725490195" by="0.4970833333333335" ay="0.4970833333333335" feather="1" />
+      <quad dx="0.5086305882352941" cx="0.6329443137254901" dy="0.4698611111111112" bx="0.6329443137254901" cy="0.4698611111111112" ax="0.5086305882352941" by="0.4974368686868688" ay="0.4974368686868688" feather="1" />
+      <quad dx="0.6329443137254902" cx="0.6462776470588235" dy="0.4708207070707072" bx="0.6462776470588235" cy="0.4708207070707072" ax="0.6329443137254902" by="0.4970833333333335" ay="0.4970833333333335" feather="1" />
+      <quad dx="0.6470619607843137" cx="0.8105913725490196" dy="0.4698611111111112" bx="0.8105913725490196" cy="0.4698611111111112" ax="0.6470619607843137" by="0.4974368686868688" ay="0.4974368686868688" feather="1" />
+      <quad dx="0.1898070588235293" cx="0.2894149019607842" dy="0.4698611111111112" bx="0.2894149019607842" cy="0.4698611111111112" ax="0.1898070588235293" by="0.4974368686868688" ay="0.4974368686868688" feather="1" />
+      <quad dx="0.3278462745098039" cx="0.412552156862745" dy="0.4698611111111112" bx="0.412552156862745" cy="0.4698611111111112" ax="0.3278462745098039" by="0.4974368686868688" ay="0.4974368686868688" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T21:38:34" uniqueName="okular-39-2" author="Marc Ahrens" modifyDate="2010-03-04T21:38:34" color="#ffff00" >
+      <boundary l="0.1175637393767705" r="0.8810198300283286" b="0.6418400876232202" t="0.5805038335158818" />
+     </base>
+     <hl>
+      <quad dx="0.2356866666666666" cx="0.6941180392156864" dy="0.5811237373737375" bx="0.6941180392156864" cy="0.5811237373737375" ax="0.2356866666666666" by="0.6073863636363637" ay="0.6073863636363637" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="40" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-05T14:12:20" uniqueName="okular-40-1" author="Marc Ahrens" contents="It is associativity of AND that gives&#xa;us THE PRODUCT RULE." modifyDate="2010-03-05T14:12:28" color="#ff0000" >
+      <boundary l="0.1173469387755102" r="0.8816326530612245" b="0.4554767533490938" t="0.3798266351457841" />
+     </base>
+     <hl>
+      <quad dx="0.7529419607843139" cx="0.8823537254901962" dy="0.3805681818181819" bx="0.8823537254901962" cy="0.3805681818181819" ax="0.7529419607843139" by="0.4055176767676769" ay="0.4055176767676769" feather="1" />
+      <quad dx="0.1176478431372549" cx="0.421961568627451" dy="0.3972348484848486" bx="0.421961568627451" cy="0.3972348484848486" ax="0.1176478431372549" by="0.4221843434343435" ay="0.4221843434343435" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.5" creationDate="2010-03-05T14:13:49" uniqueName="okular-40-3" author="Marc Ahrens" modifyDate="2010-03-05T14:14:17" color="#ff0000" >
+      <boundary l="0.08775510204081632" r="0.3663265306122449" b="0.7791120424099148" t="0.727344365642238" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,8,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[A general, functional
+statement of assoc.]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-05T15:03:57" uniqueName="okular-40-4" author="Marc Ahrens" modifyDate="2010-03-05T15:03:57" color="#ffff00" >
+      <boundary l="0.1173469387755102" r="0.8816326530612245" b="0.2371946414499606" t="0.1544523246650906" />
+     </base>
+     <hl>
+      <quad dx="0.2576470588235294" cx="0.8560784313725489" dy="0.1547601010101011" bx="0.8560784313725489" cy="0.1547601010101011" ax="0.2576470588235294" by="0.1810227272727274" ay="0.1810227272727274" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-05T15:05:19" uniqueName="okular-40-6" author="Marc Ahrens" contents="What follows is a derivation of the&#xa;FORM of the binary f'n F, given the 2&#xa;restrictions:&#xa;1) That F is an associative&#xa;2) That F(x,y) is monotonic in x &amp; y" modifyDate="2010-03-05T15:05:28" color="#ffff00" >
+      <boundary l="0.6214285714285714" r="0.6514285714285715" b="0.7710007880220646" t="0.747832939322301" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-05T15:07:18" uniqueName="okular-40-7" author="Marc Ahrens" modifyDate="2010-03-05T15:07:18" color="#ffff00" >
+      <boundary l="0.3744897959183673" r="0.8826530612244898" b="0.764381402679275" t="0.7383766745468873" />
+     </base>
+     <hl>
+      <quad dx="0.3745121568627451" cx="0.4141199999999999" dy="0.7383964646464647" bx="0.4141199999999999" cy="0.7383964646464647" ax="0.3745121568627451" by="0.7646590909090911" ay="0.7646590909090911" feather="1" />
+      <quad dx="0.41412" cx="0.465492549019608" dy="0.7383964646464647" bx="0.465492549019608" cy="0.7383964646464647" ax="0.41412" by="0.7646590909090911" ay="0.7646590909090911" feather="1" />
+      <quad dx="0.4662768627450981" cx="0.5901984313725491" dy="0.7383964646464647" bx="0.5901984313725491" cy="0.7383964646464647" ax="0.4662768627450981" by="0.7646590909090911" ay="0.7646590909090911" feather="1" />
+      <quad dx="0.5909827450980393" cx="0.6031396078431372" dy="0.7393560606060606" bx="0.6031396078431372" cy="0.7393560606060606" ax="0.5909827450980393" by="0.7643055555555556" ay="0.7643055555555556" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="41" >
+   <annotationList>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-05T13:52:09" uniqueName="okular-41-2" author="Marc Ahrens" modifyDate="2010-03-05T13:53:51" color="#ffff00" >
+      <boundary l="0.5800203873598369" r="1.003223001738922" b="0.5981169967390439" t="0.5236220472440944" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,7,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[NB This defines a particular H
+for a given G, though we
+don't know its form]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-05T13:55:36" uniqueName="okular-41-5" author="Marc Ahrens" contents="Proof:&#xa;If G1(x,y)G2(y,z) is indep of y, then it must have factors being f'ns of y that cancel, so their forms are thus:&#xa;G1(x,y)=QA(x)B(y) &amp; G2(y,z)=RH(y)C(z)&#xa;s.t. QRB(y)H(y) = D =indep of y.&#xa;&#xa;Thus, B(y)=D/QRH(y) &#xa;&amp; so G1(x,y)=DA(x)/RH(y)  ---(1)&#xa;&#xa;Now, if G1=G2, then (using args x,y for both):&#xa;   DA(x)/RH(y) = RH(x)C(y)&#xa;ie DA(x)/H(x) = R^2H(y)C(y)&#xa;NB LHS is f'n of x alone, and RHS is f'n of y alone,&#xa;Thus, both sides must equal some constant X,&#xa;&#xa;So A(x)=XH(x)/D  ---(2)&#xa;&#xa;(1)&amp;(2) give&#xa;G(x,y)=G1(x,y)=XH(x)/RH(y)&#xa;&#xa;And defining r=X/R we get the result&#xa;[[   G(x,y)=rH(x)/H(y)   ]]&#xa;&#xa;" modifyDate="2010-03-05T13:55:59" color="#ff0000" >
+      <boundary l="0.4250764525993884" r="0.8827726809378186" b="0.5700787401574803" t="0.5251968503937008" />
+     </base>
+     <hl>
+      <quad dx="0.4250992156862745" cx="0.439216862745098" dy="0.5344570707070708" bx="0.439216862745098" cy="0.5344570707070708" ax="0.4250992156862745" by="0.5607196969696971" ay="0.5607196969696971" feather="1" />
+      <quad dx="0.4392168627450981" cx="0.5325501960784313" dy="0.5344570707070708" bx="0.5325501960784313" cy="0.5344570707070708" ax="0.4392168627450981" by="0.5607196969696971" ay="0.5607196969696971" feather="1" />
+      <quad dx="0.5325501960784313" cx="0.5662756862745099" dy="0.5253661616161617" bx="0.5662756862745099" cy="0.5253661616161617" ax="0.5325501960784313" by="0.551628787878788" ay="0.551628787878788" feather="1" />
+      <quad dx="0.5329411764705883" cx="0.5650980392156864" dy="0.5441540404040405" bx="0.5650980392156864" cy="0.5441540404040405" ax="0.5329411764705883" by="0.5704166666666667" ay="0.5704166666666667" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-05T13:57:12" uniqueName="okular-41-7" author="Marc Ahrens" contents="NB in the bit after eq2-10 the&#xa;following fact will be used:&#xa;&#xa;From eq2-2 (monoticity of F in both&#xa;x and y), F2(x,Y) the numerator and&#xa;denominator of G(x,y) are&#xa;non-negative, hence&#xa;[[  G(x,y)>=0  ]]." modifyDate="2010-03-05T14:01:10" color="#ff0000" >
+      <boundary l="0.1172273190621815" r="0.5382262996941896" b="0.4330708661417323" t="0.3889763779527559" />
+     </base>
+     <hl>
+      <quad dx="0.3223529411764706" cx="0.4890196078431372" dy="0.3892550505050507" bx="0.4890196078431372" cy="0.3892550505050507" ax="0.3223529411764706" by="0.4168308080808082" ay="0.4168308080808082" feather="1" />
+      <quad dx="0.4890196078431373" cx="0.496078431372549" dy="0.4034671717171718" bx="0.496078431372549" cy="0.4034671717171718" ax="0.4890196078431373" by="0.4144974747474748" ay="0.4144974747474748" feather="1" />
+      <quad dx="0.4964705882352942" cx="0.5384313725490196" dy="0.3902146464646466" bx="0.5384313725490196" cy="0.3902146464646466" ax="0.4964705882352942" by="0.4164772727272729" ay="0.4164772727272729" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="42" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-05T14:10:34" uniqueName="okular-42-1" author="Marc Ahrens" modifyDate="2010-03-05T14:10:44" color="#ff0000" >
+      <boundary l="0.1172273190621815" r="0.8827726809378186" b="0.362992125984252" t="0.3039370078740157" />
+     </base>
+     <hl>
+      <quad dx="0.2878435294117647" cx="0.300784705882353" dy="0.3050631313131314" bx="0.300784705882353" cy="0.3050631313131314" ax="0.2878435294117647" by="0.3313257575757577" ay="0.3313257575757577" feather="1" />
+      <quad dx="0.3011768627450981" cx="0.4101964705882353" dy="0.3041035353535354" bx="0.4101964705882353" cy="0.3041035353535354" ax="0.3011768627450981" by="0.331679292929293" ay="0.331679292929293" feather="1" />
+      <quad dx="0.4105886274509804" cx="0.4898043137254902" dy="0.3041035353535354" bx="0.4898043137254902" cy="0.3041035353535354" ax="0.4105886274509804" by="0.331679292929293" ay="0.331679292929293" feather="1" />
+      <quad dx="0.4901964705882353" cx="0.5105886274509804" dy="0.3050631313131314" bx="0.5105886274509804" cy="0.3050631313131314" ax="0.4901964705882353" by="0.3313257575757577" ay="0.3313257575757577" feather="1" />
+      <quad dx="0.5113729411764706" cx="0.5858827450980393" dy="0.3041035353535354" bx="0.5858827450980393" cy="0.3041035353535354" ax="0.5113729411764706" by="0.331679292929293" ay="0.331679292929293" feather="1" />
+      <quad dx="0.5862749019607844" cx="0.6066670588235294" dy="0.3050631313131314" bx="0.6066670588235294" cy="0.3050631313131314" ax="0.5862749019607844" by="0.3313257575757577" ay="0.3313257575757577" feather="1" />
+      <quad dx="0.6074513725490196" cx="0.6658827450980394" dy="0.3041035353535354" bx="0.6658827450980394" cy="0.3041035353535354" ax="0.6074513725490196" by="0.331679292929293" ay="0.331679292929293" feather="1" />
+      <quad dx="0.6662749019607843" cx="0.712941568627451" dy="0.3041035353535354" bx="0.712941568627451" cy="0.3041035353535354" ax="0.6662749019607843" by="0.331679292929293" ay="0.331679292929293" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-05T14:11:26" uniqueName="okular-42-3" author="Marc Ahrens" modifyDate="2010-03-05T14:11:41" color="#ff0000" >
+      <boundary l="0.09072375127420999" r="0.2803261977573904" b="0.3409448818897638" t="0.3070866141732284" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Product Rule]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-05T15:16:55" uniqueName="okular-42-4" author="Marc Ahrens" contents="This is the general form of F(x,y)&#xa;where F is&#xa;1) monotonic in both x and y,&#xa;2) and associative, which is really the&#xa;   the &quot;consistency&quot; req'ment, ie that&#xa;  the probability of AB be independent&#xa;  of the order in which A and B are&#xa;  learned." modifyDate="2010-03-05T15:16:55" color="#ffff00" >
+      <boundary l="0.3792048929663608" r="0.5861365953109072" b="0.2606299212598425" t="0.2338582677165354" />
+     </base>
+     <hl>
+      <quad dx="0.3792156862745098" cx="0.5015686274509804" dy="0.2344570707070708" bx="0.5015686274509804" cy="0.2344570707070708" ax="0.3792156862745098" by="0.2607196969696971" ay="0.2607196969696971" feather="1" />
+      <quad dx="0.5023529411764706" cx="0.5203921568627451" dy="0.2344570707070708" bx="0.5203921568627451" cy="0.2344570707070708" ax="0.5023529411764706" by="0.2607196969696971" ay="0.2607196969696971" feather="1" />
+      <quad dx="0.5207843137254903" cx="0.5580392156862746" dy="0.2344570707070708" bx="0.5580392156862746" cy="0.2344570707070708" ax="0.5207843137254903" by="0.2607196969696971" ay="0.2607196969696971" feather="1" />
+      <quad dx="0.5584313725490196" cx="0.5870588235294119" dy="0.2344570707070708" bx="0.5870588235294119" cy="0.2344570707070708" ax="0.5584313725490196" by="0.2607196969696971" ay="0.2607196969696971" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="45" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-27T17:46:08" uniqueName="okular-45-1" author="Marc Ahrens" contents="There is an easier way to get to eq2-42 with m=1 fixed&#xa;along the way. &#xa;&#xa;Below&#x9;&quot;notA&quot;=&quot;-A&quot;, &#xa;&#x9;D/Dx is partial deriv. and&#xa;&#x9;d/dx is total deriv.&#xa;&#xa;Consider that A+(-A)==T, so w(A+-A|X)==1. We&#xa;want to know an expression for w(A+-A|X) in&#xa;terms of w(A),w(-A), w( (-A)A ), and any other&#xa;individual terms. It is not an unreasonable&#xa;assumption that such an expresison for w exists,&#xa;and since any logical expression can be made of&#xa;NOT &amp; AND, we need no more than these three, given&#xa;that &quot;X&quot; will always be considered &quot;prior information&quot;, ie&#xa;on the right of the &quot;|&quot;.&#xa;&#xa;Moreover (-A)A==F==const, so we can ignore&#xa;any functional dependence upon that term.&#xa;&#xa;Moreover AA=A, so we have already accounted for that,&#xa;and (-A)(-A)=-(A+A)=-A, and so that term, too, has&#xa;been accounted for.&#xa;&#xa;1==w(A+-A|X)==f( w(A|X), w(-A|X) )  ---(1)&#xa;where we want to find the form of f. Letting x=w(A|X),&#xa;and using the def'n of S&#xa;1==f(x, S(x))   ----(2)&#xa;&#xa;But by the commutivity of &quot;+&quot;, (1) above also gives&#xa;1==f( S(x), x )&#xa;&#xa;=> f( S, x )==f(x,S)&#xa;      (D/DS)f == (D/Dx)f  (deriv. wrt 1st arg)  ---(3)&#xa;&#xa;But from (2) diff'ing both sides wrt x&#xa;0==(D/Dx)f + (D/DS)f * S'(x)&#xa;==(D/Dx)f + (D/Dx)f * S'(x)   (by eq 3)&#xa;==1 + S'(x)&#xa;&#xa;Integrating both sides wrt x gives&#xa;S(x) == -x +C&#xa;for some C. Using the requirement S(0)=1&#xa;(or likewise S(1)=0) we see C==1, s.t.&#xa;&#xa;[[ S(x) == 1-x ]]   (eq 2-42 w/ m=1)&#xa;&#xa;NB Subbing back in to (1)&#xa;1 == f( x, 1-x )&#xa;&#xa;One obvious f (uniqueness?) for this is  f=(x,y) == x+y.&#xa;THIS IS VERY SIGNIFICANT: if we know this is f, we can say&#xa;x+S(x) == 1, ie&#xa;&#xa;[[  w(A|X) + w(-A|X) == 1  ]]    (eq 2-47)&#xa;&#xa;&#xa;&#xa;" modifyDate="2010-02-27T17:46:17" color="#ff0000" >
+      <boundary l="0.3362068965517241" r="0.6456896551724138" b="0.8054630246502332" t="0.7681545636242505" />
+     </base>
+     <hl>
+      <quad dx="0.336863137254902" cx="0.4564709803921569" dy="0.7796085858585859" bx="0.4564709803921569" cy="0.7796085858585859" ax="0.336863137254902" by="0.8058712121212122" ay="0.8058712121212122" feather="1" />
+      <quad dx="0.4564709803921569" cx="0.46902" dy="0.7776893939393941" bx="0.46902" cy="0.7776893939393941" ax="0.4564709803921569" by="0.798699494949495" ay="0.798699494949495" feather="1" />
+      <quad dx="0.4698043137254902" cx="0.4839219607843137" dy="0.7805681818181819" bx="0.4839219607843137" cy="0.7805681818181819" ax="0.4698043137254902" by="0.8055176767676768" ay="0.8055176767676768" feather="1" />
+      <quad dx="0.4839219607843137" cx="0.5039219607843137" dy="0.7776893939393941" bx="0.5039219607843137" cy="0.7776893939393941" ax="0.4839219607843137" by="0.798699494949495" ay="0.798699494949495" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="46" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-27T17:47:23" uniqueName="okular-46-2" author="Marc Ahrens" contents="THE SUM RULE&#xa;&#xa;NB This is derived in a different &#xa;manner in the note for eq2-42. There&#xa;it's derived by seeking a function f&#xa;s.t.&#xa;w(A+(-A)|X)==f( w(A|X)+w(-A|X) )" modifyDate="2010-02-27T17:47:37" color="#ff0000" >
+      <boundary l="0.3996696944673823" r="0.5887696118909992" b="0.6394384173580089" t="0.6113592852584556" />
+     </base>
+     <hl>
+      <quad dx="0.4000003921568627" cx="0.4478435294117647" dy="0.6119823232323233" bx="0.4478435294117647" cy="0.6119823232323233" ax="0.4000003921568627" by="0.6395580808080807" ay="0.6395580808080807" feather="1" />
+      <quad dx="0.4486278431372548" cx="0.5894117647058824" dy="0.6119823232323233" bx="0.5894117647058824" cy="0.6119823232323233" ax="0.4486278431372548" by="0.6395580808080807" ay="0.6395580808080807" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-27T17:47:41" uniqueName="okular-46-3" author="Marc Ahrens" contents="THE PRODUCT RULE:&#xa;simply says that the learning of two&#xa;facts A,B (in the context of prior&#xa;knowledge C) must produce a&#xa;plausibility independant of the order&#xa;in which they're learned.&#xa;&#xa;And there are two such orders&#xa;A|C, then B|AC&#xa;  &amp;&#xa;B|C, then A|BC" modifyDate="2010-02-27T17:48:03" color="#ff0000" >
+      <boundary l="0.2981007431874484" r="0.8827415359207267" b="0.6394384173580089" t="0.5749840459476707" />
+     </base>
+     <hl>
+      <quad dx="0.2984317647058823" cx="0.4737258823529411" dy="0.5753156565656565" bx="0.4737258823529411" cy="0.5753156565656565" ax="0.2984317647058823" by="0.6028914141414141" ay="0.6028914141414141" feather="1" />
+      <quad dx="0.4737258823529412" cx="0.4941180392156863" dy="0.5762752525252525" bx="0.4941180392156863" cy="0.5762752525252525" ax="0.4737258823529412" by="0.6025378787878788" ay="0.6025378787878788" feather="1" />
+      <quad dx="0.4949023529411764" cx="0.5992160784313725" dy="0.5753156565656565" bx="0.5992160784313725" cy="0.5753156565656565" ax="0.4949023529411764" by="0.6028914141414141" ay="0.6028914141414141" feather="1" />
+      <quad dx="0.6000003921568626" cx="0.6411768627450979" dy="0.5753156565656565" bx="0.6411768627450979" cy="0.5753156565656565" ax="0.6000003921568626" by="0.6028914141414141" ay="0.6028914141414141" feather="1" />
+      <quad dx="0.641176862745098" cx="0.6949023529411764" dy="0.5753156565656565" bx="0.6949023529411764" cy="0.5753156565656565" ax="0.641176862745098" by="0.6028914141414141" ay="0.6028914141414141" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="47" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T00:22:47" uniqueName="okular-47-1" author="Marc Ahrens" contents="By the product rule&#xa;p(QC|X)==p(Q|X)p(C|QX), ie&#xa;p(C|QX)==p(QC|X)/p(Q|X)&#xa;&#xa;if Q==A+B&#xa;LHS==p(C|(A+B)X), which is what we seek.&#xa;RHS==p((A+B)C|X)/p(A+B|X)&#xa;  ==p(AC+CB|X)/p(A+B|X)&#xa;  ==[ p(AC+CB|X) ]/p(A+B|X)&#xa;  ==[ p(AC)+p(BC|X) - p(ABC|X)]&#xa;&#x9;/&#xa;      [p(A|X) + p(B|X) - p(AB|X)]&#xa;&#xa;" modifyDate="2010-02-28T00:22:47" color="#ffff00" >
+      <boundary l="0.3890728476821192" r="0.8692052980132451" b="0.3642765685019206" t="0.3207426376440461" />
+     </base>
+     <hl>
+      <quad dx="0.3894121568627451" cx="0.4592160784313725" dy="0.3393560606060606" bx="0.4592160784313725" cy="0.3393560606060606" ax="0.3894121568627451" by="0.3643055555555555" ay="0.3643055555555555" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T00:23:01" uniqueName="okular-47-2" author="Marc Ahrens" contents="GENERALISED SUM RULE" modifyDate="2010-02-28T00:23:52" color="#ff0000" >
+      <boundary l="0.3062913907284768" r="0.8824503311258278" b="0.2663252240717029" t="0.2387964148527529" />
+     </base>
+     <hl>
+      <quad dx="0.3070592156862745" cx="0.3713729411764706" dy="0.2399116161616161" bx="0.3713729411764706" cy="0.2399116161616161" ax="0.3070592156862745" by="0.2661742424242423" ay="0.2661742424242423" feather="1" />
+      <quad dx="0.3721572549019608" cx="0.4427454901960783" dy="0.2389520202020201" bx="0.4427454901960783" cy="0.2389520202020201" ax="0.3721572549019608" by="0.2665277777777777" ay="0.2665277777777777" feather="1" />
+      <quad dx="0.4427454901960785" cx="0.5317650980392156" dy="0.2389520202020201" bx="0.5317650980392156" cy="0.2389520202020201" ax="0.4427454901960785" by="0.2665277777777777" ay="0.2665277777777777" feather="1" />
+      <quad dx="0.5317650980392157" cx="0.5521572549019609" dy="0.2399116161616161" bx="0.5521572549019609" cy="0.2399116161616161" ax="0.5317650980392157" by="0.2661742424242423" ay="0.2661742424242423" feather="1" />
+      <quad dx="0.552941568627451" cx="0.5792160784313726" dy="0.2389520202020201" bx="0.5792160784313726" cy="0.2389520202020201" ax="0.552941568627451" by="0.2665277777777777" ay="0.2665277777777777" feather="1" />
+      <quad dx="0.6125494117647059" cx="0.6552945098039217" dy="0.2399116161616161" bx="0.6552945098039217" cy="0.2399116161616161" ax="0.6125494117647059" by="0.2661742424242423" ay="0.2661742424242423" feather="1" />
+      <quad dx="0.6560788235294117" cx="0.6823533333333333" dy="0.2389520202020201" bx="0.6823533333333333" cy="0.2389520202020201" ax="0.6560788235294117" by="0.2665277777777777" ay="0.2665277777777777" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T00:36:17" uniqueName="okular-47-3" author="Marc Ahrens" contents="Below, &quot;S&quot; means &quot;\Sigma_i&quot;&#xa;&#xa;p(QC|X) == p(Q|X)p(C|QX), ie&#xa;p(C|QX) == p(QC|X)/p(Q|X)&#xa;&#xa;Thus, if Q==(S A_i), then&#xa;p(C|(S A_i)X)&#xa;== p((S A_i)C|X)/p((S A_i)|X)&#xa;== p(S (A_i C)|X)/p((S A_i)|X)&#xa;and since all the &quot;minus&quot; terms that&#xa;would arise from conjunctions of&#xa;the Ai are zero (&quot;mutually&#xa;exclusive&quot;), all those terms drop&#xa;away giving:&#xa;== [ S p(A_i C|X) ]/[ S p( A_i|X) ] ---(1)&#xa;== [ S p(A_i |X)p(C|A_i X) ]/[ S p( A_i|X) ]&#xa;by product rule, which is eq 2-49.&#xa;&#xa;OR a neater form comes from using the product&#xa;rule the other way from (1) above&#xa;== [ S p(C|X)p(A_i |CX) ]/[ S p( A_i|X) ]&#xa;== p(C|X) [ S p(A_i |CX) ]/[ S p( A_i|X) ]&#xa;&#xa;" modifyDate="2010-02-28T00:36:17" color="#ffff00" >
+      <boundary l="0.1266556291390729" r="0.73841059602649" b="0.4359795134443022" t="0.3937259923175416" />
+     </base>
+     <hl>
+      <quad dx="0.5435294117647059" cx="0.6231372549019608" dy="0.3939015151515152" bx="0.6231372549019608" cy="0.3939015151515152" ax="0.5435294117647059" by="0.4188510101010101" ay="0.4188510101010101" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
   <page number="48" >
    <annotationList>
     <annotation type="4" >
@@ -32,26 +337,1380 @@
       <quad dx="0.496078431372549" cx="0.560392156862745" dy="0.2153156565656566" bx="0.560392156862745" cy="0.2153156565656566" ax="0.496078431372549" by="0.2428914141414142" ay="0.2428914141414142" feather="1" />
      </hl>
     </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T11:01:21" uniqueName="okular-48-4" author="Marc Ahrens" contents="That is, given C, ie &quot;A=>B&quot;, B will always be true if A is, so given C, AB will be true when A is,&#xa;&#xa;ie p(AB|C)==p(A|C5)" modifyDate="2010-02-28T11:01:21" color="#ffff00" >
+      <boundary l="0.1174825174825175" r="0.5692307692307692" b="0.3405405405405406" t="0.2972972972972973" />
+     </base>
+     <hl>
+      <quad dx="0.4109803921568627" cx="0.4317647058823529" dy="0.2993055555555555" bx="0.4317647058823529" cy="0.2993055555555555" ax="0.4109803921568627" by="0.3255681818181819" ay="0.3255681818181819" feather="1" />
+      <quad dx="0.4317647058823529" cx="0.5250980392156862" dy="0.2983459595959596" bx="0.5250980392156862" cy="0.2983459595959596" ax="0.4317647058823529" by="0.3259217171717171" ay="0.3259217171717171" feather="1" />
+      <quad dx="0.5250980392156863" cx="0.5694117647058823" dy="0.2983459595959596" bx="0.5694117647058823" cy="0.2983459595959596" ax="0.5250980392156863" by="0.3259217171717171" ay="0.3259217171717171" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T11:03:34" uniqueName="okular-48-5" author="Marc Ahrens" contents="ie Given C (&quot;A=>B&quot;), then if B is false, so is A (&quot;contrapositive&quot;). The 2nd syllogism of eq2-50 gives the contrapositive meaning of the logic of &quot;A=>B&quot;.&#xa;&#xa;So, if B is false, ie -B is true, the A is false, meaning A(-B)==FT==F.&#xa;&#xa;Thus, the probability of A(-B) being true, given C, is nil.&#xa;&#xa;ie p(A(-B)|C)=0&#xa;" modifyDate="2010-02-28T11:03:34" color="#ffff00" >
+      <boundary l="0.1174825174825175" r="0.8811188811188811" b="0.3405405405405406" t="0.2972972972972973" />
+     </base>
+     <hl>
+      <quad dx="0.6031372549019608" cx="0.7054901960784312" dy="0.2983459595959596" bx="0.7054901960784312" cy="0.2983459595959596" ax="0.6031372549019608" by="0.3259217171717171" ay="0.3259217171717171" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="6" >
+     <base creationDate="2010-02-28T11:19:49" uniqueName="okular-48-6" author="Marc Ahrens" modifyDate="2010-02-28T11:19:49" color="#00ff00" >
+      <boundary l="0.6055944055944057" r="0.7104895104895105" b="0.6897297297297297" t="0.5091891891891892" />
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <ink>
+      <path>
+       <point x="0.6629370629370629" y="0.5113513513513513" />
+       <point x="0.6643356643356644" y="0.5113513513513513" />
+       <point x="0.6643356643356644" y="0.5113513513513513" />
+       <point x="0.6657342657342658" y="0.5113513513513513" />
+       <point x="0.6671328671328671" y="0.5124324324324324" />
+       <point x="0.6685314685314685" y="0.5124324324324324" />
+       <point x="0.6685314685314685" y="0.5124324324324324" />
+       <point x="0.66993006993007" y="0.5124324324324324" />
+       <point x="0.66993006993007" y="0.5124324324324324" />
+       <point x="0.66993006993007" y="0.5124324324324324" />
+       <point x="0.6713286713286714" y="0.5124324324324324" />
+       <point x="0.6713286713286714" y="0.5124324324324324" />
+       <point x="0.6727272727272727" y="0.5135135135135135" />
+       <point x="0.6741258741258741" y="0.5145945945945946" />
+       <point x="0.6755244755244755" y="0.5156756756756756" />
+       <point x="0.6755244755244755" y="0.5167567567567568" />
+       <point x="0.676923076923077" y="0.5178378378378379" />
+       <point x="0.6783216783216783" y="0.5189189189189189" />
+       <point x="0.6797202797202797" y="0.5210810810810811" />
+       <point x="0.6797202797202797" y="0.5210810810810811" />
+       <point x="0.6811188811188811" y="0.5232432432432432" />
+       <point x="0.6825174825174826" y="0.5254054054054054" />
+       <point x="0.6839160839160839" y="0.5275675675675676" />
+       <point x="0.6853146853146853" y="0.5275675675675676" />
+       <point x="0.6867132867132867" y="0.5297297297297298" />
+       <point x="0.6881118881118881" y="0.5297297297297298" />
+       <point x="0.6895104895104895" y="0.5308108108108108" />
+       <point x="0.6895104895104895" y="0.5318918918918919" />
+       <point x="0.6909090909090909" y="0.532972972972973" />
+       <point x="0.6937062937062937" y="0.5351351351351351" />
+       <point x="0.6951048951048951" y="0.5362162162162162" />
+       <point x="0.6965034965034965" y="0.5372972972972972" />
+       <point x="0.6965034965034965" y="0.5372972972972972" />
+       <point x="0.6965034965034965" y="0.5372972972972972" />
+       <point x="0.6965034965034965" y="0.5383783783783784" />
+       <point x="0.6979020979020979" y="0.5394594594594595" />
+       <point x="0.6979020979020979" y="0.5405405405405406" />
+       <point x="0.6993006993006993" y="0.5405405405405406" />
+       <point x="0.6993006993006993" y="0.5416216216216216" />
+       <point x="0.7006993006993008" y="0.5416216216216216" />
+       <point x="0.7006993006993008" y="0.5416216216216216" />
+       <point x="0.7006993006993008" y="0.5427027027027027" />
+       <point x="0.7020979020979021" y="0.5448648648648649" />
+       <point x="0.7034965034965035" y="0.5459459459459459" />
+       <point x="0.7048951048951049" y="0.5481081081081081" />
+       <point x="0.7048951048951049" y="0.5481081081081081" />
+       <point x="0.7048951048951049" y="0.5502702702702703" />
+       <point x="0.7048951048951049" y="0.5502702702702703" />
+       <point x="0.7048951048951049" y="0.5524324324324325" />
+       <point x="0.7048951048951049" y="0.5535135135135135" />
+       <point x="0.7048951048951049" y="0.5556756756756757" />
+       <point x="0.7062937062937062" y="0.5567567567567567" />
+       <point x="0.7062937062937062" y="0.5589189189189189" />
+       <point x="0.7062937062937062" y="0.5600000000000001" />
+       <point x="0.7062937062937062" y="0.5610810810810811" />
+       <point x="0.7062937062937062" y="0.5621621621621622" />
+       <point x="0.7062937062937062" y="0.5632432432432433" />
+       <point x="0.7062937062937062" y="0.5664864864864865" />
+       <point x="0.7076923076923077" y="0.5675675675675675" />
+       <point x="0.7076923076923077" y="0.5686486486486486" />
+       <point x="0.7076923076923077" y="0.5697297297297297" />
+       <point x="0.7076923076923077" y="0.5708108108108109" />
+       <point x="0.7062937062937062" y="0.5718918918918919" />
+       <point x="0.7062937062937062" y="0.572972972972973" />
+       <point x="0.7062937062937062" y="0.572972972972973" />
+       <point x="0.7062937062937062" y="0.5751351351351351" />
+       <point x="0.7062937062937062" y="0.5762162162162162" />
+       <point x="0.7062937062937062" y="0.5783783783783784" />
+       <point x="0.7062937062937062" y="0.5783783783783784" />
+       <point x="0.7062937062937062" y="0.5794594594594594" />
+       <point x="0.7062937062937062" y="0.5805405405405405" />
+       <point x="0.7062937062937062" y="0.5816216216216217" />
+       <point x="0.7062937062937062" y="0.5816216216216217" />
+       <point x="0.7062937062937062" y="0.5827027027027027" />
+       <point x="0.7062937062937062" y="0.5837837837837838" />
+       <point x="0.7062937062937062" y="0.5848648648648649" />
+       <point x="0.7062937062937062" y="0.5848648648648649" />
+       <point x="0.7062937062937062" y="0.585945945945946" />
+       <point x="0.7062937062937062" y="0.587027027027027" />
+       <point x="0.7076923076923077" y="0.5881081081081081" />
+       <point x="0.7076923076923077" y="0.5881081081081081" />
+       <point x="0.7076923076923077" y="0.5902702702702702" />
+       <point x="0.7076923076923077" y="0.5913513513513513" />
+       <point x="0.7076923076923077" y="0.5935135135135136" />
+       <point x="0.7076923076923077" y="0.5945945945945946" />
+       <point x="0.7076923076923077" y="0.5956756756756757" />
+       <point x="0.7076923076923077" y="0.5956756756756757" />
+       <point x="0.7062937062937062" y="0.5967567567567568" />
+       <point x="0.7062937062937062" y="0.5978378378378378" />
+       <point x="0.7062937062937062" y="0.6" />
+       <point x="0.7062937062937062" y="0.6021621621621621" />
+       <point x="0.7062937062937062" y="0.6032432432432432" />
+       <point x="0.7062937062937062" y="0.6043243243243244" />
+       <point x="0.7048951048951049" y="0.6054054054054054" />
+       <point x="0.7048951048951049" y="0.6064864864864865" />
+       <point x="0.7048951048951049" y="0.6075675675675676" />
+       <point x="0.7048951048951049" y="0.6086486486486486" />
+       <point x="0.7048951048951049" y="0.6108108108108108" />
+       <point x="0.7048951048951049" y="0.6129729729729729" />
+       <point x="0.7034965034965035" y="0.6151351351351352" />
+       <point x="0.7034965034965035" y="0.6162162162162163" />
+       <point x="0.7034965034965035" y="0.6172972972972973" />
+       <point x="0.7034965034965035" y="0.6183783783783784" />
+       <point x="0.7020979020979021" y="0.6194594594594595" />
+       <point x="0.7020979020979021" y="0.6205405405405405" />
+       <point x="0.7020979020979021" y="0.6227027027027027" />
+       <point x="0.7020979020979021" y="0.6237837837837837" />
+       <point x="0.7020979020979021" y="0.6248648648648648" />
+       <point x="0.7020979020979021" y="0.625945945945946" />
+       <point x="0.7020979020979021" y="0.6270270270270271" />
+       <point x="0.7006993006993008" y="0.6291891891891892" />
+       <point x="0.7006993006993008" y="0.6313513513513513" />
+       <point x="0.7006993006993008" y="0.6313513513513513" />
+       <point x="0.7006993006993008" y="0.6335135135135135" />
+       <point x="0.7006993006993008" y="0.6335135135135135" />
+       <point x="0.6993006993006993" y="0.6345945945945946" />
+       <point x="0.6993006993006993" y="0.6356756756756756" />
+       <point x="0.6993006993006993" y="0.6378378378378379" />
+       <point x="0.6979020979020979" y="0.6389189189189189" />
+       <point x="0.6979020979020979" y="0.64" />
+       <point x="0.6979020979020979" y="0.6410810810810811" />
+       <point x="0.6979020979020979" y="0.6410810810810811" />
+       <point x="0.6979020979020979" y="0.6410810810810811" />
+       <point x="0.6979020979020979" y="0.6421621621621622" />
+       <point x="0.6979020979020979" y="0.6432432432432432" />
+       <point x="0.6965034965034965" y="0.6443243243243243" />
+       <point x="0.6951048951048951" y="0.6454054054054054" />
+       <point x="0.6951048951048951" y="0.6464864864864864" />
+       <point x="0.6951048951048951" y="0.6464864864864864" />
+       <point x="0.6937062937062937" y="0.6475675675675676" />
+       <point x="0.6937062937062937" y="0.6486486486486487" />
+       <point x="0.6937062937062937" y="0.6486486486486487" />
+       <point x="0.6923076923076923" y="0.6508108108108108" />
+       <point x="0.6909090909090909" y="0.6518918918918919" />
+       <point x="0.6895104895104895" y="0.654054054054054" />
+       <point x="0.6895104895104895" y="0.6551351351351351" />
+       <point x="0.6881118881118881" y="0.6562162162162162" />
+       <point x="0.6881118881118881" y="0.6562162162162162" />
+       <point x="0.6867132867132867" y="0.6572972972972972" />
+       <point x="0.6867132867132867" y="0.6583783783783784" />
+       <point x="0.6853146853146853" y="0.6594594594594595" />
+       <point x="0.6853146853146853" y="0.6594594594594595" />
+       <point x="0.6839160839160839" y="0.6605405405405406" />
+       <point x="0.6825174825174826" y="0.6605405405405406" />
+       <point x="0.6825174825174826" y="0.6616216216216216" />
+       <point x="0.6811188811188811" y="0.6616216216216216" />
+       <point x="0.6797202797202797" y="0.6627027027027027" />
+       <point x="0.6797202797202797" y="0.6637837837837838" />
+       <point x="0.676923076923077" y="0.6648648648648648" />
+       <point x="0.6755244755244755" y="0.6659459459459459" />
+       <point x="0.6727272727272727" y="0.667027027027027" />
+       <point x="0.6713286713286714" y="0.6681081081081081" />
+       <point x="0.66993006993007" y="0.6681081081081081" />
+       <point x="0.6685314685314685" y="0.6691891891891892" />
+       <point x="0.6685314685314685" y="0.6691891891891892" />
+       <point x="0.6671328671328671" y="0.6702702702702703" />
+       <point x="0.6643356643356644" y="0.6702702702702703" />
+       <point x="0.6643356643356644" y="0.6713513513513514" />
+       <point x="0.6629370629370629" y="0.6724324324324324" />
+       <point x="0.6629370629370629" y="0.6724324324324324" />
+       <point x="0.6615384615384615" y="0.6735135135135135" />
+       <point x="0.6615384615384615" y="0.6735135135135135" />
+       <point x="0.6615384615384615" y="0.6735135135135135" />
+       <point x="0.6601398601398601" y="0.6735135135135135" />
+       <point x="0.6601398601398601" y="0.6735135135135135" />
+       <point x="0.6601398601398601" y="0.6735135135135135" />
+       <point x="0.6587412587412588" y="0.6735135135135135" />
+       <point x="0.6587412587412588" y="0.6735135135135135" />
+       <point x="0.6587412587412588" y="0.6745945945945946" />
+       <point x="0.6587412587412588" y="0.6745945945945946" />
+       <point x="0.6559440559440559" y="0.6745945945945946" />
+       <point x="0.6545454545454545" y="0.6756756756756757" />
+       <point x="0.6531468531468532" y="0.6756756756756757" />
+       <point x="0.6531468531468532" y="0.6756756756756757" />
+       <point x="0.6517482517482518" y="0.6767567567567567" />
+       <point x="0.6517482517482518" y="0.6767567567567567" />
+       <point x="0.6503496503496503" y="0.6767567567567567" />
+       <point x="0.6503496503496503" y="0.6778378378378378" />
+       <point x="0.6489510489510489" y="0.6778378378378378" />
+       <point x="0.6489510489510489" y="0.6778378378378378" />
+       <point x="0.6475524475524476" y="0.6778378378378378" />
+       <point x="0.6475524475524476" y="0.6778378378378378" />
+       <point x="0.6461538461538462" y="0.6778378378378378" />
+       <point x="0.6461538461538462" y="0.6778378378378378" />
+       <point x="0.6461538461538462" y="0.6789189189189189" />
+       <point x="0.6461538461538462" y="0.6789189189189189" />
+       <point x="0.6461538461538462" y="0.6789189189189189" />
+       <point x="0.6447552447552447" y="0.6789189189189189" />
+       <point x="0.6447552447552447" y="0.68" />
+       <point x="0.6433566433566433" y="0.68" />
+       <point x="0.6433566433566433" y="0.68" />
+       <point x="0.641958041958042" y="0.68" />
+       <point x="0.6405594405594406" y="0.68" />
+       <point x="0.6391608391608392" y="0.68" />
+       <point x="0.6377622377622377" y="0.68" />
+       <point x="0.6363636363636364" y="0.6810810810810811" />
+       <point x="0.6363636363636364" y="0.6810810810810811" />
+       <point x="0.6363636363636364" y="0.6810810810810811" />
+       <point x="0.634965034965035" y="0.6810810810810811" />
+       <point x="0.634965034965035" y="0.6810810810810811" />
+       <point x="0.634965034965035" y="0.6810810810810811" />
+       <point x="0.6335664335664336" y="0.6810810810810811" />
+       <point x="0.6321678321678321" y="0.6810810810810811" />
+       <point x="0.6307692307692307" y="0.6821621621621622" />
+       <point x="0.6293706293706294" y="0.6821621621621622" />
+       <point x="0.627972027972028" y="0.6821621621621622" />
+       <point x="0.6265734265734266" y="0.6821621621621622" />
+       <point x="0.6265734265734266" y="0.6821621621621622" />
+       <point x="0.6251748251748251" y="0.6821621621621622" />
+       <point x="0.6237762237762238" y="0.6832432432432433" />
+       <point x="0.6237762237762238" y="0.6832432432432433" />
+       <point x="0.6223776223776224" y="0.6832432432432433" />
+       <point x="0.620979020979021" y="0.6832432432432433" />
+       <point x="0.6195804195804195" y="0.6832432432432433" />
+       <point x="0.6195804195804195" y="0.6832432432432433" />
+       <point x="0.6181818181818182" y="0.6832432432432433" />
+       <point x="0.6167832167832168" y="0.6843243243243243" />
+       <point x="0.6167832167832168" y="0.6843243243243243" />
+       <point x="0.6153846153846154" y="0.6843243243243243" />
+       <point x="0.6153846153846154" y="0.6843243243243243" />
+       <point x="0.6153846153846154" y="0.6843243243243243" />
+       <point x="0.6153846153846154" y="0.6843243243243243" />
+       <point x="0.6153846153846154" y="0.6854054054054054" />
+       <point x="0.6139860139860139" y="0.6854054054054054" />
+       <point x="0.6125874125874126" y="0.6854054054054054" />
+       <point x="0.6111888111888112" y="0.6854054054054054" />
+       <point x="0.6111888111888112" y="0.6864864864864865" />
+       <point x="0.6097902097902098" y="0.6864864864864865" />
+       <point x="0.6083916083916084" y="0.6864864864864865" />
+       <point x="0.6083916083916084" y="0.6875675675675675" />
+       <point x="0.6097902097902098" y="0.6875675675675675" />
+       <point x="0.6097902097902098" y="0.6875675675675675" />
+       <point x="0.6097902097902098" y="0.6875675675675675" />
+       <point x="0.6097902097902098" y="0.6875675675675675" />
+       <point x="0.6111888111888112" y="0.6864864864864865" />
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6" >
+     <base creationDate="2010-02-28T11:21:29" uniqueName="okular-48-7" author="Marc Ahrens" modifyDate="2010-02-28T11:21:29" color="#00ff00" >
+      <boundary l="0.5874125874125875" r="0.7454545454545454" b="0.9037837837837838" t="0.7502702702702703" />
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <ink>
+      <path>
+       <point x="0.6643356643356644" y="0.7524324324324324" />
+       <point x="0.6643356643356644" y="0.7535135135135135" />
+       <point x="0.6657342657342658" y="0.7535135135135135" />
+       <point x="0.6671328671328671" y="0.7535135135135135" />
+       <point x="0.6685314685314685" y="0.7535135135135135" />
+       <point x="0.6685314685314685" y="0.7535135135135135" />
+       <point x="0.6685314685314685" y="0.7524324324324324" />
+       <point x="0.66993006993007" y="0.7524324324324324" />
+       <point x="0.66993006993007" y="0.7524324324324324" />
+       <point x="0.66993006993007" y="0.7524324324324324" />
+       <point x="0.6713286713286714" y="0.7524324324324324" />
+       <point x="0.6727272727272727" y="0.7535135135135135" />
+       <point x="0.6741258741258741" y="0.7535135135135135" />
+       <point x="0.6755244755244755" y="0.7535135135135135" />
+       <point x="0.676923076923077" y="0.7545945945945945" />
+       <point x="0.6783216783216783" y="0.7545945945945945" />
+       <point x="0.6797202797202797" y="0.7556756756756757" />
+       <point x="0.6811188811188811" y="0.7567567567567568" />
+       <point x="0.6825174825174826" y="0.7578378378378379" />
+       <point x="0.6853146853146853" y="0.7589189189189189" />
+       <point x="0.6881118881118881" y="0.76" />
+       <point x="0.6909090909090909" y="0.7610810810810811" />
+       <point x="0.6923076923076923" y="0.7610810810810811" />
+       <point x="0.6951048951048951" y="0.7621621621621621" />
+       <point x="0.6965034965034965" y="0.7632432432432432" />
+       <point x="0.6993006993006993" y="0.7643243243243243" />
+       <point x="0.7006993006993008" y="0.7654054054054054" />
+       <point x="0.7006993006993008" y="0.7654054054054054" />
+       <point x="0.7020979020979021" y="0.7664864864864865" />
+       <point x="0.7062937062937062" y="0.7697297297297298" />
+       <point x="0.7062937062937062" y="0.7697297297297298" />
+       <point x="0.7090909090909091" y="0.772972972972973" />
+       <point x="0.7118881118881119" y="0.7751351351351351" />
+       <point x="0.7146853146853147" y="0.7783783783783784" />
+       <point x="0.7146853146853147" y="0.7794594594594595" />
+       <point x="0.7146853146853147" y="0.7794594594594595" />
+       <point x="0.7160839160839161" y="0.7805405405405406" />
+       <point x="0.7174825174825175" y="0.7816216216216216" />
+       <point x="0.7174825174825175" y="0.7837837837837838" />
+       <point x="0.7188811188811188" y="0.7837837837837838" />
+       <point x="0.7188811188811188" y="0.7848648648648648" />
+       <point x="0.7188811188811188" y="0.7859459459459459" />
+       <point x="0.7202797202797203" y="0.787027027027027" />
+       <point x="0.7202797202797203" y="0.7881081081081082" />
+       <point x="0.7216783216783217" y="0.7891891891891892" />
+       <point x="0.7216783216783217" y="0.7902702702702703" />
+       <point x="0.7230769230769231" y="0.7924324324324324" />
+       <point x="0.7230769230769231" y="0.7924324324324324" />
+       <point x="0.7230769230769231" y="0.7935135135135135" />
+       <point x="0.7230769230769231" y="0.7945945945945946" />
+       <point x="0.7230769230769231" y="0.7945945945945946" />
+       <point x="0.7230769230769231" y="0.7956756756756757" />
+       <point x="0.7230769230769231" y="0.7956756756756757" />
+       <point x="0.7244755244755244" y="0.7978378378378378" />
+       <point x="0.7244755244755244" y="0.798918918918919" />
+       <point x="0.7244755244755244" y="0.798918918918919" />
+       <point x="0.7244755244755244" y="0.798918918918919" />
+       <point x="0.7258741258741259" y="0.8" />
+       <point x="0.7258741258741259" y="0.8010810810810811" />
+       <point x="0.7258741258741259" y="0.8032432432432433" />
+       <point x="0.7272727272727273" y="0.8032432432432433" />
+       <point x="0.7272727272727273" y="0.8043243243243243" />
+       <point x="0.7272727272727273" y="0.8043243243243243" />
+       <point x="0.7272727272727273" y="0.8054054054054054" />
+       <point x="0.7272727272727273" y="0.8054054054054054" />
+       <point x="0.7272727272727273" y="0.8064864864864865" />
+       <point x="0.7272727272727273" y="0.8075675675675675" />
+       <point x="0.7286713286713287" y="0.8075675675675675" />
+       <point x="0.7286713286713287" y="0.8086486486486486" />
+       <point x="0.73006993006993" y="0.8108108108108109" />
+       <point x="0.7314685314685314" y="0.812972972972973" />
+       <point x="0.7314685314685314" y="0.8140540540540541" />
+       <point x="0.7328671328671329" y="0.8162162162162162" />
+       <point x="0.7328671328671329" y="0.8172972972972973" />
+       <point x="0.7342657342657343" y="0.8183783783783783" />
+       <point x="0.7342657342657343" y="0.8205405405405405" />
+       <point x="0.7356643356643356" y="0.8227027027027027" />
+       <point x="0.737062937062937" y="0.8248648648648649" />
+       <point x="0.7384615384615385" y="0.827027027027027" />
+       <point x="0.7384615384615385" y="0.827027027027027" />
+       <point x="0.7398601398601399" y="0.8281081081081081" />
+       <point x="0.7398601398601399" y="0.8291891891891892" />
+       <point x="0.7398601398601399" y="0.8302702702702702" />
+       <point x="0.7412587412587412" y="0.8313513513513513" />
+       <point x="0.7412587412587412" y="0.8324324324324325" />
+       <point x="0.7412587412587412" y="0.8345945945945946" />
+       <point x="0.7412587412587412" y="0.8367567567567568" />
+       <point x="0.7426573426573426" y="0.8367567567567568" />
+       <point x="0.7426573426573426" y="0.8389189189189189" />
+       <point x="0.7426573426573426" y="0.84" />
+       <point x="0.7426573426573426" y="0.841081081081081" />
+       <point x="0.7426573426573426" y="0.8421621621621621" />
+       <point x="0.7426573426573426" y="0.8432432432432433" />
+       <point x="0.7426573426573426" y="0.8454054054054054" />
+       <point x="0.7426573426573426" y="0.8464864864864865" />
+       <point x="0.7426573426573426" y="0.8475675675675676" />
+       <point x="0.7426573426573426" y="0.8486486486486486" />
+       <point x="0.7426573426573426" y="0.8486486486486486" />
+       <point x="0.7426573426573426" y="0.8497297297297297" />
+       <point x="0.7426573426573426" y="0.8497297297297297" />
+       <point x="0.7426573426573426" y="0.8508108108108108" />
+       <point x="0.7426573426573426" y="0.8508108108108108" />
+       <point x="0.7426573426573426" y="0.8518918918918919" />
+       <point x="0.7412587412587412" y="0.8529729729729729" />
+       <point x="0.7412587412587412" y="0.8540540540540541" />
+       <point x="0.7398601398601399" y="0.8551351351351352" />
+       <point x="0.7398601398601399" y="0.8562162162162162" />
+       <point x="0.7398601398601399" y="0.8572972972972973" />
+       <point x="0.7384615384615385" y="0.8583783783783784" />
+       <point x="0.7384615384615385" y="0.8594594594594595" />
+       <point x="0.7384615384615385" y="0.8594594594594595" />
+       <point x="0.7384615384615385" y="0.8605405405405405" />
+       <point x="0.7384615384615385" y="0.8605405405405405" />
+       <point x="0.7384615384615385" y="0.8605405405405405" />
+       <point x="0.7384615384615385" y="0.8616216216216216" />
+       <point x="0.7384615384615385" y="0.8616216216216216" />
+       <point x="0.7384615384615385" y="0.8627027027027027" />
+       <point x="0.7384615384615385" y="0.8637837837837837" />
+       <point x="0.737062937062937" y="0.8637837837837837" />
+       <point x="0.737062937062937" y="0.8648648648648649" />
+       <point x="0.737062937062937" y="0.8648648648648649" />
+       <point x="0.7356643356643356" y="0.8670270270270271" />
+       <point x="0.7356643356643356" y="0.8670270270270271" />
+       <point x="0.7356643356643356" y="0.8681081081081081" />
+       <point x="0.7356643356643356" y="0.8691891891891892" />
+       <point x="0.7342657342657343" y="0.8691891891891892" />
+       <point x="0.7342657342657343" y="0.8702702702702703" />
+       <point x="0.7342657342657343" y="0.8702702702702703" />
+       <point x="0.7328671328671329" y="0.8713513513513513" />
+       <point x="0.7314685314685314" y="0.8713513513513513" />
+       <point x="0.7314685314685314" y="0.8724324324324324" />
+       <point x="0.73006993006993" y="0.8735135135135135" />
+       <point x="0.73006993006993" y="0.8735135135135135" />
+       <point x="0.73006993006993" y="0.8745945945945945" />
+       <point x="0.7286713286713287" y="0.8756756756756757" />
+       <point x="0.7286713286713287" y="0.8756756756756757" />
+       <point x="0.7272727272727273" y="0.8767567567567568" />
+       <point x="0.7272727272727273" y="0.8778378378378379" />
+       <point x="0.7272727272727273" y="0.8778378378378379" />
+       <point x="0.7258741258741259" y="0.8778378378378379" />
+       <point x="0.7258741258741259" y="0.8789189189189189" />
+       <point x="0.7244755244755244" y="0.8789189189189189" />
+       <point x="0.7230769230769231" y="0.88" />
+       <point x="0.7216783216783217" y="0.8810810810810811" />
+       <point x="0.7216783216783217" y="0.8810810810810811" />
+       <point x="0.7202797202797203" y="0.8821621621621621" />
+       <point x="0.7202797202797203" y="0.8821621621621621" />
+       <point x="0.7188811188811188" y="0.8832432432432432" />
+       <point x="0.7188811188811188" y="0.8832432432432432" />
+       <point x="0.7174825174825175" y="0.8832432432432432" />
+       <point x="0.7160839160839161" y="0.8843243243243243" />
+       <point x="0.7146853146853147" y="0.8854054054054054" />
+       <point x="0.7132867132867133" y="0.8864864864864865" />
+       <point x="0.7118881118881119" y="0.8875675675675676" />
+       <point x="0.7104895104895105" y="0.8875675675675676" />
+       <point x="0.7090909090909091" y="0.8886486486486487" />
+       <point x="0.7062937062937062" y="0.8897297297297297" />
+       <point x="0.7048951048951049" y="0.8908108108108108" />
+       <point x="0.7034965034965035" y="0.8908108108108108" />
+       <point x="0.7020979020979021" y="0.8918918918918919" />
+       <point x="0.7006993006993008" y="0.8918918918918919" />
+       <point x="0.6993006993006993" y="0.892972972972973" />
+       <point x="0.6979020979020979" y="0.892972972972973" />
+       <point x="0.6951048951048951" y="0.894054054054054" />
+       <point x="0.6937062937062937" y="0.894054054054054" />
+       <point x="0.6923076923076923" y="0.8951351351351351" />
+       <point x="0.6909090909090909" y="0.8951351351351351" />
+       <point x="0.6909090909090909" y="0.8951351351351351" />
+       <point x="0.6895104895104895" y="0.8951351351351351" />
+       <point x="0.6895104895104895" y="0.8951351351351351" />
+       <point x="0.6895104895104895" y="0.8962162162162162" />
+       <point x="0.6881118881118881" y="0.8962162162162162" />
+       <point x="0.6881118881118881" y="0.8962162162162162" />
+       <point x="0.6867132867132867" y="0.8972972972972973" />
+       <point x="0.6853146853146853" y="0.8972972972972973" />
+       <point x="0.6825174825174826" y="0.8983783783783784" />
+       <point x="0.6825174825174826" y="0.8983783783783784" />
+       <point x="0.6797202797202797" y="0.8994594594594595" />
+       <point x="0.676923076923077" y="0.8994594594594595" />
+       <point x="0.6755244755244755" y="0.9005405405405406" />
+       <point x="0.6755244755244755" y="0.9005405405405406" />
+       <point x="0.6741258741258741" y="0.9005405405405406" />
+       <point x="0.6741258741258741" y="0.9005405405405406" />
+       <point x="0.6727272727272727" y="0.9005405405405406" />
+       <point x="0.6727272727272727" y="0.9005405405405406" />
+       <point x="0.6713286713286714" y="0.9005405405405406" />
+       <point x="0.66993006993007" y="0.9005405405405406" />
+       <point x="0.6685314685314685" y="0.9005405405405406" />
+       <point x="0.6671328671328671" y="0.9005405405405406" />
+       <point x="0.6671328671328671" y="0.9005405405405406" />
+       <point x="0.6657342657342658" y="0.9005405405405406" />
+       <point x="0.6643356643356644" y="0.9016216216216216" />
+       <point x="0.6629370629370629" y="0.9016216216216216" />
+       <point x="0.6615384615384615" y="0.9016216216216216" />
+       <point x="0.6615384615384615" y="0.9016216216216216" />
+       <point x="0.6615384615384615" y="0.9016216216216216" />
+       <point x="0.6601398601398601" y="0.9016216216216216" />
+       <point x="0.6601398601398601" y="0.9016216216216216" />
+       <point x="0.6587412587412588" y="0.9016216216216216" />
+       <point x="0.6587412587412588" y="0.9016216216216216" />
+       <point x="0.6573426573426573" y="0.9016216216216216" />
+       <point x="0.6559440559440559" y="0.9016216216216216" />
+       <point x="0.6545454545454545" y="0.9016216216216216" />
+       <point x="0.6545454545454545" y="0.9016216216216216" />
+       <point x="0.6545454545454545" y="0.9016216216216216" />
+       <point x="0.6531468531468532" y="0.9016216216216216" />
+       <point x="0.6517482517482518" y="0.9016216216216216" />
+       <point x="0.6503496503496503" y="0.9016216216216216" />
+       <point x="0.6489510489510489" y="0.9016216216216216" />
+       <point x="0.6475524475524476" y="0.9016216216216216" />
+       <point x="0.6475524475524476" y="0.9016216216216216" />
+       <point x="0.6461538461538462" y="0.9016216216216216" />
+       <point x="0.6447552447552447" y="0.9016216216216216" />
+       <point x="0.6433566433566433" y="0.9016216216216216" />
+       <point x="0.641958041958042" y="0.9016216216216216" />
+       <point x="0.641958041958042" y="0.9016216216216216" />
+       <point x="0.6405594405594406" y="0.9016216216216216" />
+       <point x="0.6405594405594406" y="0.9016216216216216" />
+       <point x="0.6405594405594406" y="0.9005405405405406" />
+       <point x="0.6391608391608392" y="0.9005405405405406" />
+       <point x="0.6391608391608392" y="0.9005405405405406" />
+       <point x="0.6391608391608392" y="0.9005405405405406" />
+       <point x="0.6377622377622377" y="0.9005405405405406" />
+       <point x="0.6377622377622377" y="0.9005405405405406" />
+       <point x="0.6363636363636364" y="0.9005405405405406" />
+       <point x="0.6335664335664336" y="0.9005405405405406" />
+       <point x="0.6335664335664336" y="0.9005405405405406" />
+       <point x="0.6321678321678321" y="0.9005405405405406" />
+       <point x="0.6321678321678321" y="0.9005405405405406" />
+       <point x="0.6307692307692307" y="0.9005405405405406" />
+       <point x="0.6307692307692307" y="0.8994594594594595" />
+       <point x="0.6307692307692307" y="0.8994594594594595" />
+       <point x="0.6307692307692307" y="0.8994594594594595" />
+       <point x="0.6307692307692307" y="0.8994594594594595" />
+       <point x="0.6307692307692307" y="0.8994594594594595" />
+       <point x="0.6293706293706294" y="0.8983783783783784" />
+       <point x="0.627972027972028" y="0.8983783783783784" />
+       <point x="0.627972027972028" y="0.8983783783783784" />
+       <point x="0.6265734265734266" y="0.8983783783783784" />
+       <point x="0.6251748251748251" y="0.8983783783783784" />
+       <point x="0.6251748251748251" y="0.8983783783783784" />
+       <point x="0.6251748251748251" y="0.8972972972972973" />
+       <point x="0.6251748251748251" y="0.8972972972972973" />
+       <point x="0.6237762237762238" y="0.8972972972972973" />
+       <point x="0.6237762237762238" y="0.8972972972972973" />
+       <point x="0.6223776223776224" y="0.8972972972972973" />
+       <point x="0.6195804195804195" y="0.8972972972972973" />
+       <point x="0.6195804195804195" y="0.8972972972972973" />
+       <point x="0.6195804195804195" y="0.8972972972972973" />
+       <point x="0.6195804195804195" y="0.8972972972972973" />
+       <point x="0.6195804195804195" y="0.8972972972972973" />
+       <point x="0.6195804195804195" y="0.8962162162162162" />
+       <point x="0.6181818181818182" y="0.8962162162162162" />
+       <point x="0.6181818181818182" y="0.8962162162162162" />
+       <point x="0.6167832167832168" y="0.8962162162162162" />
+       <point x="0.6153846153846154" y="0.8962162162162162" />
+       <point x="0.6139860139860139" y="0.8962162162162162" />
+       <point x="0.6139860139860139" y="0.8962162162162162" />
+       <point x="0.6125874125874126" y="0.8962162162162162" />
+       <point x="0.6125874125874126" y="0.8962162162162162" />
+       <point x="0.6125874125874126" y="0.8962162162162162" />
+       <point x="0.6125874125874126" y="0.8962162162162162" />
+       <point x="0.6125874125874126" y="0.8962162162162162" />
+       <point x="0.6125874125874126" y="0.8962162162162162" />
+       <point x="0.6125874125874126" y="0.8951351351351351" />
+       <point x="0.6111888111888112" y="0.8951351351351351" />
+       <point x="0.6111888111888112" y="0.8951351351351351" />
+       <point x="0.6111888111888112" y="0.8951351351351351" />
+       <point x="0.6111888111888112" y="0.8951351351351351" />
+       <point x="0.6111888111888112" y="0.894054054054054" />
+       <point x="0.6097902097902098" y="0.894054054054054" />
+       <point x="0.6097902097902098" y="0.894054054054054" />
+       <point x="0.6083916083916084" y="0.894054054054054" />
+       <point x="0.6083916083916084" y="0.894054054054054" />
+       <point x="0.6083916083916084" y="0.894054054054054" />
+       <point x="0.6083916083916084" y="0.892972972972973" />
+       <point x="0.6083916083916084" y="0.892972972972973" />
+       <point x="0.606993006993007" y="0.892972972972973" />
+       <point x="0.606993006993007" y="0.892972972972973" />
+       <point x="0.606993006993007" y="0.892972972972973" />
+       <point x="0.606993006993007" y="0.892972972972973" />
+       <point x="0.606993006993007" y="0.892972972972973" />
+       <point x="0.6055944055944056" y="0.892972972972973" />
+       <point x="0.6055944055944056" y="0.894054054054054" />
+       <point x="0.6041958041958042" y="0.894054054054054" />
+       <point x="0.6041958041958042" y="0.894054054054054" />
+       <point x="0.6027972027972028" y="0.894054054054054" />
+       <point x="0.6027972027972028" y="0.894054054054054" />
+       <point x="0.6027972027972028" y="0.894054054054054" />
+       <point x="0.6027972027972028" y="0.894054054054054" />
+       <point x="0.6013986013986014" y="0.894054054054054" />
+       <point x="0.6013986013986014" y="0.894054054054054" />
+       <point x="0.6013986013986014" y="0.894054054054054" />
+       <point x="0.6" y="0.894054054054054" />
+       <point x="0.6" y="0.894054054054054" />
+       <point x="0.6" y="0.894054054054054" />
+       <point x="0.6" y="0.894054054054054" />
+       <point x="0.6" y="0.894054054054054" />
+       <point x="0.5986013986013986" y="0.894054054054054" />
+       <point x="0.5986013986013986" y="0.894054054054054" />
+       <point x="0.5986013986013986" y="0.894054054054054" />
+       <point x="0.5986013986013986" y="0.894054054054054" />
+       <point x="0.5986013986013986" y="0.894054054054054" />
+       <point x="0.5972027972027972" y="0.894054054054054" />
+       <point x="0.5972027972027972" y="0.894054054054054" />
+       <point x="0.5972027972027972" y="0.8951351351351351" />
+       <point x="0.5972027972027972" y="0.8951351351351351" />
+       <point x="0.5972027972027972" y="0.8951351351351351" />
+       <point x="0.5972027972027972" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5958041958041959" y="0.8951351351351351" />
+       <point x="0.5944055944055944" y="0.8951351351351351" />
+       <point x="0.5944055944055944" y="0.8951351351351351" />
+       <point x="0.5944055944055944" y="0.8951351351351351" />
+       <point x="0.5944055944055944" y="0.8951351351351351" />
+       <point x="0.593006993006993" y="0.8951351351351351" />
+       <point x="0.593006993006993" y="0.8951351351351351" />
+       <point x="0.593006993006993" y="0.8962162162162162" />
+       <point x="0.5916083916083916" y="0.8962162162162162" />
+       <point x="0.5916083916083916" y="0.8962162162162162" />
+       <point x="0.5916083916083916" y="0.8962162162162162" />
+       <point x="0.5916083916083916" y="0.8962162162162162" />
+       <point x="0.5916083916083916" y="0.894054054054054" />
+       <point x="0.5902097902097903" y="0.8918918918918919" />
+       <point x="0.5902097902097903" y="0.8886486486486487" />
+       <point x="0.5902097902097903" y="0.8864864864864865" />
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-02-28T11:46:29" uniqueName="okular-48-8" author="Marc Ahrens" modifyDate="2010-02-28T11:46:29" color="#ffff00" >
+      <boundary l="0.1020979020979021" r="0.3300699300699301" b="0.5437837837837838" t="0.4875675675675676" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" >
+      <escapedText><![CDATA[cf notes eq1-1]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="6" >
+     <base creationDate="2010-02-28T11:46:45" uniqueName="okular-48-9" author="Marc Ahrens" modifyDate="2010-02-28T11:46:45" color="#00ff00" >
+      <boundary l="0.6083916083916084" r="0.6293706293706294" b="0.6962162162162162" t="0.6843243243243243" />
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <ink>
+      <path>
+       <point x="0.6097902097902098" y="0.6864864864864865" />
+       <point x="0.6111888111888112" y="0.6864864864864865" />
+       <point x="0.6153846153846154" y="0.6875675675675675" />
+       <point x="0.6167832167832168" y="0.6875675675675675" />
+       <point x="0.6167832167832168" y="0.6886486486486486" />
+       <point x="0.6195804195804195" y="0.6886486486486486" />
+       <point x="0.6195804195804195" y="0.6897297297297297" />
+       <point x="0.620979020979021" y="0.6897297297297297" />
+       <point x="0.6223776223776224" y="0.6908108108108109" />
+       <point x="0.6237762237762238" y="0.6908108108108109" />
+       <point x="0.6237762237762238" y="0.6908108108108109" />
+       <point x="0.6251748251748251" y="0.6908108108108109" />
+       <point x="0.6251748251748251" y="0.6918918918918919" />
+       <point x="0.6251748251748251" y="0.6918918918918919" />
+       <point x="0.6251748251748251" y="0.6918918918918919" />
+       <point x="0.6265734265734266" y="0.692972972972973" />
+       <point x="0.6265734265734266" y="0.692972972972973" />
+       <point x="0.6265734265734266" y="0.692972972972973" />
+       <point x="0.6265734265734266" y="0.692972972972973" />
+       <point x="0.6265734265734266" y="0.6940540540540541" />
+       <point x="0.6265734265734266" y="0.6940540540540541" />
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6" >
+     <base creationDate="2010-02-28T11:46:51" uniqueName="okular-48-10" author="Marc Ahrens" modifyDate="2010-02-28T11:46:51" color="#00ff00" >
+      <boundary l="0.606993006993007" r="0.6293706293706294" b="0.6897297297297297" t="0.6735135135135135" />
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <ink>
+      <path>
+       <point x="0.606993006993007" y="0.6875675675675675" />
+       <point x="0.6097902097902098" y="0.6875675675675675" />
+       <point x="0.620979020979021" y="0.6821621621621622" />
+       <point x="0.620979020979021" y="0.6821621621621622" />
+       <point x="0.6237762237762238" y="0.6810810810810811" />
+       <point x="0.6237762237762238" y="0.6810810810810811" />
+       <point x="0.6237762237762238" y="0.6810810810810811" />
+       <point x="0.6237762237762238" y="0.6810810810810811" />
+       <point x="0.6223776223776224" y="0.6810810810810811" />
+       <point x="0.6237762237762238" y="0.68" />
+       <point x="0.6237762237762238" y="0.6778378378378378" />
+       <point x="0.6251748251748251" y="0.6778378378378378" />
+       <point x="0.6251748251748251" y="0.6767567567567567" />
+       <point x="0.6251748251748251" y="0.6767567567567567" />
+       <point x="0.6251748251748251" y="0.6767567567567567" />
+       <point x="0.6251748251748251" y="0.6767567567567567" />
+       <point x="0.6251748251748251" y="0.6767567567567567" />
+       <point x="0.6251748251748251" y="0.6767567567567567" />
+       <point x="0.6265734265734266" y="0.6767567567567567" />
+       <point x="0.6265734265734266" y="0.6756756756756757" />
+       <point x="0.6251748251748251" y="0.6756756756756757" />
+       <point x="0.6251748251748251" y="0.6756756756756757" />
+       <point x="0.6265734265734266" y="0.6756756756756757" />
+       <point x="0.6251748251748251" y="0.6756756756756757" />
+       <point x="0.6251748251748251" y="0.6756756756756757" />
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6" >
+     <base creationDate="2010-02-28T11:46:57" uniqueName="okular-48-11" author="Marc Ahrens" modifyDate="2010-02-28T11:46:57" color="#00ff00" >
+      <boundary l="0.5902097902097903" r="0.6111888111888112" b="0.9059459459459459" t="0.8897297297297297" />
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <ink>
+      <path>
+       <point x="0.593006993006993" y="0.8918918918918919" />
+       <point x="0.593006993006993" y="0.8918918918918919" />
+       <point x="0.5944055944055944" y="0.8918918918918919" />
+       <point x="0.5958041958041959" y="0.8918918918918919" />
+       <point x="0.5986013986013986" y="0.892972972972973" />
+       <point x="0.6013986013986014" y="0.8951351351351351" />
+       <point x="0.6027972027972028" y="0.8962162162162162" />
+       <point x="0.6041958041958042" y="0.8972972972972973" />
+       <point x="0.6041958041958042" y="0.8972972972972973" />
+       <point x="0.6055944055944056" y="0.8994594594594595" />
+       <point x="0.6055944055944056" y="0.9005405405405406" />
+       <point x="0.606993006993007" y="0.9016216216216216" />
+       <point x="0.606993006993007" y="0.9027027027027027" />
+       <point x="0.606993006993007" y="0.9027027027027027" />
+       <point x="0.606993006993007" y="0.9027027027027027" />
+       <point x="0.606993006993007" y="0.9027027027027027" />
+       <point x="0.606993006993007" y="0.9027027027027027" />
+       <point x="0.606993006993007" y="0.9037837837837838" />
+       <point x="0.606993006993007" y="0.9037837837837838" />
+       <point x="0.6083916083916084" y="0.9037837837837838" />
+       <point x="0.6083916083916084" y="0.9037837837837838" />
+       <point x="0.606993006993007" y="0.9037837837837838" />
+       <point x="0.606993006993007" y="0.9027027027027027" />
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6" >
+     <base creationDate="2010-02-28T11:47:06" uniqueName="okular-48-12" author="Marc Ahrens" modifyDate="2010-02-28T11:47:06" color="#00ff00" >
+      <boundary l="0.5930069930069931" r="0.6167832167832167" b="0.892972972972973" t="0.8789189189189189" />
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <ink>
+      <path>
+       <point x="0.5944055944055944" y="0.8918918918918919" />
+       <point x="0.5958041958041959" y="0.8908108108108108" />
+       <point x="0.5972027972027972" y="0.8886486486486487" />
+       <point x="0.5972027972027972" y="0.8886486486486487" />
+       <point x="0.5972027972027972" y="0.8875675675675676" />
+       <point x="0.5972027972027972" y="0.8875675675675676" />
+       <point x="0.5972027972027972" y="0.8875675675675676" />
+       <point x="0.5972027972027972" y="0.8864864864864865" />
+       <point x="0.5986013986013986" y="0.8864864864864865" />
+       <point x="0.6013986013986014" y="0.8854054054054054" />
+       <point x="0.6041958041958042" y="0.8854054054054054" />
+       <point x="0.6055944055944056" y="0.8854054054054054" />
+       <point x="0.6055944055944056" y="0.8854054054054054" />
+       <point x="0.606993006993007" y="0.8843243243243243" />
+       <point x="0.606993006993007" y="0.8843243243243243" />
+       <point x="0.6083916083916084" y="0.8843243243243243" />
+       <point x="0.6083916083916084" y="0.8843243243243243" />
+       <point x="0.6083916083916084" y="0.8832432432432432" />
+       <point x="0.6097902097902098" y="0.8832432432432432" />
+       <point x="0.6097902097902098" y="0.8821621621621621" />
+       <point x="0.6097902097902098" y="0.8821621621621621" />
+       <point x="0.6097902097902098" y="0.8821621621621621" />
+       <point x="0.6111888111888112" y="0.8821621621621621" />
+       <point x="0.6111888111888112" y="0.8821621621621621" />
+       <point x="0.6111888111888112" y="0.8821621621621621" />
+       <point x="0.6111888111888112" y="0.8821621621621621" />
+       <point x="0.6125874125874126" y="0.8810810810810811" />
+       <point x="0.6125874125874126" y="0.8810810810810811" />
+       <point x="0.6125874125874126" y="0.8810810810810811" />
+       <point x="0.6139860139860139" y="0.8810810810810811" />
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6" >
+     <base creationDate="2010-02-28T11:47:10" uniqueName="okular-48-13" author="Marc Ahrens" modifyDate="2010-02-28T11:47:10" color="#00ff00" >
+      <boundary l="0.5888111888111889" r="0.6153846153846153" b="0.9102702702702703" t="0.8908108108108108" />
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <ink>
+      <path>
+       <point x="0.593006993006993" y="0.894054054054054" />
+       <point x="0.5944055944055944" y="0.892972972972973" />
+       <point x="0.5986013986013986" y="0.892972972972973" />
+       <point x="0.6027972027972028" y="0.8962162162162162" />
+       <point x="0.6041958041958042" y="0.8983783783783784" />
+       <point x="0.6055944055944056" y="0.8994594594594595" />
+       <point x="0.606993006993007" y="0.8994594594594595" />
+       <point x="0.606993006993007" y="0.9005405405405406" />
+       <point x="0.6083916083916084" y="0.9005405405405406" />
+       <point x="0.6083916083916084" y="0.9016216216216216" />
+       <point x="0.6083916083916084" y="0.9027027027027027" />
+       <point x="0.6097902097902098" y="0.9027027027027027" />
+       <point x="0.6097902097902098" y="0.9037837837837838" />
+       <point x="0.6097902097902098" y="0.9037837837837838" />
+       <point x="0.6097902097902098" y="0.9048648648648648" />
+       <point x="0.6125874125874126" y="0.9059459459459459" />
+       <point x="0.6125874125874126" y="0.907027027027027" />
+       <point x="0.6125874125874126" y="0.907027027027027" />
+       <point x="0.6125874125874126" y="0.9081081081081082" />
+       <point x="0.6125874125874126" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6125874125874126" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.9081081081081082" />
+       <point x="0.6125874125874126" y="0.9081081081081082" />
+       <point x="0.6111888111888112" y="0.907027027027027" />
+       <point x="0.6097902097902098" y="0.907027027027027" />
+       <point x="0.6083916083916084" y="0.9059459459459459" />
+       <point x="0.6083916083916084" y="0.9048648648648648" />
+       <point x="0.606993006993007" y="0.9048648648648648" />
+       <point x="0.606993006993007" y="0.9048648648648648" />
+       <point x="0.606993006993007" y="0.9048648648648648" />
+       <point x="0.6055944055944056" y="0.9037837837837838" />
+       <point x="0.6041958041958042" y="0.9037837837837838" />
+       <point x="0.6027972027972028" y="0.9027027027027027" />
+       <point x="0.6013986013986014" y="0.9027027027027027" />
+       <point x="0.6" y="0.9016216216216216" />
+       <point x="0.5986013986013986" y="0.9005405405405406" />
+       <point x="0.5986013986013986" y="0.9005405405405406" />
+       <point x="0.5972027972027972" y="0.9005405405405406" />
+       <point x="0.5972027972027972" y="0.9005405405405406" />
+       <point x="0.5972027972027972" y="0.9005405405405406" />
+       <point x="0.5972027972027972" y="0.9005405405405406" />
+       <point x="0.5958041958041959" y="0.8994594594594595" />
+       <point x="0.5958041958041959" y="0.8994594594594595" />
+       <point x="0.5958041958041959" y="0.8994594594594595" />
+       <point x="0.5944055944055944" y="0.8983783783783784" />
+       <point x="0.593006993006993" y="0.8983783783783784" />
+       <point x="0.593006993006993" y="0.8983783783783784" />
+       <point x="0.593006993006993" y="0.8983783783783784" />
+       <point x="0.593006993006993" y="0.8983783783783784" />
+       <point x="0.593006993006993" y="0.8983783783783784" />
+       <point x="0.5916083916083916" y="0.8972972972972973" />
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.5" creationDate="2010-02-28T11:49:28" uniqueName="okular-48-15" author="Marc Ahrens" modifyDate="2010-02-28T11:49:49" color="#ff0000" >
+      <boundary l="0.3398601398601399" r="0.813986013986014" b="0.9231190281190281" t="0.8713513513513513" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[                             syllogism eq1-4
+                             stated w/ prob.s]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.5" creationDate="2010-02-28T11:51:27" uniqueName="okular-48-16" author="Marc Ahrens" modifyDate="2010-02-28T11:51:58" color="#ff0000" >
+      <boundary l="0.1048951048951049" r="0.5902097902097903" b="0.6994594594594594" t="0.6486486486486487" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Syllogism eq1-3
+stated w/ prob.s]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="49" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:00:20" uniqueName="okular-49-1" author="Marc Ahrens" contents="Referring back to the notes for&#xa;syllogism eq1-1 which described&#xa;the Venn diagram picture (recall&#xa;&quot;B \subset of C (ie U) &amp; A \subset B&quot;.&#xa;&#xa;The statement that &quot;p(B|C) is very&#xa;small&quot; means set B is A very small&#xa;subset of U (ie C). This means&#xa;knowing an outcome is in B -- a very&#xa;small subset of C -- gives lots of&#xa;information. Since A \subset B, as B&#xa;gets smalelr, it will eventually&#xa;equal A. In the process of this limit&#xa;you can see that more inormation&#xa;will be gleaned by knowing that B is&#xa;true (given C), than from knowing&#xa;A is true given BC.&#xa;" modifyDate="2010-02-28T12:00:20" color="#ffff00" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.3991370010787487" t="0.272923408845739" />
+     </base>
+     <hl>
+      <quad dx="0.2878443137254902" cx="0.7780403921568627" dy="0.2911237373737375" bx="0.7780403921568627" cy="0.2911237373737375" ax="0.2878443137254902" by="0.3173863636363637" ay="0.3173863636363637" feather="1" />
+      <quad dx="0.7780403921568628" cx="0.8823541176470588" dy="0.2901641414141415" bx="0.8823541176470588" cy="0.2901641414141415" ax="0.7780403921568628" by="0.3177398989898991" ay="0.3177398989898991" feather="1" />
+      <quad dx="0.1176486274509804" cx="0.1580407843137255" dy="0.3084469696969699" bx="0.1580407843137255" cy="0.3084469696969699" ax="0.1176486274509804" by="0.3333964646464648" ay="0.3333964646464648" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:22:57" uniqueName="okular-49-3" author="Marc Ahrens" contents="Prob Theory can be seen as divided&#xa;in to two parts&#xa;1) The less contraversial manner  in&#xa;which probabilities of  combinations&#xa;of events are related to probabilities&#xa;of other combinations&#xa;&#xa;2) The more contraversial question of&#xa;determinining the probabilities of any&#xa;events in the first place.&#xa;&#xa;Thus far we've dealt with part (1).&#xa;We're yet to deal with part (2)." modifyDate="2010-02-28T12:24:49" color="#ff0000" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.6752966558791802" t="0.6170442286947141" />
+     </base>
+     <hl>
+      <quad dx="0.7231439215686268" cx="0.8823592156862745" dy="0.6178409090909092" bx="0.8823592156862745" cy="0.6178409090909092" ax="0.7231439215686268" by="0.6427904040404041" ay="0.6427904040404041" feather="1" />
+      <quad dx="0.1176537254901959" cx="0.5247125490196076" dy="0.6342045454545455" bx="0.5247125490196076" cy="0.6342045454545455" ax="0.1176537254901959" by="0.6591540404040405" ay="0.6591540404040405" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="50" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:19:26" uniqueName="okular-50-1" author="Marc Ahrens" modifyDate="2010-02-28T12:19:36" color="#ff0000" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.4617044228694714" t="0.3732470334412082" />
+     </base>
+     <hl>
+      <quad dx="0.3396086274509804" cx="0.3478439215686275" dy="0.3871035353535354" bx="0.3478439215686275" cy="0.3871035353535354" ax="0.3396086274509804" by="0.3981338383838385" ay="0.3981338383838385" feather="1" />
+      <quad dx="0.3694125490196078" cx="0.3772556862745098" dy="0.3871035353535354" bx="0.3772556862745098" cy="0.3871035353535354" ax="0.3694125490196078" by="0.3981338383838385" ay="0.3981338383838385" feather="1" />
+      <quad dx="0.706275294117647" cx="0.881961568627451" dy="0.3738510101010102" bx="0.881961568627451" cy="0.3738510101010102" ax="0.706275294117647" by="0.4001136363636365" ay="0.4001136363636365" feather="1" />
+      <quad dx="0.1176482352941176" cx="0.3635305882352941" dy="0.3895580808080809" bx="0.3635305882352941" cy="0.3895580808080809" ax="0.1176482352941176" by="0.4171338383838384" ay="0.4171338383838384" feather="1" />
+      <quad dx="0.3635305882352941" cx="0.3733345098039216" dy="0.3964772727272728" bx="0.3733345098039216" cy="0.3964772727272728" ax="0.3635305882352941" by="0.4174873737373739" ay="0.4174873737373739" feather="1" />
+      <quad dx="0.3733345098039216" cx="0.5541188235294116" dy="0.3895580808080809" bx="0.5541188235294116" cy="0.3895580808080809" ax="0.3733345098039216" by="0.4171338383838384" ay="0.4171338383838384" feather="1" />
+      <quad dx="0.2996090196078431" cx="0.3290207843137254" dy="0.4353661616161618" bx="0.3290207843137254" cy="0.4353661616161618" ax="0.2996090196078431" by="0.461628787878788" ay="0.461628787878788" feather="1" />
+      <quad dx="0.3407854901960785" cx="0.4145109803921568" dy="0.4344065656565658" bx="0.4145109803921568" cy="0.4344065656565658" ax="0.3407854901960785" by="0.4619823232323234" ay="0.4619823232323234" feather="1" />
+      <quad dx="0.4145109803921569" cx="0.4270600000000001" dy="0.4413257575757577" bx="0.4270600000000001" cy="0.4413257575757577" ax="0.4145109803921569" by="0.4623358585858587" ay="0.4623358585858587" feather="1" />
+      <quad dx="0.4278443137254901" cx="0.4729423529411765" dy="0.4344065656565658" bx="0.4729423529411765" cy="0.4344065656565658" ax="0.4278443137254901" by="0.4619823232323234" ay="0.4619823232323234" feather="1" />
+      <quad dx="0.4847070588235294" cx="0.4972560784313725" dy="0.4219318181818183" bx="0.4972560784313725" cy="0.4219318181818183" ax="0.4847070588235294" by="0.4429419191919193" ay="0.4429419191919193" feather="1" />
+      <quad dx="0.4780403921568627" cx="0.5039227450980391" dy="0.4274065656565658" bx="0.5039227450980391" cy="0.4274065656565658" ax="0.4780403921568627" by="0.4463156565656567" ay="0.4463156565656567" feather="1" />
+      <quad dx="0.5066678431372549" cx="0.5360796078431374" dy="0.4353661616161618" bx="0.5360796078431374" cy="0.4353661616161618" ax="0.5066678431372549" by="0.461628787878788" ay="0.461628787878788" feather="1" />
+      <quad dx="0.5360796078431372" cx="0.5419619607843137" dy="0.4413257575757577" bx="0.5419619607843137" cy="0.4413257575757577" ax="0.5360796078431372" by="0.4623358585858587" ay="0.4623358585858587" feather="1" />
+      <quad dx="0.5419619607843137" cx="0.5603933333333334" dy="0.4344065656565658" bx="0.5603933333333334" cy="0.4344065656565658" ax="0.5419619607843137" by="0.4619823232323234" ay="0.4619823232323234" feather="1" />
+      <quad dx="0.5611776470588236" cx="0.5792168627450981" dy="0.4353661616161618" bx="0.5792168627450981" cy="0.4353661616161618" ax="0.5611776470588236" by="0.461628787878788" ay="0.461628787878788" feather="1" />
+      <quad dx="0.6176482352941176" cx="0.6266678431372549" dy="0.4363257575757577" bx="0.6266678431372549" cy="0.4363257575757577" ax="0.6176482352941176" by="0.4612752525252526" ay="0.4612752525252526" feather="1" />
+      <quad dx="0.6317658823529412" cx="0.6454913725490196" dy="0.4344065656565658" bx="0.6454913725490196" cy="0.4344065656565658" ax="0.6317658823529412" by="0.4619823232323234" ay="0.4619823232323234" feather="1" />
+      <quad dx="0.650589411764706" cx="0.6662756862745098" dy="0.4353661616161618" bx="0.6662756862745098" cy="0.4353661616161618" ax="0.650589411764706" by="0.461628787878788" ay="0.461628787878788" feather="1" />
+      <quad dx="0.670981568627451" cx="0.6847070588235293" dy="0.4344065656565658" bx="0.6847070588235293" cy="0.4344065656565658" ax="0.670981568627451" by="0.4619823232323234" ay="0.4619823232323234" feather="1" />
+      <quad dx="0.6898050980392157" cx="0.7003933333333334" dy="0.4353661616161618" bx="0.7003933333333334" cy="0.4353661616161618" ax="0.6898050980392157" by="0.461628787878788" ay="0.461628787878788" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:51:21" uniqueName="okular-50-2" author="Marc Ahrens" modifyDate="2010-02-28T12:51:31" color="#ff0000" >
+      <boundary l="0.1168289290681502" r="0.8817802503477051" b="0.7969924812030075" t="0.7207303974221267" />
+     </base>
+     <hl>
+      <quad dx="0.6588270588235294" cx="0.8815721568627449" dy="0.7226893939393941" bx="0.8815721568627449" cy="0.7226893939393941" ax="0.6588270588235294" by="0.7476388888888891" ay="0.7476388888888891" feather="1" />
+      <quad dx="0.117650588235294" cx="0.4568662745098039" dy="0.7390530303030304" bx="0.4568662745098039" cy="0.7390530303030304" ax="0.117650588235294" by="0.7640025252525254" ay="0.7640025252525254" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="2" >
+     <base creationDate="2010-02-28T12:57:23" uniqueName="okular-50-3" author="Marc Ahrens" modifyDate="2010-02-28T12:57:34" color="#ffe000" >
+      <boundary l="0.09874826147426982" r="0.1001390820584145" b="0.924812030075188" t="0.8335123523093448" />
+      <penStyle width="5" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <line>
+      <point x="0.1015299026425591" y="0.8335123523093448" />
+      <point x="0.09874826147426982" y="0.924812030075188" />
+     </line>
+    </annotation>
+    <annotation type="2" >
+     <base creationDate="2010-02-28T12:57:44" uniqueName="okular-50-4" author="Marc Ahrens" modifyDate="2010-02-28T12:57:52" color="#ffe000" >
+      <boundary l="0.1029207232267038" r="0.2364394993045897" b="0.8292158968850698" t="0.8281417830290011" />
+      <penStyle width="5" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <line>
+      <point x="0.1029207232267038" y="0.8302900107411385" />
+      <point x="0.2364394993045897" y="0.8292158968850698" />
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="51" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:58:54" uniqueName="okular-51-1" author="Marc Ahrens" modifyDate="2010-02-28T12:58:54" color="#ffff00" >
+      <boundary l="0.1166666666666667" r="0.8819444444444444" b="0.621244635193133" t="0.546137339055794" />
+     </base>
+     <hl>
+      <quad dx="0.2921599999999999" cx="0.5007874509803921" dy="0.5799621212121213" bx="0.5007874509803921" cy="0.5799621212121213" ax="0.2921599999999999" by="0.6049116161616163" ay="0.6049116161616163" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T12:59:06" uniqueName="okular-51-2" author="Marc Ahrens" modifyDate="2010-02-28T12:59:06" color="#ffff00" >
+      <boundary l="0.1166666666666667" r="0.8819444444444444" b="0.878755364806867" t="0.8369098712446352" />
+     </base>
+     <hl>
+      <quad dx="0.3007901960784313" cx="0.460005882352941" dy="0.8372348484848486" bx="0.460005882352941" cy="0.8372348484848486" ax="0.3007901960784313" by="0.8621843434343436" ay="0.8621843434343436" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="52" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:00:54" uniqueName="okular-52-1" author="Marc Ahrens" modifyDate="2010-02-28T13:00:54" color="#ffff00" >
+      <boundary l="0.1166666666666667" r="0.8819444444444444" b="0.2298603651987111" t="0.1353383458646616" />
+     </base>
+     <hl>
+      <quad dx="0.2494125490196078" cx="0.882353725490196" dy="0.1529924242424244" bx="0.882353725490196" cy="0.1529924242424244" ax="0.2494125490196078" by="0.1779419191919193" ay="0.1779419191919193" feather="1" />
+      <quad dx="0.1176478431372549" cx="0.8819615686274509" dy="0.1693560606060607" bx="0.8819615686274509" cy="0.1693560606060607" ax="0.1176478431372549" by="0.1943055555555556" ay="0.1943055555555556" feather="1" />
+      <quad dx="0.1176478431372549" cx="0.3035301960784313" dy="0.1860227272727274" bx="0.3035301960784313" cy="0.1860227272727274" ax="0.1176478431372549" by="0.2109722222222223" ay="0.2109722222222223" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:07:23" uniqueName="okular-52-2" author="Marc Ahrens" contents="So there is a permutation f(i)=k, s.t.&#xa;p( A_i | B ) = p( A_{f(i)} | B )&#xa;&#xa;&#xa;&#xa;5" modifyDate="2010-02-28T13:07:23" color="#ffff00" >
+      <boundary l="0.4097222222222222" r="0.5861111111111111" b="0.5220193340494093" t="0.4940923737916219" />
+     </base>
+     <hl>
+      <quad dx="0.4109823529411765" cx="0.4403941176470589" dy="0.4950631313131314" bx="0.4403941176470589" cy="0.4950631313131314" ax="0.4109823529411765" by="0.5213257575757577" ay="0.5213257575757577" feather="1" />
+      <quad dx="0.4403941176470588" cx="0.4462764705882353" dy="0.5010227272727273" bx="0.4462764705882353" cy="0.5010227272727273" ax="0.4403941176470588" by="0.5220328282828284" ay="0.5220328282828284" feather="1" />
+      <quad dx="0.4462764705882353" cx="0.4647078431372549" dy="0.4941035353535355" bx="0.4647078431372549" cy="0.4941035353535355" ax="0.4462764705882353" by="0.521679292929293" ay="0.521679292929293" feather="1" />
+      <quad dx="0.4654921568627451" cx="0.4725509803921568" dy="0.4960227272727274" bx="0.4725509803921568" cy="0.4960227272727274" ax="0.4654921568627451" by="0.5209722222222223" ay="0.5209722222222223" feather="1" />
+      <quad dx="0.4725509803921568" cx="0.4917666666666666" dy="0.5010227272727273" bx="0.4917666666666666" cy="0.5010227272727273" ax="0.4725509803921568" by="0.5220328282828284" ay="0.5220328282828284" feather="1" />
+      <quad dx="0.4917666666666666" cx="0.525492156862745" dy="0.4950631313131314" bx="0.525492156862745" cy="0.4950631313131314" ax="0.4917666666666666" by="0.5213257575757577" ay="0.5213257575757577" feather="1" />
+      <quad dx="0.5254921568627451" cx="0.5458843137254903" dy="0.4950631313131314" bx="0.5458843137254903" cy="0.4950631313131314" ax="0.5254921568627451" by="0.5213257575757577" ay="0.5213257575757577" feather="1" />
+      <quad dx="0.5458843137254902" cx="0.5545117647058824" dy="0.5010227272727273" bx="0.5545117647058824" cy="0.5010227272727273" ax="0.5458843137254902" by="0.5220328282828284" ay="0.5220328282828284" feather="1" />
+      <quad dx="0.5545117647058824" cx="0.572943137254902" dy="0.4941035353535355" bx="0.572943137254902" cy="0.4941035353535355" ax="0.5545117647058824" by="0.521679292929293" ay="0.521679292929293" feather="1" />
+      <quad dx="0.5737274509803921" cx="0.5807862745098039" dy="0.4960227272727274" bx="0.5807862745098039" cy="0.4960227272727274" ax="0.5737274509803921" by="0.5209722222222223" ay="0.5209722222222223" feather="1" />
+      <quad dx="0.5807862745098039" cx="0.5870607843137254" dy="0.5010227272727273" bx="0.5870607843137254" cy="0.5010227272727273" ax="0.5807862745098039" by="0.5220328282828284" ay="0.5220328282828284" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:13:14" uniqueName="okular-52-4" author="Marc Ahrens" contents="&quot;n! equivalent problems&quot; means that&#xa;we can stipulate other permuted&#xa;systems after III, called IV, V, VI, etc.&#xa;&#xa;These are simply speculated systems,&#xa;so there is no loss of generality in&#xa;mooting them.&#xa;&#xa;The restictive step is in stating&#xa;&quot;B is indefferent to the A_i&quot;.&#xa;&#xa;That will restrain all n! systems s.t.&#xa;the p(A_i|B) are equal.&#xa;&#xa;This is because there are n!&#xa;perumtations -- call them &#xa;f^1(i)...f^{n!}(i).&#xa;&#xa;Thus for any A_i, there is a&#xa;permutaion to any other of the&#xa;A_i via these n! permutations.&#xa;&#xa;" modifyDate="2010-02-28T13:13:14" color="#ffff00" >
+      <boundary l="0.1172413793103448" r="0.8813793103448276" b="0.5857294994675186" t="0.5271565495207667" />
+     </base>
+     <hl>
+      <quad dx="0.5572568627450979" cx="0.7360803921568627" dy="0.5432449494949496" bx="0.7360803921568627" cy="0.5432449494949496" ax="0.5572568627450979" by="0.5695075757575759" ay="0.5695075757575759" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.5" creationDate="2010-02-28T13:19:41" uniqueName="okular-52-6" author="Marc Ahrens" modifyDate="2010-02-28T13:21:02" color="#ff0000" >
+      <boundary l="0.1131034482758621" r="0.5448275862068965" b="0.670926517571885" t="0.6325878594249201" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,7,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Where B INDIFFERENT
+to the A_i  :]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:21:25" uniqueName="okular-52-7" author="Marc Ahrens" modifyDate="2010-02-28T13:21:33" color="#ff0000" >
+      <boundary l="0.1531034482758621" r="0.4551724137931035" b="0.731629392971246" t="0.6869009584664537" />
+     </base>
+     <hl>
+      <quad dx="0.2596082352941176" cx="0.4552945098039216" dy="0.6878409090909091" bx="0.4552945098039216" cy="0.6878409090909091" ax="0.2596082352941176" by="0.7127904040404041" ay="0.7127904040404041" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="53" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:26:45" uniqueName="okular-53-1" author="Marc Ahrens" contents="Thus far p(x) was a seemingly&#xa;arbitrary function of x, with no&#xa;obvious reason for using p(x) instead&#xa;of x.&#xa;&#xa;Now we have shown&#xa;Base case)&#xa;THE PRINCIPLE OF INDIFFERENCE&#xa;will assign the same values to &#xa;p(A_i | B ) regardless of the form&#xa;of p. We can use it to get starting&#xa;values, as long as B is indifferent to&#xa;the A_i&#xa;&#xa;&#xa;Recursive Case)&#xa;By the product and sum rules, we&#xa;can find formulas for the&#xa;probabilities of ALL the logical&#xa;combinations of the A_i. We know&#xa;&quot;ALL&quot; because the product rule&#xa;gives a formula for AND, and&#xa;the sum rule gives a formula for&#xa;NOT, and these two logical ops&#xa;form a COMPLETE SET of &#xa;logical ops." modifyDate="2010-02-28T13:26:45" color="#ffff00" >
+      <boundary l="0.1172413793103448" r="0.8813793103448276" b="0.2598509052183174" t="0.1693290734824281" />
+     </base>
+     <hl>
+      <quad dx="0.5843145098039215" cx="0.882745882352941" dy="0.1693560606060607" bx="0.882745882352941" cy="0.1693560606060607" ax="0.5843145098039215" by="0.1943055555555556" ay="0.1943055555555556" feather="1" />
+      <quad dx="0.1176482352941176" cx="0.1956874509803921" dy="0.1850631313131315" bx="0.1956874509803921" cy="0.1850631313131315" ax="0.1176482352941176" by="0.2113257575757577" ay="0.2113257575757577" feather="1" />
+      <quad dx="0.1956874509803921" cx="0.8823541176470588" dy="0.1850631313131315" bx="0.8823541176470588" cy="0.1850631313131315" ax="0.1956874509803921" by="0.2113257575757577" ay="0.2113257575757577" feather="1" />
+      <quad dx="0.1176486274509804" cx="0.8823545098039215" dy="0.2014267676767679" bx="0.8823545098039215" cy="0.2014267676767679" ax="0.1176486274509804" by="0.2276893939393941" ay="0.2276893939393941" feather="1" />
+      <quad dx="0.1176490196078431" cx="0.6062764705882352" dy="0.2180934343434345" bx="0.6062764705882352" cy="0.2180934343434345" ax="0.1176490196078431" by="0.2443560606060607" ay="0.2443560606060607" feather="1" />
+      <quad dx="0.1176490196078431" cx="0.5035313725490196" dy="0.2344570707070708" bx="0.5035313725490196" cy="0.2344570707070708" ax="0.1176490196078431" by="0.2607196969696971" ay="0.2607196969696971" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:33:54" uniqueName="okular-53-2" author="Marc Ahrens" modifyDate="2010-02-28T13:33:54" color="#ffff00" >
+      <boundary l="0.1172413793103448" r="0.8813793103448276" b="0.5154419595314164" t="0.4728434504792332" />
+     </base>
+     <hl>
+      <quad dx="0.5031407843137254" cx="0.8827482352941177" dy="0.4731944444444446" bx="0.8827482352941177" cy="0.4731944444444446" ax="0.5031407843137254" by="0.5007702020202021" ay="0.5007702020202021" feather="1" />
+      <quad dx="0.117650588235294" cx="0.7443172549019609" dy="0.4914772727272729" bx="0.7443172549019609" cy="0.4914772727272729" ax="0.117650588235294" by="0.5164267676767678" ay="0.5164267676767678" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:34:05" uniqueName="okular-53-3" author="Marc Ahrens" modifyDate="2010-02-28T13:34:13" color="#ff0000" >
+      <boundary l="0.1517241379310345" r="0.8468965517241379" b="0.4238551650692226" t="0.3759318423855165" />
+     </base>
+     <hl>
+      <quad dx="0.1529443137254901" cx="0.6596109803921567" dy="0.3971338383838385" bx="0.6596109803921567" cy="0.3971338383838385" ax="0.1529443137254901" by="0.4247095959595961" ay="0.4247095959595961" feather="1" />
+      <quad dx="0.6596109803921568" cx="0.8470619607843137" dy="0.3971338383838385" bx="0.8470619607843137" cy="0.3971338383838385" ax="0.6596109803921568" by="0.4247095959595961" ay="0.4247095959595961" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:35:00" uniqueName="okular-53-4" author="Marc Ahrens" modifyDate="2010-02-28T13:35:07" color="#ff0000" >
+      <boundary l="0.1172413793103448" r="0.2096551724137931" b="0.5867944621938233" t="0.5463258785942492" />
+     </base>
+     <hl>
+      <quad dx="0.1176513725490195" cx="0.2098082352941175" dy="0.5465025252525254" bx="0.2098082352941175" cy="0.5465025252525254" ax="0.1176513725490195" by="0.5707954545454547" ay="0.5707954545454547" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:35:15" uniqueName="okular-53-5" author="Marc Ahrens" modifyDate="2010-02-28T13:35:15" color="#ffff00" >
+      <boundary l="0.1172413793103448" r="0.3365517241379311" b="0.6368477103301384" t="0.5953141640042598" />
+     </base>
+     <hl>
+      <quad dx="0.266672156862745" cx="0.3368682352941175" dy="0.5957196969696971" bx="0.3368682352941175" cy="0.5957196969696971" ax="0.266672156862745" by="0.620669191919192" ay="0.620669191919192" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:38:29" uniqueName="okular-53-6" author="Marc Ahrens" contents="The &quot;background info&quot; doesn't say&#xa;some balls are more likely to be&#xa;drawn than others. In fact,&#xa;it says they are the same size and&#xa;weight, which suggests they are&#xa;equally likely.&#xa;&#xa;Whatever the case, we've got no info&#xa;to think that (lambda i,X: p(A_i | X) )&#xa;is a function of X.&#xa;&#xa;NB any probabilities we calculate are&#xa;then dependent on this viewpoint,&#xa;ie&#xa;[[ Calcualted probabilities&#xa;are reliant on our information,&#xa;and thus cannot be anything more&#xa;meaningful than statements about&#xa;our information of the problem. ]]&#xa;" modifyDate="2010-02-28T13:42:31" color="#ff0000" >
+      <boundary l="0.1172413793103448" r="0.8813793103448276" b="0.9318423855165069" t="0.8892438764643238" />
+     </base>
+     <hl>
+      <quad dx="0.6176556862745095" cx="0.8819694117647058" dy="0.8902146464646465" bx="0.8819694117647058" cy="0.8902146464646465" ax="0.6176556862745095" by="0.9164772727272729" ay="0.9164772727272729" feather="1" />
+      <quad dx="0.1176560784313724" cx="0.5662835294117646" dy="0.9078409090909092" bx="0.5662835294117646" cy="0.9078409090909092" ax="0.1176560784313724" by="0.9327904040404041" ay="0.9327904040404041" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="54" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:44:13" uniqueName="okular-54-1" author="Marc Ahrens" contents="Thus we have DERIVED the&#xa;a the statement which is usually&#xa;given as the DEFINITION of probability,&#xa;ie ito FREQUENCIES.&#xa;&#xa;" modifyDate="2010-02-28T13:44:21" color="#ff0000" >
+      <boundary l="0.4303448275862069" r="0.8827586206896552" b="0.443024494142705" t="0.3982960596379126" />
+     </base>
+     <hl>
+      <quad dx="0.4313733333333333" cx="0.4474517647058823" dy="0.4080934343434343" bx="0.4474517647058823" cy="0.4080934343434343" ax="0.4313733333333333" by="0.4343560606060606" ay="0.4343560606060606" feather="1" />
+      <quad dx="0.4474517647058824" cx="0.4792164705882353" dy="0.4071338383838384" bx="0.4792164705882353" cy="0.4071338383838384" ax="0.4474517647058824" by="0.4347095959595959" ay="0.4347095959595959" feather="1" />
+      <quad dx="0.4800007843137254" cx="0.5247066666666667" dy="0.4090530303030303" bx="0.5247066666666667" cy="0.4090530303030303" ax="0.4800007843137254" by="0.4340025252525252" ay="0.4340025252525252" feather="1" />
+      <quad dx="0.5262745098039215" cx="0.5407843137254902" dy="0.4174873737373737" bx="0.5407843137254902" cy="0.4174873737373737" ax="0.5262745098039215" by="0.44375" ay="0.44375" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T16:03:35" uniqueName="okular-54-2" author="Marc Ahrens" contents="Let a=p(A|X) &amp; b=p(B|X), and a&lt;b&#xa;&#xa;then&#xa;p(AB|X) = p(A|X)p(B|AX)&#xa;=a*p(B|AX),&#xa;ie [[ p(AB|X) &lt;= a ]]----(1)&#xa;since p(B|A)&lt;=1&#xa;&#xa;(1) is an UPPER bound. If a+b>1 too we get a LOWER bound:&#xa;p(A+B|X)=a+b - p(AB|X)  ---(2)&#xa;&#xa;p(AB|X)=a+b - p(A+B|X)&#xa;p(AB|X) > 1 - p(A+B|X) ---(3)&#xa;since a+b>1.&#xa;&#xa;Thus, from (1) &amp; (3):&#xa;[[  p(AB|X) \in ( 1 - p(A+B|X) , a ]  ]]  (for a&lt;b &amp; a+b>1)&#xa;&#xa;Similarly we can find bounds on the prob. of disj'n too.&#xa;First let's re-write (1) as&#xa;  p(AB|X) = ae,   where e \in [0,1].&#xa;Using this in (2):&#xa;  p(A+B|X)=a+b - ae   -----(4)&#xa;   =a*(1-e)+b&#xa;since e \in [0,1], so is (1-e), thus the first term is in&#xa;[0,1], and hence&#xa;[[  p(A+B|X) >= b ]]  ---(5)&#xa;&#xa;Moreover, if a+b &lt; 1 , from we can say&#xa;  p(A+B|X) &lt; 1 - ae     w/ e \in [0,1] but unknown, ie&#xa;[[  p(A+B|X) &lt; 1 - a ]] --(6) an UPPER bound &#xa;&#xa;Combining (5) &amp; (6):&#xa;[[    p(A+B|X) \in [ b, 1-a]   ]]  ---(7)  (for a&lt;b &amp; a+b&lt;1)&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" modifyDate="2010-02-28T16:03:35" color="#ffff00" >
+      <boundary l="0.1268965517241379" r="0.8689655172413793" b="0.6336528221512248" t="0.5750798722044729" />
+     </base>
+     <hl>
+      <quad dx="0.6525494117647059" cx="0.72902" dy="0.5920833333333334" bx="0.72902" cy="0.5920833333333334" ax="0.6525494117647059" by="0.6170328282828283" ay="0.6170328282828283" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="55" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:48:48" uniqueName="okular-55-1" author="Marc Ahrens" contents="Consideration of infinite sets must&#xa;not contradict what one obtains&#xa;by deriving expressions for an&#xa;appropriate finite-set problem and&#xa;then observing the expressions as&#xa;the set size is extrapolated to&#xa;infinity." modifyDate="2010-02-28T13:48:48" color="#ffff00" >
+      <boundary l="0.1531034482758621" r="0.8468965517241379" b="0.3333333333333333" t="0.2758253461128861" />
+     </base>
+     <hl>
+      <quad dx="0.1533356862745097" cx="0.8470607843137256" dy="0.276199494949495" bx="0.8470607843137256" cy="0.276199494949495" ax="0.1533356862745097" by="0.3004924242424243" ay="0.3004924242424243" feather="1" />
+      <quad dx="0.1533356862745097" cx="0.8470607843137257" dy="0.2928661616161617" bx="0.8470607843137257" cy="0.2928661616161617" ax="0.1533356862745097" by="0.3171590909090911" ay="0.3171590909090911" feather="1" />
+      <quad dx="0.1533356862745097" cx="0.6517670588235295" dy="0.309229797979798" bx="0.6517670588235295" cy="0.309229797979798" ax="0.1533356862745097" by="0.3335227272727273" ay="0.3335227272727273" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T13:51:36" uniqueName="okular-55-2" author="Marc Ahrens" modifyDate="2010-02-28T13:51:36" color="#ffff00" >
+      <boundary l="0.1172413793103448" r="0.8813793103448276" b="0.5750798722044729" t="0.4472843450479233" />
+     </base>
+     <hl>
+      <quad dx="0.2360827450980392" cx="0.8823572549019608" dy="0.4811742424242426" bx="0.8823572549019608" cy="0.4811742424242426" ax="0.2360827450980392" by="0.5061237373737375" ay="0.5061237373737375" feather="1" />
+      <quad dx="0.1176517647058822" cx="0.1682399999999999" dy="0.4978409090909092" bx="0.1682399999999999" cy="0.4978409090909092" ax="0.1176517647058822" by="0.5227904040404041" ay="0.5227904040404041" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-02-28T17:30:05" uniqueName="okular-55-3" author="Marc Ahrens" modifyDate="2010-02-28T17:30:15" color="#00ff00" >
+      <boundary l="0.1645746164574617" r="0.4142259414225942" b="0.122965087770913" t="0.07119741100323625" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Extend to
+infinite sets]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-02-28T17:32:02" uniqueName="okular-55-4" author="Marc Ahrens" modifyDate="2010-02-28T17:32:16" color="#ff0000" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.8295577130528586" t="0.7713052858683926" />
+     </base>
+     <hl>
+      <quad dx="0.5654968627450979" cx="0.8819674509803922" dy="0.7717803030303032" bx="0.8819674509803922" cy="0.7717803030303032" ax="0.5654968627450979" by="0.7967297979797981" ay="0.7967297979797981" feather="1" />
+      <quad dx="0.1176541176470586" cx="0.6607909803921567" dy="0.7884469696969697" bx="0.6607909803921567" cy="0.7884469696969697" ax="0.1176541176470586" by="0.8133964646464649" ay="0.8133964646464649" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="56" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T12:25:20" uniqueName="okular-56-1" author="Marc Ahrens" contents="Since &quot;false => anything&quot;, the LHS can be a contradictory set of predicates whose conjunction is thus &quot;false&quot;." modifyDate="2010-03-01T12:25:20" color="#ffff00" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.732470334412082" t="0.6537216828478964" />
+     </base>
+     <hl>
+      <quad dx="0.4266670588235293" cx="0.8815690196078431" dy="0.6538510101010101" bx="0.8815690196078431" cy="0.6538510101010101" ax="0.4266670588235293" by="0.6801136363636363" ay="0.6801136363636363" feather="1" />
+      <quad dx="0.1176478431372548" cx="0.1992164705882352" dy="0.6714772727272726" bx="0.1992164705882352" cy="0.6714772727272726" ax="0.1176478431372548" by="0.6964267676767676" ay="0.6964267676767676" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="57" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T12:27:57" uniqueName="okular-57-1" author="Marc Ahrens" modifyDate="2010-03-01T12:27:57" color="#ffff00" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.3398058252427185" t="0.2804746494066883" />
+     </base>
+     <hl>
+      <quad dx="0.3227454901960784" cx="0.8823533333333331" dy="0.2805681818181818" bx="0.8823533333333331" cy="0.2805681818181818" ax="0.3227454901960784" by="0.3055176767676767" ay="0.3055176767676767" feather="1" />
+      <quad dx="0.1176478431372548" cx="0.3666674509803921" dy="0.2972348484848485" bx="0.3666674509803921" cy="0.2972348484848485" ax="0.1176478431372548" by="0.3221843434343434" ay="0.3221843434343434" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T12:28:50" uniqueName="okular-57-2" author="Marc Ahrens" modifyDate="2010-03-01T12:29:00" color="#ff0000" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.3905070118662352" t="0.3149946062567422" />
+     </base>
+     <hl>
+      <quad dx="0.6427462745098037" cx="0.8823541176470586" dy="0.315719696969697" bx="0.8823541176470586" cy="0.315719696969697" ax="0.6427462745098037" by="0.3406691919191919" ay="0.3406691919191919" feather="1" />
+      <quad dx="0.1176482352941176" cx="0.8823541176470584" dy="0.3320833333333334" bx="0.8823541176470584" cy="0.3320833333333334" ax="0.1176482352941176" by="0.3570328282828283" ay="0.3570328282828283" feather="1" />
+      <quad dx="0.1176486274509803" cx="0.7521584313725487" dy="0.3487500000000001" bx="0.7521584313725487" cy="0.3487500000000001" ax="0.1176486274509803" by="0.373699494949495" ay="0.373699494949495" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T12:31:44" uniqueName="okular-57-3" author="Marc Ahrens" modifyDate="2010-03-01T12:33:01" color="#ffff00" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.8295577130528586" t="0.7378640776699029" />
+     </base>
+     <hl>
+      <quad dx="0.1533384313725489" cx="0.8827501960784313" dy="0.7384469696969698" bx="0.8827501960784313" cy="0.7384469696969698" ax="0.1533384313725489" by="0.7633964646464647" ay="0.7633964646464647" feather="1" />
+      <quad dx="0.1176525490196077" cx="0.8827505882352941" dy="0.7551136363636365" bx="0.8827505882352941" cy="0.7551136363636365" ax="0.1176525490196077" by="0.7800631313131314" ay="0.7800631313131314" feather="1" />
+      <quad dx="0.1176525490196077" cx="0.2902015686274508" dy="0.7714772727272727" bx="0.2902015686274508" cy="0.7714772727272727" ax="0.1176525490196077" by="0.7964267676767678" ay="0.7964267676767678" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T12:32:13" uniqueName="okular-57-4" author="Marc Ahrens" modifyDate="2010-03-01T12:32:13" color="#ffff00" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.8478964401294499" t="0.7540453074433657" />
+     </base>
+     <hl>
+      <quad dx="0.1415741176470586" cx="0.5596133333333332" dy="0.7881439393939395" bx="0.5596133333333332" cy="0.7881439393939395" ax="0.1415741176470586" by="0.8130934343434344" ay="0.8130934343434344" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="58" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T14:50:24" uniqueName="okular-58-1" author="Marc Ahrens" contents="Well... not quite. The correspondence&#xa;between sets and logic is usually&#xa;taken to arise from the isomorphism&#xa;between statements&#xa;&#xa;&quot;predicate A is true&quot; &amp; &quot;x is in set A&quot;.&#xa;&#xa;ie the statement &quot;x \in set A&quot; is true&#xa;in the set-theoretical setting&#xa;                   iff &#xa;&quot;predicate A&quot; is true in the logical&#xa;setting.&#xa;&#xa;ie The &quot;predicate A&quot; in the logical&#xa;setting is taken to be the&#xa;statement &quot;x \in A&quot; in the set&#xa;theoretcial setting.&#xa;" modifyDate="2010-03-01T14:50:24" color="#ffff00" >
+      <boundary l="0.1520223152022315" r="0.4825662482566248" b="0.7130528586839266" t="0.668824163969795" />
+     </base>
+     <hl>
+      <quad dx="0.201182745098039" cx="0.4839278431372547" dy="0.6690530303030304" bx="0.4839278431372547" cy="0.6690530303030304" ax="0.201182745098039" by="0.6940025252525254" ay="0.6940025252525254" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="59" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T15:00:50" uniqueName="okular-59-2" author="Marc Ahrens" modifyDate="2010-03-01T15:00:50" color="#ffff00" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.7454153182308522" t="0.6882416396979504" />
+     </base>
+     <hl>
+      <quad dx="0.6854984313725487" cx="0.8823611764705879" dy="0.6884469696969698" bx="0.8823611764705879" cy="0.6884469696969698" ax="0.6854984313725487" by="0.7133964646464648" ay="0.7133964646464648" feather="1" />
+      <quad dx="0.1176552941176469" cx="0.7388317647058821" dy="0.7048106060606063" bx="0.7388317647058821" cy="0.7048106060606063" ax="0.1176552941176469" by="0.7297601010101011" ay="0.7297601010101011" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T15:01:55" uniqueName="okular-59-3" author="Marc Ahrens" modifyDate="2010-03-01T15:02:07" color="#ff0000" >
+      <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.948220064724919" t="0.9072276159654801" />
+     </base>
+     <hl>
+      <quad dx="0.2247168627450978" cx="0.8823635294117643" dy="0.9078409090909092" bx="0.8823635294117643" cy="0.9078409090909092" ax="0.2247168627450978" by="0.9327904040404041" ay="0.9327904040404041" feather="1" />
+      <quad dx="0.117658039215686" cx="0.4329521568627449" dy="0.9242045454545457" bx="0.4329521568627449" cy="0.9242045454545457" ax="0.117658039215686" by="0.9491540404040406" ay="0.9491540404040406" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="560" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T15:52:30" uniqueName="okular-560-1" author="Marc Ahrens" modifyDate="2010-03-01T15:52:30" color="#ffff00" >
+      <boundary l="0.1174825174825175" r="0.8825174825174825" b="0.6360691144708424" t="0.5788336933045356" />
+     </base>
+     <hl>
+      <quad dx="0.1533356862745097" cx="0.8827474509803922" dy="0.5790530303030303" bx="0.8827474509803922" cy="0.5790530303030303" ax="0.1533356862745097" by="0.6040025252525253" ay="0.6040025252525253" feather="1" />
+      <quad dx="0.1176498039215685" cx="0.8823556862745098" dy="0.5940732323232324" bx="0.8823556862745098" cy="0.5940732323232324" ax="0.1176498039215685" by="0.6208611111111112" ay="0.6208611111111112" feather="1" />
+      <quad dx="0.1176501960784313" cx="0.428238431372549" dy="0.6120833333333334" bx="0.428238431372549" cy="0.6120833333333334" ax="0.1176501960784313" by="0.6370328282828284" ay="0.6370328282828284" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="561" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T15:55:33" uniqueName="okular-561-1" author="Marc Ahrens" modifyDate="2010-03-01T15:55:33" color="#ffff00" >
+      <boundary l="0.1174033149171271" r="0.8812154696132597" b="0.3980789754535752" t="0.304162219850587" />
+     </base>
+     <hl>
+      <quad dx="0.1533356862745097" cx="0.881570980392157" dy="0.3229924242424244" bx="0.881570980392157" cy="0.3229924242424244" ax="0.1533356862745097" by="0.3479419191919193" ay="0.3479419191919193" feather="1" />
+      <quad dx="0.1176498039215686" cx="0.1470615686274509" dy="0.3383156565656567" bx="0.1470615686274509" cy="0.3383156565656567" ax="0.1176498039215686" by="0.3651035353535355" ay="0.3651035353535355" feather="1" />
+      <quad dx="0.1470615686274509" cx="0.1541203921568627" dy="0.339659090909091" bx="0.1541203921568627" cy="0.339659090909091" ax="0.1470615686274509" by="0.364608585858586" ay="0.364608585858586" feather="1" />
+      <quad dx="0.1541203921568627" cx="0.1611792156862744" dy="0.3438914141414143" bx="0.1611792156862744" cy="0.3438914141414143" ax="0.1541203921568627" by="0.3659520202020203" ay="0.3659520202020203" feather="1" />
+      <quad dx="0.1619635294117646" cx="0.2066694117647058" dy="0.3383156565656567" bx="0.2066694117647058" cy="0.3383156565656567" ax="0.1619635294117646" by="0.3651035353535355" ay="0.3651035353535355" feather="1" />
+      <quad dx="0.2066694117647058" cx="0.2137282352941176" dy="0.3438914141414143" bx="0.2137282352941176" cy="0.3438914141414143" ax="0.2066694117647058" by="0.3659520202020203" ay="0.3659520202020203" feather="1" />
+      <quad dx="0.2141203921568627" cx="0.6066666666666667" dy="0.3377398989898991" bx="0.6066666666666667" cy="0.3377398989898991" ax="0.2141203921568627" by="0.3653156565656567" ay="0.3653156565656567" feather="1" />
+      <quad dx="0.6066666666666667" cx="0.6137254901960785" dy="0.3438914141414142" bx="0.6137254901960785" cy="0.3438914141414142" ax="0.6066666666666667" by="0.3659520202020202" ay="0.3659520202020202" feather="1" />
+      <quad dx="0.6145098039215687" cx="0.6623529411764706" dy="0.3383156565656565" bx="0.6623529411764706" cy="0.3383156565656565" ax="0.6145098039215687" by="0.3651035353535353" ay="0.3651035353535353" feather="1" />
+      <quad dx="0.6623529411764706" cx="0.6694117647058824" dy="0.3438914141414142" bx="0.6694117647058824" cy="0.3438914141414142" ax="0.6623529411764706" by="0.3659520202020202" ay="0.3659520202020202" feather="1" />
+      <quad dx="0.6701960784313726" cx="0.8815686274509802" dy="0.337739898989899" bx="0.8815686274509802" cy="0.337739898989899" ax="0.6701960784313726" by="0.3653156565656566" ay="0.3653156565656566" feather="1" />
+      <quad dx="0.1176470588235294" cx="0.2580392156862745" dy="0.3560227272727272" bx="0.2580392156862745" cy="0.3560227272727272" ax="0.1176470588235294" by="0.3809722222222222" ay="0.3809722222222222" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-01T15:56:29" uniqueName="okular-561-2" author="Marc Ahrens" modifyDate="2010-03-01T15:56:41" color="#ff0000" >
+      <boundary l="0.1174033149171271" r="0.8812154696132597" b="0.4300960512273213" t="0.3543223052294557" />
+     </base>
+     <hl>
+      <quad dx="0.5125490196078429" cx="0.7658823529411765" dy="0.3546792929292928" bx="0.7658823529411765" cy="0.3546792929292928" ax="0.5125490196078429" by="0.3814671717171716" ay="0.3814671717171716" feather="1" />
+      <quad dx="0.7658823529411766" cx="0.8823529411764706" dy="0.3546792929292928" bx="0.8823529411764706" cy="0.3546792929292928" ax="0.7658823529411766" by="0.3814671717171716" ay="0.3814671717171716" feather="1" />
+      <quad dx="0.1176474509803921" cx="0.6713729411764705" dy="0.3713459595959596" bx="0.6713729411764705" cy="0.3713459595959596" ax="0.1176474509803921" by="0.3981338383838384" ay="0.3981338383838384" feather="1" />
+      <quad dx="0.6713729411764706" cx="0.8819611764705884" dy="0.3707702020202021" bx="0.8819611764705884" cy="0.3707702020202021" ax="0.6713729411764706" by="0.3983459595959596" ay="0.3983459595959596" feather="1" />
+      <quad dx="0.1176478431372548" cx="0.882353725490196" dy="0.3871338383838384" bx="0.882353725490196" cy="0.3871338383838384" ax="0.1176478431372548" by="0.4147095959595959" ay="0.4147095959595959" feather="1" />
+      <quad dx="0.1176482352941176" cx="0.4403933333333332" dy="0.405719696969697" bx="0.4403933333333332" cy="0.405719696969697" ax="0.1176482352941176" by="0.4306691919191919" ay="0.4306691919191919" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T20:58:18" uniqueName="okular-561-3" author="Marc Ahrens" modifyDate="2010-03-04T20:58:18" color="#ffff00" >
+      <boundary l="0.1166666666666667" r="0.8819444444444444" b="0.8861439312567132" t="0.7099892588614393" />
+     </base>
+     <hl>
+      <quad dx="0.2015752941176469" cx="0.8768694117647058" dy="0.8120833333333333" bx="0.8768694117647058" cy="0.8120833333333333" ax="0.2015752941176469" by="0.8370328282828283" ay="0.8370328282828283" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="562" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T20:58:56" uniqueName="okular-562-1" author="Marc Ahrens" modifyDate="2010-03-04T20:58:56" color="#ffff00" >
+      <boundary l="0.1166666666666667" r="0.8819444444444444" b="0.2481203007518797" t="0.1740064446831364" />
+     </base>
+     <hl>
+      <quad dx="0.1533341176470588" cx="0.8827458823529413" dy="0.1742045454545456" bx="0.8827458823529413" cy="0.1742045454545456" ax="0.1533341176470588" by="0.1991540404040405" ay="0.1991540404040405" feather="1" />
+      <quad dx="0.1176482352941176" cx="0.7682364705882351" dy="0.1908712121212123" bx="0.7682364705882351" cy="0.1908712121212123" ax="0.1176482352941176" by="0.2158207070707072" ay="0.2158207070707072" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T20:59:50" uniqueName="okular-562-2" author="Marc Ahrens" modifyDate="2010-03-04T21:00:01" color="#ff0000" >
+      <boundary l="0.1166666666666667" r="0.8819444444444444" b="0.3361976369495167" t="0.2234156820622986" />
+     </base>
+     <hl>
+      <quad dx="0.1176482352941176" cx="0.8827462745098039" dy="0.2239015151515153" bx="0.8827462745098039" cy="0.2239015151515153" ax="0.1176482352941176" by="0.2488510101010102" ay="0.2488510101010102" feather="1" />
+      <quad dx="0.1176486274509804" cx="0.8823545098039215" dy="0.2405681818181818" bx="0.8823545098039215" cy="0.2405681818181818" ax="0.1176486274509804" by="0.2655176767676768" ay="0.2655176767676768" feather="1" />
+      <quad dx="0.1176486274509804" cx="0.8815701960784315" dy="0.2569318181818183" bx="0.8815701960784315" cy="0.2569318181818183" ax="0.1176486274509804" by="0.2818813131313132" ay="0.2818813131313132" feather="1" />
+      <quad dx="0.1176490196078431" cx="0.1858843137254901" dy="0.273598484848485" bx="0.1858843137254901" cy="0.273598484848485" ax="0.1176490196078431" by="0.2985479797979799" ay="0.2985479797979799" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T21:00:48" uniqueName="okular-562-3" author="Marc Ahrens" modifyDate="2010-03-04T21:00:58" color="#ff0000" >
+      <boundary l="0.1166666666666667" r="0.8819444444444444" b="0.3856068743286789" t="0.3276047261009667" />
+     </base>
+     <hl>
+      <quad dx="0.6200027450980392" cx="0.8451007843137255" dy="0.3281439393939394" bx="0.8451007843137255" cy="0.3281439393939394" ax="0.6200027450980392" by="0.3530934343434344" ay="0.3530934343434344" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="563" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T21:08:29" uniqueName="okular-563-1" author="Marc Ahrens" modifyDate="2010-03-04T21:08:29" color="#ffff00" >
+      <boundary l="0.116991643454039" r="0.8816155988857939" b="0.4897739504843918" t="0.4316469321851453" />
+     </base>
+     <hl>
+      <quad dx="0.5317694117647057" cx="0.8827498039215687" dy="0.4320833333333334" bx="0.8827498039215687" cy="0.4320833333333334" ax="0.5317694117647057" by="0.4570328282828284" ay="0.4570328282828284" feather="1" />
+      <quad dx="0.117652156862745" cx="0.5227501960784312" dy="0.4487500000000001" bx="0.5227501960784312" cy="0.4487500000000001" ax="0.117652156862745" by="0.473699494949495" ay="0.473699494949495" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T21:10:10" uniqueName="okular-563-2" author="Marc Ahrens" modifyDate="2010-03-04T21:10:10" color="#ffff00" >
+      <boundary l="0.116991643454039" r="0.8816155988857939" b="0.9117330462863293" t="0.8051668460710442" />
+     </base>
+     <hl>
+      <quad dx="0.2764792156862743" cx="0.8819694117647058" dy="0.8054166666666668" bx="0.8819694117647058" cy="0.8054166666666668" ax="0.2764792156862743" by="0.8303661616161617" ay="0.8303661616161617" feather="1" />
+      <quad dx="0.1176556862745096" cx="0.8823615686274507" dy="0.8217803030303032" bx="0.8823615686274507" cy="0.8217803030303032" ax="0.1176556862745096" by="0.8467297979797982" ay="0.8467297979797982" feather="1" />
+      <quad dx="0.1176560784313724" cx="0.8819698039215685" dy="0.8384469696969697" bx="0.8819698039215685" cy="0.8384469696969697" ax="0.1176560784313724" by="0.8633964646464647" ay="0.8633964646464647" feather="1" />
+      <quad dx="0.1176564705882351" cx="0.8819698039215685" dy="0.8548106060606062" bx="0.8819698039215685" cy="0.8548106060606062" ax="0.1176564705882351" by="0.8797601010101012" ay="0.8797601010101012" feather="1" />
+      <quad dx="0.1176564705882351" cx="0.2509898039215684" dy="0.8714772727272729" bx="0.2509898039215684" cy="0.8714772727272729" ax="0.1176564705882351" by="0.8964267676767679" ay="0.8964267676767679" feather="1" />
+      <quad dx="0.1176568627450978" cx="0.2537352941176468" dy="0.8878409090909092" bx="0.2537352941176468" cy="0.8878409090909092" ax="0.1176568627450978" by="0.9127904040404041" ay="0.9127904040404041" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="564" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-04T21:11:46" uniqueName="okular-564-1" author="Marc Ahrens" modifyDate="2010-03-04T21:11:46" color="#ffff00" >
+      <boundary l="0.116991643454039" r="0.8816155988857939" b="0.2820236813778256" t="0.1883745963401507" />
+     </base>
+     <hl>
+      <quad dx="0.1619615686274509" cx="0.8819615686274507" dy="0.1890530303030304" bx="0.8819615686274507" cy="0.1890530303030304" ax="0.1619615686274509" by="0.2140025252525253" ay="0.2140025252525253" feather="1" />
+      <quad dx="0.1176482352941176" cx="0.8823541176470586" dy="0.2054166666666668" bx="0.8823541176470586" cy="0.2054166666666668" ax="0.1176482352941176" by="0.2303661616161617" ay="0.2303661616161617" feather="1" />
+      <quad dx="0.1176486274509804" cx="0.4372564705882354" dy="0.2220833333333334" bx="0.4372564705882354" cy="0.2220833333333334" ax="0.1176486274509804" by="0.2470328282828283" ay="0.2470328282828283" feather="1" />
+     </hl>
+    </annotation>
    </annotationList>
   </page>
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="44;C2:0.4995:0.804682:1" />
-   <oldPage viewport="45;C2:0.4995:0.804272:1" />
-   <oldPage viewport="46;C2:0.4995:0.804818:1" />
-   <oldPage viewport="47;C2:0.4995:0.804545:1" />
-   <oldPage viewport="48;C2:0.4995:0.804135:1" />
-   <oldPage viewport="49;C2:0.4995:0.194755:1" />
-   <oldPage viewport="48;C2:0.4995:0.804135:1" />
-   <oldPage viewport="49;C2:0.4995:0:1" />
-   <oldPage viewport="48;C2:0.4995:1:1" />
-   <oldPage viewport="49;C2:0.4995:0:1" />
-   <current viewport="48;C2:0.4995:0.389551:1" />
+   <oldPage viewport="39;C2:0.499382:1:1" />
+   <oldPage viewport="40;C2:0.499382:0.757589:1" />
+   <oldPage viewport="41;C2:0.5:0.240086:1" />
+   <oldPage viewport="40;C2:0.5:1:1" />
+   <oldPage viewport="41;C2:0.5:0.759052:1" />
+   <oldPage viewport="42;C2:0.499383:0.240086:1" />
+   <oldPage viewport="41;C2:0.5:0.759052:1" />
+   <oldPage viewport="42;C2:0.499383:0.240086:1" />
+   <oldPage viewport="41;C2:0.5:0.240086:1" />
+   <oldPage viewport="40;C2:0.5:1:1" />
+   <current viewport="41;C2:0.5:0:1" />
   </history>
   <views>
    <view name="PageView" >
-    <zoom mode="1" value="1.635620951652527" />
+    <zoom mode="0" value="1.60372006893158" />
    </view>
   </views>
  </generalInfo>
