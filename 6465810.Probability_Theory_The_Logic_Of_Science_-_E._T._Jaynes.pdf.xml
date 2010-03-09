@@ -143,7 +143,7 @@ statement of assoc.]]></escapedText>
       <boundary l="0.6214285714285714" r="0.6514285714285715" b="0.7710007880220646" t="0.747832939322301" />
       <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
      </base>
-     <text font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+     <text icon="Note" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
     </annotation>
     <annotation type="4" >
      <base creationDate="2010-03-05T15:07:18" uniqueName="okular-40-7" author="Marc Ahrens" modifyDate="2010-03-05T15:07:18" color="#ffff00" >
@@ -172,7 +172,7 @@ don't know its form]]></escapedText>
      </text>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-03-05T13:55:36" uniqueName="okular-41-5" author="Marc Ahrens" contents="Proof:&#xa;If G1(x,y)G2(y,z) is indep of y, then it must have factors being f'ns of y that cancel, so their forms are thus:&#xa;G1(x,y)=QA(x)B(y) &amp; G2(y,z)=RH(y)C(z)&#xa;s.t. QRB(y)H(y) = D =indep of y.&#xa;&#xa;Thus, B(y)=D/QRH(y) &#xa;&amp; so G1(x,y)=DA(x)/RH(y)  ---(1)&#xa;&#xa;Now, if G1=G2, then (using args x,y for both):&#xa;   DA(x)/RH(y) = RH(x)C(y)&#xa;ie DA(x)/H(x) = R^2H(y)C(y)&#xa;NB LHS is f'n of x alone, and RHS is f'n of y alone,&#xa;Thus, both sides must equal some constant X,&#xa;&#xa;So A(x)=XH(x)/D  ---(2)&#xa;&#xa;(1)&amp;(2) give&#xa;G(x,y)=G1(x,y)=XH(x)/RH(y)&#xa;&#xa;And defining r=X/R we get the result&#xa;[[   G(x,y)=rH(x)/H(y)   ]]&#xa;&#xa;" modifyDate="2010-03-05T13:55:59" color="#ff0000" >
+     <base creationDate="2010-03-05T13:55:36" uniqueName="okular-41-5" author="Marc Ahrens" contents="Proof:&#xa;If G1(x,y)G2(y,z) is indep of y, then it must have factors&#xa;being f'ns of y that cancel, so their forms are thus:&#xa;G1(x,y)=QA(x)B(y) &amp; G2(y,z)=RH(y)C(z)&#xa;s.t. QRB(y)H(y) = D =indep of y.&#xa;&#xa;( NB G1,G2 do not connote deriv.s, just 2 different f'ns.&#xa;NB Q,R,D are defined to be consts. )&#xa;&#xa;Thus, B(y)=D/QRH(y) &#xa;&amp; so G1(x,y)=DA(x)/RH(y)  ---(1)&#xa;&#xa;Now, if G1=G2, then (using args x,y for both):&#xa;   DA(x)/RH(y) = RH(x)C(y)&#xa;ie DA(x)/H(x) = R^2H(y)C(y)&#xa;NB LHS is f'n of x alone, and RHS is f'n of y alone,&#xa;Thus, both sides must equal some constant X,&#xa;&#xa;So A(x)=XH(x)/D  ---(2)&#xa;&#xa;(1)&amp;(2) give&#xa;G(x,y)=G1(x,y)=XH(x)/RH(y)&#xa;&#xa;And defining r=X/R we get the result&#xa;[[   G(x,y)=rH(x)/H(y)   ]]&#xa;&#xa;NB We're hiding F here. The above result is really&#xa;the following, about F:&#xa;[[   F2(x,y)/F1(x,y) = rH(x)/H(y)   ]]&#xa;&#xa;" modifyDate="2010-03-05T13:55:59" color="#ff0000" >
       <boundary l="0.4250764525993884" r="0.8827726809378186" b="0.5700787401574803" t="0.5251968503937008" />
      </base>
      <hl>
@@ -190,6 +190,87 @@ don't know its form]]></escapedText>
       <quad dx="0.3223529411764706" cx="0.4890196078431372" dy="0.3892550505050507" bx="0.4890196078431372" cy="0.3892550505050507" ax="0.3223529411764706" by="0.4168308080808082" ay="0.4168308080808082" feather="1" />
       <quad dx="0.4890196078431373" cx="0.496078431372549" dy="0.4034671717171718" bx="0.496078431372549" cy="0.4034671717171718" ax="0.4890196078431373" by="0.4144974747474748" ay="0.4144974747474748" feather="1" />
       <quad dx="0.4964705882352942" cx="0.5384313725490196" dy="0.3902146464646466" bx="0.5384313725490196" cy="0.3902146464646466" ax="0.4964705882352942" by="0.4164772727272729" ay="0.4164772727272729" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-07T17:21:56" uniqueName="okular-41-9" author="Marc Ahrens" contents="NB From eq2-4 to here, the intention&#xa;has been to find the general form of&#xa;F, which is a f'n defined to be&#xa;1) associative, and&#xa;2) a monotonic f'n of both args.&#xa;&#xa;The result at this point is&#xa;&quot;G(x,y)G(y,z) is indep of y&quot;,&#xa;ie&#xa;[[  D/Dy{ F2(x,y)/F1(x,y)*F2(y,z)/F1(y,z) }  ]]&#xa;&#xa;Getting to this point has been a convincing, but&#xa;unmotivated (except that the end justify the&#xa;means) sequence of tricks.&#xa;&#xa;Below, &quot;u_x&quot; means &quot;partial deriv. of u wrt x&quot;,&#xa;etc.&#xa;&#xa;A simpler proof of this result could be to start from&#xa;0=[ x_z ]_y   ----(1)&#xa;I'm not sure what &quot;x_z&quot; means -- after all, they're&#xa;both &quot;independent&quot; variables, and so bear no fixed&#xa;relationship. Nevertheless, a posteriori, one could&#xa;always assign some functional relationship between&#xa;them that reflects observations. Perhaps this is&#xa;too philosophical, though, as the role of&#xa;&quot;partial derivatives&quot; I only know to be rigorously&#xa;defined in to ultimately write derivatives of&#xa;dependent var.s as f'ns of independent ones.&#xa;&#xa;(1), though suggests that the relationship between&#xa;x and z is independent of y. This is an even more&#xa;likely assertion of independence.&#xa;&#xa;Anyway, assuming (1), then&#xa;0=[ x_z ]_y&#xa;=[ x_y *y_z ]_y    (introducing y)&#xa;=[ x_u*u_y  *  y_v*v_z ]_y&#xa;where we introduced u=F(x,y) &amp; v=F(y,z) in such a way that u is only in&#xa;factors containing x or y, and v is only in factors containing y or z.&#xa;Noting x_u=1/u_x &amp; y_v=1/v_y, this gives&#xa;0=[ u_y/u_x  *  v_z/v_y ]_y&#xa;&#xa;[[ 0=[ F2(x,y)/F1(x,y)  *  F2(y,z)/F2(y,z) ]_y  ]]  which is the result&#xa;that then implies&#xa;F2(x,y)/F1(x,y) = r H(x)/H(y)&#xa;as eq2-10 suggests.&#xa;&#xa;" modifyDate="2010-03-07T17:21:56" color="#ffff00" >
+      <boundary l="0.1172273190621815" r="0.8817533129459735" b="0.5338582677165354" t="0.4748031496062992" />
+     </base>
+     <hl>
+      <quad dx="0.161961568627451" cx="0.2486282352941176" dy="0.4917297979797981" bx="0.2486282352941176" cy="0.4917297979797981" ax="0.161961568627451" by="0.5179924242424244" ay="0.5179924242424244" feather="1" />
+      <quad dx="0.2486282352941176" cx="0.5007850980392157" dy="0.4917297979797981" bx="0.5007850980392157" cy="0.4917297979797981" ax="0.2486282352941176" by="0.5179924242424244" ay="0.5179924242424244" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-07T18:14:19" uniqueName="okular-41-10" author="Marc Ahrens" modifyDate="2010-03-07T18:14:38" color="#ffff00" >
+      <boundary l="0.2069317023445464" r="0.4209839899262457" b="0.5981169967390439" t="0.5236220472440944" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,7,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[F2(x,y)        H(x)
+----------- = r -------
+F1(x,y)        H(y)]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-07T18:16:05" uniqueName="okular-41-11" author="Marc Ahrens" contents="Buiding up an alternative deriv'n&#xa;of eq 2-13, using other noted&#xa;alternatives above, we continue the&#xa;alternative deriv'n:&#xa;&#xa;(NB below &quot;v_q&quot; means partial diff'n of v wrt q)&#xa;&#xa;v=F(y,z)  (by def'n)&#xa;v_q=F1(y,z)*y_q+F2(y,z)*z_q &#xa;ie&#xa;dv = F1(y,z)*dy + F2(y,z)*dz&#xa;&#xa;Using eq 2-10 to factorize, which is F2(y,z)/F1(y,z)=rH(y)/H(z),&#xa;we get&#xa;dv = F1(y,z){ dy+rH(y)/H(z)*dz }&#xa;dv = F1(y,z)H(y){ dy/H(y)+r*dz/H(z) }   ------(1)&#xa;&#xa;Taking the statement of associativity,&#xa;F(u,z) = F(x,v)    (req'ment eq2-6)  ------(2)&#xa;we produce [ (2) ]_y / [ (2) ]_x   to get:&#xa;F2(x,v)/F1(x,v)  * F1(y,z)  =  F2(x,y)/F1(x,y)&#xa;ie&#xa;H(x)/H(v)  * F1(y,z)  =  H(x)/H(y)&#xa;ie ( H(x) cancels )&#xa;H(y)  * F1(y,z)  =  H(v)         --------(3)&#xa;&#xa;Using (3) in (1), we get&#xa;&#xa;[[   dv/H(v) = dy/H(y)  +  r*dz/H(z)  ]]    (eq2-13 )&#xa;&#xa;" modifyDate="2010-03-07T18:16:05" color="#ffff00" >
+      <boundary l="0.3944954128440367" r="0.6044852191641182" b="0.7866141732283465" t="0.7417322834645669" />
+     </base>
+     <hl>
+      <quad dx="0.4050988235294117" cx="0.4470588235294118" dy="0.7420328282828283" bx="0.4470588235294118" cy="0.7420328282828283" ax="0.4050988235294117" by="0.7682954545454546" ay="0.7682954545454546" feather="1" />
+      <quad dx="0.4470588235294118" cx="0.4847058823529412" dy="0.7523863636363636" bx="0.4847058823529412" cy="0.7523863636363636" ax="0.4470588235294118" by="0.7773358585858585" ay="0.7773358585858585" feather="1" />
+      <quad dx="0.4847058823529412" cx="0.5254901960784314" dy="0.7420328282828283" bx="0.5254901960784314" cy="0.7420328282828283" ax="0.4847058823529412" by="0.7682954545454546" ay="0.7682954545454546" feather="1" />
+      <quad dx="0.5254901960784314" cx="0.5764705882352942" dy="0.7514267676767676" bx="0.5764705882352942" cy="0.7514267676767676" ax="0.5254901960784314" by="0.7776893939393941" ay="0.7776893939393941" feather="1" />
+      <quad dx="0.5764705882352942" cx="0.5941176470588235" dy="0.7420328282828283" bx="0.5941176470588235" cy="0.7420328282828283" ax="0.5764705882352942" by="0.7682954545454546" ay="0.7682954545454546" feather="1" />
+      <quad dx="0.3949019607843137" cx="0.5141176470588236" dy="0.7608207070707071" bx="0.5141176470588236" cy="0.7608207070707071" ax="0.3949019607843137" by="0.7870833333333334" ay="0.7870833333333334" feather="1" />
+      <quad dx="0.5658823529411765" cx="0.6054901960784314" dy="0.7608207070707071" bx="0.6054901960784314" cy="0.7608207070707071" ax="0.5658823529411765" by="0.7870833333333334" ay="0.7870833333333334" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-09T12:40:51" uniqueName="okular-41-15" author="Marc Ahrens" modifyDate="2010-03-09T12:41:01" color="#ffff00" >
+      <boundary l="0.6483180428134556" r="1.004527193140253" b="0.8838363954505687" t="0.7866141732283465" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[eq2-14's form also implies:
+
+w(F(x,y))=w(u)=w(y)w^r(z)
+w(F(u,z))=w(u)w^r(z)
+w(F(x,v))=w(x)w^r(v)]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-09T12:42:11" uniqueName="okular-41-16" author="Marc Ahrens" contents="This follows from the assoc. req'ment,&#xa;which now is w(F(u,z))=w(F(v,z)). Then&#xa;expand each side using the form of&#xa;eq2-14." modifyDate="2010-03-09T12:42:11" color="#ffff00" >
+      <boundary l="0.1172273190621815" r="0.8817533129459735" b="0.9488188976377953" t="0.905511811023622" />
+     </base>
+     <hl>
+      <quad dx="0.6184317647058823" cx="0.6313729411764706" dy="0.9068813131313131" bx="0.6313729411764706" cy="0.9068813131313131" ax="0.6184317647058823" by="0.9331439393939394" ay="0.9331439393939394" feather="1" />
+      <quad dx="0.6317650980392157" cx="0.6690199999999999" dy="0.9068813131313131" bx="0.6690199999999999" cy="0.9068813131313131" ax="0.6317650980392157" by="0.9331439393939394" ay="0.9331439393939394" feather="1" />
+      <quad dx="0.6694125490196078" cx="0.6768635294117646" dy="0.9055681818181819" bx="0.6768635294117646" cy="0.9055681818181819" ax="0.6694125490196078" by="0.9265782828282828" ay="0.9265782828282828" feather="1" />
+      <quad dx="0.6768635294117646" cx="0.7368635294117647" dy="0.9068813131313131" bx="0.7368635294117647" cy="0.9068813131313131" ax="0.6768635294117646" by="0.9331439393939394" ay="0.9331439393939394" feather="1" />
+      <quad dx="0.7372556862745098" cx="0.7745105882352941" dy="0.9068813131313131" bx="0.7745105882352941" cy="0.9068813131313131" ax="0.7372556862745098" by="0.9331439393939394" ay="0.9331439393939394" feather="1" />
+      <quad dx="0.7749027450980392" cx="0.7823537254901961" dy="0.9055681818181819" bx="0.7823537254901961" cy="0.9055681818181819" ax="0.7749027450980392" by="0.9265782828282828" ay="0.9265782828282828" feather="1" />
+      <quad dx="0.7823537254901961" cx="0.8054909803921568" dy="0.9068813131313131" bx="0.8054909803921568" cy="0.9068813131313131" ax="0.7823537254901961" by="0.9331439393939394" ay="0.9331439393939394" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-09T12:47:16" uniqueName="okular-41-17" author="Marc Ahrens" contents="To make sense of the integral, consider that v=(y,z)&#xa;describes a surface in 3D space. The more informative&#xa;form of eq2-13 is:&#xa;&#xa;1/H(v)*v_t = 1/H(y)*y_t + 1/H(z)*z_t  (eq2-13)&#xa;where v_t=deriv. of v wrt parameter t.&#xa;&#xa;With this parameter, y=y(t) &amp; z=z(t) and v=v(t)=v(y(t),z(t)) are all f'ns of t.&#xa;&#xa;Then integrating the form of eq2-13 above from t0 to t1 amounts to&#xa;integrating the integrands along a parameterized path, {t|for t in [t0..t1]}&#xa;in the y-z plane. It becomes&#xa;&#xa;[[ S{ 1/H(v)*v_t} = S{1/H(y)*y_t} +S 1/H(z)*z_t} ]] where S{X}=\int_{t=t0}^t={t1}dt X&#xa;&#xa;eq2-15 is missleading because it defines w(x) by putting 'x' as the upper limit of integration. In fact, it should simply be defined with fith fixed limits of the parameter, both upper and lower.&#xa;&#xa;'x' enters the definition of w(x) because w(x) is then a FUNCTIONAL -- a function of a FUNCTION (y, z, v, etc) that outputs a NUMBER.&#xa;&#xa;The definition of w(x) that makes more sense, then, is w(x) = exp( S{1/H(x) x_t } ) which has the limits bound up in the definition of S.&#xa;&#xa;Now to address the claim of an &quot;...arbitrary multiplicative factor in w&quot;: Give the above, more rigorous definition of w(x), you can then define an intermediate value t2 s.t. t0&lt;t2&lt;t1, and thereby define&#xa;T{X}=\int_{t=t0}^t={t2}dt X&#xa;U{X}=\int_{t=t2}^t={t1}dt X&#xa;which means exp(S{X})=exp(T{X})+exp(U{X}).&#xa;&#xa;Trying to get cancellation of factors in eq2-14 involving the t0 limit, leaving t1 &amp; t2 only, and hence showing that the &quot;lower limit is aribrary&quot; (as is, in fact, the upper limit) WILL ONLY WORK WHEN r=1, which then allows cancellations to&#xa;occur.&#xa;&#xa;Thus, r=1 IS A REQIUREMENT FOR eq 2-14 TO BE WRITTEN WITHOUT INTEGRATION LIMITS AS IT IS, but r=1 is ONLY DERIVED AS A CONSEQUENCE OF eq2-14. Thus, that &quot;r=1&quot; needs a different justification.&#xa;" modifyDate="2010-03-09T13:15:20" color="#ff0000" >
+      <boundary l="0.1172273190621815" r="0.8817533129459735" b="0.9488188976377953" t="0.889763779527559" />
+     </base>
+     <hl>
+      <quad dx="0.1176470588235293" cx="0.4537254901960783" dy="0.8911742424242424" bx="0.4537254901960783" cy="0.8911742424242424" ax="0.1176470588235293" by="0.9161237373737373" ay="0.9161237373737373" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-09T13:16:23" uniqueName="okular-41-18" author="Marc Ahrens" contents="This is a very unclear definition. Using&#xa;parameter t, a clearer definition of&#xa;w(x) is as a functional&#xa;w(x) = exp{\int_{t0}^{t1} 1/H(x) x_t dt }.&#xa;" modifyDate="2010-03-09T13:18:24" color="#ff0000" >
+      <boundary l="0.4057084607543323" r="0.5728848114169215" b="0.8858267716535433" t="0.8401574803149606" />
+     </base>
+     <hl>
+      <quad dx="0.4066666666666667" cx="0.4196078431372549" dy="0.8502146464646465" bx="0.4196078431372549" cy="0.8502146464646465" ax="0.4066666666666667" by="0.8764772727272728" ay="0.8764772727272728" feather="1" />
+      <quad dx="0.4199999999999999" cx="0.4270588235294117" dy="0.8511742424242424" bx="0.4270588235294117" cy="0.8511742424242424" ax="0.4199999999999999" by="0.8761237373737374" ay="0.8761237373737374" feather="1" />
+      <quad dx="0.4270588235294118" cx="0.4945098039215686" dy="0.8492550505050506" bx="0.4945098039215686" cy="0.8492550505050506" ax="0.4270588235294118" by="0.8768308080808082" ay="0.8768308080808082" feather="1" />
+      <quad dx="0.5411764705882353" cx="0.5733333333333334" dy="0.8408207070707071" bx="0.5733333333333334" cy="0.8408207070707071" ax="0.5411764705882353" by="0.8670833333333333" ay="0.8670833333333333" feather="1" />
+      <quad dx="0.5305882352941176" cx="0.5713725490196078" dy="0.8596085858585858" bx="0.5713725490196078" cy="0.8596085858585858" ax="0.5305882352941176" by="0.8858712121212121" ay="0.8858712121212121" feather="1" />
      </hl>
     </annotation>
    </annotationList>
@@ -229,6 +310,26 @@ don't know its form]]></escapedText>
       <quad dx="0.5023529411764706" cx="0.5203921568627451" dy="0.2344570707070708" bx="0.5203921568627451" cy="0.2344570707070708" ax="0.5023529411764706" by="0.2607196969696971" ay="0.2607196969696971" feather="1" />
       <quad dx="0.5207843137254903" cx="0.5580392156862746" dy="0.2344570707070708" bx="0.5580392156862746" cy="0.2344570707070708" ax="0.5207843137254903" by="0.2607196969696971" ay="0.2607196969696971" feather="1" />
       <quad dx="0.5584313725490196" cx="0.5870588235294119" dy="0.2344570707070708" bx="0.5870588235294119" cy="0.2344570707070708" ax="0.5584313725490196" by="0.2607196969696971" ay="0.2607196969696971" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-09T12:43:55" uniqueName="okular-42-5" author="Marc Ahrens" contents="This eq'n comes from expand&#xa;w(u) &amp; w(v) in the prev. eq'n,&#xa;which is done using the form&#xa;of eq2-14.&#xa;&#xa;This eq'n has many factors cancel,&#xa;leaving&#xa;w^r(z) == w^{r^2}(z)   ----(1)&#xa;If r!=1, then only trivial forms of&#xa;w(z) obey (1), viz. w(r)=0,1.&#xa;&#xa;Thus, we must choose r=1 to&#xa;allow a general w(x).&#xa;&#xa;" modifyDate="2010-03-09T12:43:55" color="#ffff00" >
+      <boundary l="0.1172273190621815" r="0.6452599388379205" b="0.189763779527559" t="0.1330708661417323" />
+     </base>
+     <hl>
+      <quad dx="0.3541176470588235" cx="0.3670588235294117" dy="0.1353661616161617" bx="0.3670588235294117" cy="0.1353661616161617" ax="0.3541176470588235" by="0.161628787878788" ay="0.161628787878788" feather="1" />
+      <quad dx="0.3674509803921569" cx="0.4047058823529412" dy="0.1353661616161617" bx="0.4047058823529412" cy="0.1353661616161617" ax="0.3674509803921569" by="0.161628787878788" ay="0.161628787878788" feather="1" />
+      <quad dx="0.4050980392156863" cx="0.411764705882353" dy="0.1334469696969697" bx="0.411764705882353" cy="0.1334469696969697" ax="0.4050980392156863" by="0.1544570707070707" ay="0.1544570707070707" feather="1" />
+      <quad dx="0.4125490196078432" cx="0.4541176470588236" dy="0.1353661616161617" bx="0.4541176470588236" cy="0.1353661616161617" ax="0.4125490196078432" by="0.161628787878788" ay="0.161628787878788" feather="1" />
+      <quad dx="0.4545098039215686" cx="0.4698039215686275" dy="0.1353661616161617" bx="0.4698039215686275" cy="0.1353661616161617" ax="0.4545098039215686" by="0.161628787878788" ay="0.161628787878788" feather="1" />
+      <quad dx="0.4705882352941176" cx="0.4827450980392157" dy="0.1363257575757577" bx="0.4827450980392157" cy="0.1363257575757577" ax="0.4705882352941176" by="0.1612752525252526" ay="0.1612752525252526" feather="1" />
+      <quad dx="0.4827450980392157" cx="0.4894117647058823" dy="0.1334469696969697" bx="0.4894117647058823" cy="0.1334469696969697" ax="0.4827450980392157" by="0.1544570707070707" ay="0.1544570707070707" feather="1" />
+      <quad dx="0.5015686274509804" cx="0.5333333333333334" dy="0.1353661616161617" bx="0.5333333333333334" cy="0.1353661616161617" ax="0.5015686274509804" by="0.161628787878788" ay="0.161628787878788" feather="1" />
+      <quad dx="0.5337254901960785" cx="0.5709803921568628" dy="0.1353661616161617" bx="0.5709803921568628" cy="0.1353661616161617" ax="0.5337254901960785" by="0.161628787878788" ay="0.161628787878788" feather="1" />
+      <quad dx="0.5713725490196079" cx="0.5788235294117647" dy="0.1334469696969697" bx="0.5788235294117647" cy="0.1334469696969697" ax="0.5713725490196079" by="0.1544570707070707" ay="0.1544570707070707" feather="1" />
+      <quad dx="0.5788235294117647" cx="0.6152941176470589" dy="0.1353661616161617" bx="0.6152941176470589" cy="0.1353661616161617" ax="0.5788235294117647" by="0.161628787878788" ay="0.161628787878788" feather="1" />
+      <quad dx="0.615686274509804" cx="0.6231372549019608" dy="0.1334469696969697" bx="0.6231372549019608" cy="0.1334469696969697" ax="0.615686274509804" by="0.1544570707070707" ay="0.1544570707070707" feather="1" />
+      <quad dx="0.6231372549019608" cx="0.6462745098039216" dy="0.1353661616161617" bx="0.6462745098039216" cy="0.1353661616161617" ax="0.6231372549019608" by="0.161628787878788" ay="0.161628787878788" feather="1" />
      </hl>
     </annotation>
    </annotationList>
@@ -1696,21 +1797,21 @@ infinite sets]]></escapedText>
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="39;C2:0.499382:1:1" />
-   <oldPage viewport="40;C2:0.499382:0.757589:1" />
-   <oldPage viewport="41;C2:0.5:0.240086:1" />
-   <oldPage viewport="40;C2:0.5:1:1" />
-   <oldPage viewport="41;C2:0.5:0.759052:1" />
-   <oldPage viewport="42;C2:0.499383:0.240086:1" />
-   <oldPage viewport="41;C2:0.5:0.759052:1" />
-   <oldPage viewport="42;C2:0.499383:0.240086:1" />
-   <oldPage viewport="41;C2:0.5:0.240086:1" />
-   <oldPage viewport="40;C2:0.5:1:1" />
-   <current viewport="41;C2:0.5:0:1" />
+   <oldPage viewport="42;C2:0.5:0:1" />
+   <oldPage viewport="41;C2:0.5:0.759259:1" />
+   <oldPage viewport="42;C2:0.5:0:1" />
+   <oldPage viewport="41;C2:0.5:0.759259:1" />
+   <oldPage viewport="42;C2:0.5:0:1" />
+   <oldPage viewport="41;C2:0.5:0.759259:1" />
+   <oldPage viewport="42;C2:0.5:0.239879:1" />
+   <oldPage viewport="41;C2:0.5:0.759259:1" />
+   <oldPage viewport="42;C2:0.5:0:1" />
+   <oldPage viewport="41;C2:0.5:1:1" />
+   <current viewport="42;C2:0.5:0:1" />
   </history>
   <views>
    <view name="PageView" >
-    <zoom mode="0" value="1.60372006893158" />
+    <zoom mode="0" value="1.603700041770935" />
    </view>
   </views>
  </generalInfo>
