@@ -107,6 +107,25 @@
       <quad dx="0.2356866666666666" cx="0.6941180392156864" dy="0.5811237373737375" bx="0.6941180392156864" cy="0.5811237373737375" ax="0.2356866666666666" by="0.6073863636363637" ay="0.6073863636363637" feather="1" />
      </hl>
     </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-09T15:53:34" uniqueName="okular-39-5" author="Marc Ahrens" contents="Let's state explicity what F is:&#xa;F is the function the tells you&#xa;plausibility of (AB|C) given the&#xa;2 sequentially learned plausibilities&#xa;(B|C) then (A|BC).&#xa;&#xa;Jaynes also gives an argument for&#xa;why it is ONLY those two plausibilites that should&#xa;determined, via F, the plausbility&#xa;(AB|C).&#xa;&#xa;&#xa;" modifyDate="2010-03-09T15:53:41" color="#ff0000" >
+      <boundary l="0.3877551020408163" r="0.6122448979591837" b="0.1804570527974783" t="0.152876280535855" />
+     </base>
+     <hl>
+      <quad dx="0.3878435294117647" cx="0.4984317647058824" dy="0.1534974747474749" bx="0.4984317647058824" cy="0.1534974747474749" ax="0.3878435294117647" by="0.1810732323232324" ay="0.1810732323232324" feather="1" />
+      <quad dx="0.4984317647058824" cx="0.612941568627451" dy="0.1534974747474749" bx="0.612941568627451" cy="0.1534974747474749" ax="0.4984317647058824" by="0.1810732323232324" ay="0.1810732323232324" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-09T15:54:03" uniqueName="okular-39-6" author="Marc Ahrens" modifyDate="2010-03-09T15:54:50" color="#ff0000" >
+      <boundary l="0.6193877551020408" r="0.8326530612244898" b="0.1907013396375098" t="0.1426319936958235" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[
+    ie   u=F(x,y)]]></escapedText>
+     </text>
+    </annotation>
    </annotationList>
   </page>
   <page number="40" >
@@ -127,7 +146,7 @@
      </base>
      <text icon="Note" type="1" font="DejaVu Sans,8,-1,5,50,0,0,0,0,0" >
       <escapedText><![CDATA[A general, functional
-statement of assoc.]]></escapedText>
+statement of associativity]]></escapedText>
      </text>
     </annotation>
     <annotation type="4" >
@@ -240,7 +259,7 @@ w(F(x,v))=w(x)w^r(v)]]></escapedText>
      </text>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-03-09T12:42:11" uniqueName="okular-41-16" author="Marc Ahrens" contents="This follows from the assoc. req'ment,&#xa;which now is w(F(u,z))=w(F(v,z)). Then&#xa;expand each side using the form of&#xa;eq2-14." modifyDate="2010-03-09T12:42:11" color="#ffff00" >
+     <base creationDate="2010-03-09T12:42:11" uniqueName="okular-41-16" author="Marc Ahrens" contents="This follows from the assoc. req'ment,&#xa;which now is w(F(u,z))=w(F(v,z)). Then&#xa;expand each side using the form of&#xa;eq2-14: w[F(y,z)]=w(y)*w^r(z)" modifyDate="2010-03-09T12:42:11" color="#ffff00" >
       <boundary l="0.1172273190621815" r="0.8817533129459735" b="0.9488188976377953" t="0.905511811023622" />
      </base>
      <hl>
@@ -254,7 +273,7 @@ w(F(x,v))=w(x)w^r(v)]]></escapedText>
      </hl>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-03-09T12:47:16" uniqueName="okular-41-17" author="Marc Ahrens" contents="To make sense of the integral, consider that v=(y,z)&#xa;describes a surface in 3D space. The more informative&#xa;form of eq2-13 is:&#xa;&#xa;1/H(v)*v_t = 1/H(y)*y_t + 1/H(z)*z_t  (eq2-13)&#xa;where v_t=deriv. of v wrt parameter t.&#xa;&#xa;With this parameter, y=y(t) &amp; z=z(t) and v=v(t)=v(y(t),z(t)) are all f'ns of t.&#xa;&#xa;Then integrating the form of eq2-13 above from t0 to t1 amounts to&#xa;integrating the integrands along a parameterized path, {t|for t in [t0..t1]}&#xa;in the y-z plane. It becomes&#xa;&#xa;[[ S{ 1/H(v)*v_t} = S{1/H(y)*y_t} +S 1/H(z)*z_t} ]] where S{X}=\int_{t=t0}^t={t1}dt X&#xa;&#xa;eq2-15 is missleading because it defines w(x) by putting 'x' as the upper limit of integration. In fact, it should simply be defined with fith fixed limits of the parameter, both upper and lower.&#xa;&#xa;'x' enters the definition of w(x) because w(x) is then a FUNCTIONAL -- a function of a FUNCTION (y, z, v, etc) that outputs a NUMBER.&#xa;&#xa;The definition of w(x) that makes more sense, then, is w(x) = exp( S{1/H(x) x_t } ) which has the limits bound up in the definition of S.&#xa;&#xa;Now to address the claim of an &quot;...arbitrary multiplicative factor in w&quot;: Give the above, more rigorous definition of w(x), you can then define an intermediate value t2 s.t. t0&lt;t2&lt;t1, and thereby define&#xa;T{X}=\int_{t=t0}^t={t2}dt X&#xa;U{X}=\int_{t=t2}^t={t1}dt X&#xa;which means exp(S{X})=exp(T{X})+exp(U{X}).&#xa;&#xa;Trying to get cancellation of factors in eq2-14 involving the t0 limit, leaving t1 &amp; t2 only, and hence showing that the &quot;lower limit is aribrary&quot; (as is, in fact, the upper limit) WILL ONLY WORK WHEN r=1, which then allows cancellations to&#xa;occur.&#xa;&#xa;Thus, r=1 IS A REQIUREMENT FOR eq 2-14 TO BE WRITTEN WITHOUT INTEGRATION LIMITS AS IT IS, but r=1 is ONLY DERIVED AS A CONSEQUENCE OF eq2-14. Thus, that &quot;r=1&quot; needs a different justification.&#xa;" modifyDate="2010-03-09T13:15:20" color="#ff0000" >
+     <base creationDate="2010-03-09T12:47:16" uniqueName="okular-41-17" author="Marc Ahrens" contents="To make sense of the integral, consider that v=(y,z)&#xa;describes a surface in 3D space. The more informative&#xa;form of eq2-13 is:&#xa;&#xa;1/H(v)*v_t = 1/H(y)*y_t + 1/H(z)*z_t  (eq2-13)&#xa;where v_t=deriv. of v wrt parameter t.&#xa;&#xa;With this parameter, y=y(t) &amp; z=z(t) and v=v(t)=v(y(t),z(t)) are all f'ns of t.&#xa;&#xa;Then integrating the form of eq2-13 above from t0 to t1 amounts to&#xa;integrating the integrands along a parameterized path, {t|for t in [t0..t1]}&#xa;in the y-z plane. It becomes&#xa;&#xa;[[ S{ 1/H(v)*v_t} = S{1/H(y)*y_t} +S 1/H(z)*z_t} ]] where S{X}=\int_{t=t0}^t={t1}dt X&#xa;&#xa;eq2-15 is missleading because it defines w(x) by putting 'x' as the upper limit of integration. In fact, it should simply be defined with fixed limits of the integration parameter, both upper and lower.&#xa;&#xa;'x' enters the definition of w(x) because w(x) is then a FUNCTIONAL -- a function of a FUNCTION (y, z, v, etc) that outputs a NUMBER.&#xa;&#xa;The definition of w(x) that Jaynes sought with eq2-15, then, is w(x) = exp( S{1/H(x) x_t } ) which has the limits bound up in the definition of S. AS LONG AS t0&#xa;and t1 ARE FIXED FOR THE DEFINITION OF w, IT DOESN'T MATTER WHAT THEY ARE -- eq2-14 still holds.&#xa;&#xa;" modifyDate="2010-03-09T13:15:20" color="#ff0000" >
       <boundary l="0.1172273190621815" r="0.8817533129459735" b="0.9488188976377953" t="0.889763779527559" />
      </base>
      <hl>
@@ -273,36 +292,44 @@ w(F(x,v))=w(x)w^r(v)]]></escapedText>
       <quad dx="0.5305882352941176" cx="0.5713725490196078" dy="0.8596085858585858" bx="0.5713725490196078" cy="0.8596085858585858" ax="0.5305882352941176" by="0.8858712121212121" ay="0.8858712121212121" feather="1" />
      </hl>
     </annotation>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-09T15:59:55" uniqueName="okular-41-19" author="Marc Ahrens" modifyDate="2010-03-09T16:04:07" color="#ff0000" >
+      <boundary l="0.09785932721712538" r="0.3577981651376147" b="0.168503937007874" t="0.1102362204724409" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,5,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[This is NOT def'n of u: it's simply a
+restatement of the def'n of F, using
+the def'ns of u,x,y on p202.]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-09T16:04:37" uniqueName="okular-41-20" author="Marc Ahrens" modifyDate="2010-03-09T16:08:38" color="#ffff00" >
+      <boundary l="0.6381243628950051" r="0.835881753312946" b="0.1740157480314961" t="0.1047244094488189" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Confusingly, this IS a
+redef'n of the
+symbol v which
+differs from p202.]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-09T16:06:26" uniqueName="okular-41-23" author="Marc Ahrens" modifyDate="2010-03-09T16:10:16" color="#ffffff" >
+      <boundary l="0.36289500509684" r="0.4772740900641602" b="0.1660482780561521" t="0.137007874015748" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Serif,7,-1,5,50,1,0,0,0,0" >
+      <escapedText><![CDATA[u=F(x,y)]]></escapedText>
+     </text>
+    </annotation>
    </annotationList>
   </page>
   <page number="42" >
    <annotationList>
     <annotation type="4" >
-     <base creationDate="2010-03-05T14:10:34" uniqueName="okular-42-1" author="Marc Ahrens" modifyDate="2010-03-05T14:10:44" color="#ff0000" >
-      <boundary l="0.1172273190621815" r="0.8827726809378186" b="0.362992125984252" t="0.3039370078740157" />
-     </base>
-     <hl>
-      <quad dx="0.2878435294117647" cx="0.300784705882353" dy="0.3050631313131314" bx="0.300784705882353" cy="0.3050631313131314" ax="0.2878435294117647" by="0.3313257575757577" ay="0.3313257575757577" feather="1" />
-      <quad dx="0.3011768627450981" cx="0.4101964705882353" dy="0.3041035353535354" bx="0.4101964705882353" cy="0.3041035353535354" ax="0.3011768627450981" by="0.331679292929293" ay="0.331679292929293" feather="1" />
-      <quad dx="0.4105886274509804" cx="0.4898043137254902" dy="0.3041035353535354" bx="0.4898043137254902" cy="0.3041035353535354" ax="0.4105886274509804" by="0.331679292929293" ay="0.331679292929293" feather="1" />
-      <quad dx="0.4901964705882353" cx="0.5105886274509804" dy="0.3050631313131314" bx="0.5105886274509804" cy="0.3050631313131314" ax="0.4901964705882353" by="0.3313257575757577" ay="0.3313257575757577" feather="1" />
-      <quad dx="0.5113729411764706" cx="0.5858827450980393" dy="0.3041035353535354" bx="0.5858827450980393" cy="0.3041035353535354" ax="0.5113729411764706" by="0.331679292929293" ay="0.331679292929293" feather="1" />
-      <quad dx="0.5862749019607844" cx="0.6066670588235294" dy="0.3050631313131314" bx="0.6066670588235294" cy="0.3050631313131314" ax="0.5862749019607844" by="0.3313257575757577" ay="0.3313257575757577" feather="1" />
-      <quad dx="0.6074513725490196" cx="0.6658827450980394" dy="0.3041035353535354" bx="0.6658827450980394" cy="0.3041035353535354" ax="0.6074513725490196" by="0.331679292929293" ay="0.331679292929293" feather="1" />
-      <quad dx="0.6662749019607843" cx="0.712941568627451" dy="0.3041035353535354" bx="0.712941568627451" cy="0.3041035353535354" ax="0.6662749019607843" by="0.331679292929293" ay="0.331679292929293" feather="1" />
-     </hl>
-    </annotation>
-    <annotation type="1" >
-     <base creationDate="2010-03-05T14:11:26" uniqueName="okular-42-3" author="Marc Ahrens" modifyDate="2010-03-05T14:11:41" color="#ff0000" >
-      <boundary l="0.09072375127420999" r="0.2803261977573904" b="0.3409448818897638" t="0.3070866141732284" />
-      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
-     </base>
-     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" >
-      <escapedText><![CDATA[Product Rule]]></escapedText>
-     </text>
-    </annotation>
-    <annotation type="4" >
-     <base creationDate="2010-03-05T15:16:55" uniqueName="okular-42-4" author="Marc Ahrens" contents="This is the general form of F(x,y)&#xa;where F is&#xa;1) monotonic in both x and y,&#xa;2) and associative, which is really the&#xa;   the &quot;consistency&quot; req'ment, ie that&#xa;  the probability of AB be independent&#xa;  of the order in which A and B are&#xa;  learned." modifyDate="2010-03-05T15:16:55" color="#ffff00" >
+     <base creationDate="2010-03-05T15:16:55" uniqueName="okular-42-4" author="Marc Ahrens" contents="This is the general requirement of F(x,y)&#xa;when F is&#xa;1) monotonic in both x and y, which&#xa;  result from qualitative requirements&#xa;  like &quot;if prior info C2 makes B more&#xa;  plausible tha p.i C1, but leaves A's&#xa;  plausibility unchanged, C2 can't make&#xa;  AB LESS plausible than C1 makes it&quot;.&#xa;2) and associative, which is really the&#xa;   the &quot;consistency&quot; req'ment, ie that&#xa;  the probability of AB be independent&#xa;  of the order in which A and B are&#xa;  learned.&#xa;&#xa;Thus, eq 2-17 IS A GENERAL REQ'MENT OF A&#xa;MONOTONIC, ASSOCIATIVE, F'N OF 2 ARGS&#xa;&#xa;" modifyDate="2010-03-05T15:16:55" color="#ffff00" >
       <boundary l="0.3792048929663608" r="0.5861365953109072" b="0.2606299212598425" t="0.2338582677165354" />
      </base>
      <hl>
@@ -313,7 +340,7 @@ w(F(x,v))=w(x)w^r(v)]]></escapedText>
      </hl>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-03-09T12:43:55" uniqueName="okular-42-5" author="Marc Ahrens" contents="This eq'n comes from expand&#xa;w(u) &amp; w(v) in the prev. eq'n,&#xa;which is done using the form&#xa;of eq2-14.&#xa;&#xa;This eq'n has many factors cancel,&#xa;leaving&#xa;w^r(z) == w^{r^2}(z)   ----(1)&#xa;If r!=1, then only trivial forms of&#xa;w(z) obey (1), viz. w(r)=0,1.&#xa;&#xa;Thus, we must choose r=1 to&#xa;allow a general w(x).&#xa;&#xa;" modifyDate="2010-03-09T12:43:55" color="#ffff00" >
+     <base creationDate="2010-03-09T12:43:55" uniqueName="okular-42-5" author="Marc Ahrens" contents="This eq'n comes from expand&#xa;w(u) &amp; w(v) in the prev. eq'n,&#xa;which is done using the form&#xa;of eq2-14.&#xa;&#xa;This eq'n has many factors cancel,&#xa;leaving&#xa;w^r(z) == w^{r^2}(z)   ----(1)&#xa;If r!=1, then only trivial forms of&#xa;w(z) obey (1), viz. w(r)=1.&#xa;&#xa;Thus, we must choose r=1 to&#xa;allow a general w(x).&#xa;&#xa;" modifyDate="2010-03-09T12:43:55" color="#ffff00" >
       <boundary l="0.1172273190621815" r="0.6452599388379205" b="0.189763779527559" t="0.1330708661417323" />
      </base>
      <hl>
@@ -332,12 +359,158 @@ w(F(x,v))=w(x)w^r(v)]]></escapedText>
       <quad dx="0.6231372549019608" cx="0.6462745098039216" dy="0.1353661616161617" bx="0.6462745098039216" cy="0.1353661616161617" ax="0.6231372549019608" by="0.161628787878788" ay="0.161628787878788" feather="1" />
      </hl>
     </annotation>
+    <annotation type="2" >
+     <base creationDate="2010-03-09T14:47:24" uniqueName="okular-42-6" author="Marc Ahrens" modifyDate="2010-03-09T14:47:37" color="#000000" >
+      <boundary l="0.3506625891946993" r="0.3975535168195719" b="0.1637795275590551" t="0.1251968503937008" />
+     </base>
+     <line>
+      <point x="0.3516819571865443" y="0.1645669291338583" />
+      <point x="0.3985728848114169" y="0.1259842519685039" />
+     </line>
+    </annotation>
+    <annotation type="2" >
+     <base creationDate="2010-03-09T14:48:05" uniqueName="okular-42-7" author="Marc Ahrens" modifyDate="2010-03-09T14:48:13" color="#000000" >
+      <boundary l="0.5107033639143731" r="0.5524974515800204" b="0.1637795275590551" t="0.1259842519685039" />
+     </base>
+     <line>
+      <point x="0.5107033639143731" y="0.1645669291338583" />
+      <point x="0.5524974515800204" y="0.1267716535433071" />
+     </line>
+    </annotation>
+    <annotation type="2" >
+     <base creationDate="2010-03-09T14:48:23" uniqueName="okular-42-8" author="Marc Ahrens" modifyDate="2010-03-09T14:48:31" color="#ff0000" >
+      <boundary l="0.3975535168195719" r="0.4311926605504587" b="0.1661417322834646" t="0.1236220472440945" />
+     </base>
+     <line>
+      <point x="0.3985728848114169" y="0.1661417322834646" />
+      <point x="0.4311926605504587" y="0.1236220472440945" />
+     </line>
+    </annotation>
+    <annotation type="2" >
+     <base creationDate="2010-03-09T14:48:44" uniqueName="okular-42-9" author="Marc Ahrens" modifyDate="2010-03-09T14:48:51" color="#ff0000" >
+      <boundary l="0.5657492354740061" r="0.6024464831804281" b="0.1661417322834646" t="0.1283464566929134" />
+     </base>
+     <line>
+      <point x="0.5657492354740061" y="0.1669291338582677" />
+      <point x="0.6034658511722731" y="0.1283464566929134" />
+     </line>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-09T14:50:01" uniqueName="okular-42-10" author="Marc Ahrens" modifyDate="2010-03-09T14:50:41" color="#ffff00" >
+      <boundary l="0.6574923547400612" r="0.8372309168315645" b="0.1677165354330709" t="0.1251968503937008" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[
+=> (w(z))^r == w(z)]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-09T16:25:08" uniqueName="okular-42-12" author="Marc Ahrens" contents="The first equality,&#xa;[[  w(AB|C) = w(A|BC) w(B|C)    ]]  ---(1)&#xa;is just a restatement of eq2-16&#xa;using the def'ns of u,x,y on p202.&#xa;&#xa;Then, by applying the consistency&#xa;req'ment -- the the order of&#xa;learning facts shouldn't matter&#xa;-- get then second eq'n from (1)&#xa;[[  w(AB|C) = w(B|AC) w(A|C)  ]]  ----(2)&#xa;&#xa;Alternatively, (2) follows from (1) by&#xa;swapping symbols A &amp; B, and realising&#xa;that this doesn't change the RHS of (1)&#xa;or (2), by virtue of the commutivity of&#xa;conjunction: AB=BA." modifyDate="2010-03-09T16:25:30" color="#ff0000" >
+      <boundary l="0.7247706422018348" r="0.7547706422018349" b="0.3397086614173228" t="0.3165354330708661" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text icon="Note" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.29" creationDate="2010-03-09T16:26:39" uniqueName="okular-42-14" author="Marc Ahrens" modifyDate="2010-03-09T16:29:08" color="#ff0000" >
+      <boundary l="0.1192660550458716" r="0.7155963302752293" b="0.3385826771653543" t="0.3039370078740157" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,75,0,0,0,0,0" >
+      <escapedText><![CDATA[   !! PRODUCT !!
+   !!    RULE     !!]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-09T16:31:11" uniqueName="okular-42-16" author="Marc Ahrens" modifyDate="2010-03-09T16:31:25" color="#ff0000" >
+      <boundary l="0.6034658511722731" r="0.8154943934760448" b="0.2590551181102362" t="0.2133858267716535" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[ie  w(u)=w(x) w(y)
+w/    u=F(x,y)]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-11T12:19:12" uniqueName="okular-42-19" author="Marc Ahrens" contents="It's easier to show via the 2nd form,&#xa;since if A is certain, AB=B &amp; AC=C,&#xa;thus &#xa;   w(B|C)=w(B|C)w(A|C)&#xa;which is eq2-19." modifyDate="2010-03-11T12:19:12" color="#ffff00" >
+      <boundary l="0.1172273190621815" r="0.8817533129459735" b="0.5338582677165354" t="0.4755905511811024" />
+     </base>
+     <hl>
+      <quad dx="0.4090211764705883" cx="0.6352956862745097" dy="0.4923863636363637" bx="0.6352956862745097" cy="0.4923863636363637" ax="0.4090211764705883" by="0.5173358585858587" ay="0.5173358585858587" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-11T12:22:27" uniqueName="okular-42-21" author="Marc Ahrens" contents="More obviously:&#xa;If A is certain, AB=B &amp; AC=C,&#xa;then by the SECOND form of eq2-19&#xa;   w(B|C)=w(B|C)w(A|C)&#xa;=> w(A|C)=1 or w(B|C)=0 or infinity.&#xa;&#xa;But we have not restrictred B|C; only A|C, so we should use the inference re: w(A|C), not w(B|C)&#xa;&#xa;[[ w(A|C)=1  iff A is certain ]]" modifyDate="2010-03-11T12:23:00" color="#ff0000" >
+      <boundary l="0.6788990825688074" r="0.7088990825688074" b="0.8027007874015748" t="0.7795275590551181" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.29" creationDate="2010-03-11T18:51:34" uniqueName="okular-42-23" author="Marc Ahrens" modifyDate="2010-03-11T18:51:57" color="#ff0000" >
+      <boundary l="0.1182466870540265" r="0.6615698267074414" b="0.7983317426230813" t="0.7692913385826772" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,7,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[!!CERTAINTY VALUE!!]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="43" >
+   <annotationList>
+    <annotation type="1" >
+     <base creationDate="2010-03-11T12:37:14" uniqueName="okular-43-2" author="Marc Ahrens" contents="An alternative deriv'n of eq2-20 is from the SECOND form of eq2-18:&#xa;w(AB|C) = w(B|AC)w(A|C)   ----(1)&#xa;&#xa;Now, if A is impossible, then so is AB,&#xa;thus w(AB|C)=w(A|C), &amp; (1) is&#xa;&#xa;w(A|C) = w(B|AC)w(A|C)   -----(2)&#xa;&#xa;This has two solutions:&#xa;a) w(B|AC)=1. But: B could be plausible or otherwise, evenif A is impossible, since we've not constrained B. Thus, we shouldn't use the this solution to (2).&#xa;b) w(A|C) = 0 or infinity.&#xa;&#xa;[[ w(A|C)=0 iff A is impossible ]]&#xa;&#xa;&#xa;" modifyDate="2010-03-11T13:44:32" color="#ff0000" >
+      <boundary l="0.6207951070336392" r="0.6507951070336392" b="0.1625433070866142" t="0.1393700787401575" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-11T18:52:41" uniqueName="okular-43-3" author="Marc Ahrens" modifyDate="2010-03-11T18:52:41" color="#ffff00" >
+      <boundary l="0.1172273190621815" r="0.8817533129459735" b="0.4456692913385827" t="0.3692913385826772" />
+     </base>
+     <hl>
+      <quad dx="0.6392176470588236" cx="0.8251000000000001" dy="0.3695580808080809" bx="0.8251000000000001" cy="0.3695580808080809" ax="0.6392176470588236" by="0.3971338383838385" ay="0.3971338383838385" feather="1" />
+      <quad dx="0.8254921568627451" cx="0.8823549019607844" dy="0.3695580808080809" bx="0.8823549019607844" cy="0.3695580808080809" ax="0.8254921568627451" by="0.3971338383838385" ay="0.3971338383838385" feather="1" />
+      <quad dx="0.1176494117647058" cx="0.2376494117647059" dy="0.3878409090909092" bx="0.2376494117647059" cy="0.3878409090909092" ax="0.1176494117647058" by="0.4127904040404041" ay="0.4127904040404041" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-11T18:53:26" uniqueName="okular-43-4" author="Marc Ahrens" modifyDate="2010-03-11T18:53:51" color="#ff0000" >
+      <boundary l="0.290519877675841" r="0.872579001019368" b="0.5023622047244094" t="0.4677165354330708" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="Serif,9,-1,5,50,1,0,0,0,0" >
+      <escapedText><![CDATA[!!IMPOSSIBILITY VALUE!!    w(A|C)=0]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-11T19:17:31" uniqueName="okular-43-5" author="Marc Ahrens" modifyDate="2010-03-11T19:17:31" color="#ffff00" >
+      <boundary l="0.1172273190621815" r="0.8817533129459735" b="0.6834645669291338" t="0.6409448818897637" />
+     </base>
+     <hl>
+      <quad dx="0.4309807843137255" cx="0.6733337254901959" dy="0.6414267676767678" bx="0.6733337254901959" cy="0.6414267676767678" ax="0.4309807843137255" by="0.667689393939394" ay="0.667689393939394" feather="1" />
+      <quad dx="0.6733337254901961" cx="0.7588239215686273" dy="0.6414267676767678" bx="0.7588239215686273" cy="0.6414267676767678" ax="0.6733337254901961" by="0.667689393939394" ay="0.667689393939394" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-11T19:18:43" uniqueName="okular-43-7" author="Marc Ahrens" modifyDate="2010-03-11T19:20:00" color="#ff0000" >
+      <boundary l="0.09276248725790011" r="0.36289500509684" b="0.7582677165354331" t="0.6976377952755906" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[NB There is a much better deriv'n
+to eq2-42 in the note there.]]></escapedText>
+     </text>
+    </annotation>
    </annotationList>
   </page>
   <page number="45" >
    <annotationList>
     <annotation type="4" >
-     <base creationDate="2010-02-27T17:46:08" uniqueName="okular-45-1" author="Marc Ahrens" contents="There is an easier way to get to eq2-42 with m=1 fixed&#xa;along the way. &#xa;&#xa;Below&#x9;&quot;notA&quot;=&quot;-A&quot;, &#xa;&#x9;D/Dx is partial deriv. and&#xa;&#x9;d/dx is total deriv.&#xa;&#xa;Consider that A+(-A)==T, so w(A+-A|X)==1. We&#xa;want to know an expression for w(A+-A|X) in&#xa;terms of w(A),w(-A), w( (-A)A ), and any other&#xa;individual terms. It is not an unreasonable&#xa;assumption that such an expresison for w exists,&#xa;and since any logical expression can be made of&#xa;NOT &amp; AND, we need no more than these three, given&#xa;that &quot;X&quot; will always be considered &quot;prior information&quot;, ie&#xa;on the right of the &quot;|&quot;.&#xa;&#xa;Moreover (-A)A==F==const, so we can ignore&#xa;any functional dependence upon that term.&#xa;&#xa;Moreover AA=A, so we have already accounted for that,&#xa;and (-A)(-A)=-(A+A)=-A, and so that term, too, has&#xa;been accounted for.&#xa;&#xa;1==w(A+-A|X)==f( w(A|X), w(-A|X) )  ---(1)&#xa;where we want to find the form of f. Letting x=w(A|X),&#xa;and using the def'n of S&#xa;1==f(x, S(x))   ----(2)&#xa;&#xa;But by the commutivity of &quot;+&quot;, (1) above also gives&#xa;1==f( S(x), x )&#xa;&#xa;=> f( S, x )==f(x,S)&#xa;      (D/DS)f == (D/Dx)f  (deriv. wrt 1st arg)  ---(3)&#xa;&#xa;But from (2) diff'ing both sides wrt x&#xa;0==(D/Dx)f + (D/DS)f * S'(x)&#xa;==(D/Dx)f + (D/Dx)f * S'(x)   (by eq 3)&#xa;==1 + S'(x)&#xa;&#xa;Integrating both sides wrt x gives&#xa;S(x) == -x +C&#xa;for some C. Using the requirement S(0)=1&#xa;(or likewise S(1)=0) we see C==1, s.t.&#xa;&#xa;[[ S(x) == 1-x ]]   (eq 2-42 w/ m=1)&#xa;&#xa;NB Subbing back in to (1)&#xa;1 == f( x, 1-x )&#xa;&#xa;One obvious f (uniqueness?) for this is  f=(x,y) == x+y.&#xa;THIS IS VERY SIGNIFICANT: if we know this is f, we can say&#xa;x+S(x) == 1, ie&#xa;&#xa;[[  w(A|X) + w(-A|X) == 1  ]]    (eq 2-47)&#xa;&#xa;&#xa;&#xa;" modifyDate="2010-02-27T17:46:17" color="#ff0000" >
+     <base creationDate="2010-02-27T17:46:08" uniqueName="okular-45-1" author="Marc Ahrens" contents="There is an easier way to get to eq2-42 with m=1 fixed&#xa;by-the-by. &#xa;&#xa;Below&#x9;&quot;notA&quot;=&quot;-A&quot;, &#xa;&#x9;&quot;D/Dx&quot; is partial deriv. and&#xa;&#x9;d/dx is total deriv.&#xa;&#x9;&quot;f_x&quot;==&quot;(D/Dx)f&quot;&#xa;&#xa;Consider that A+(-A)==T, so w(A+-A|X)==1. We&#xa;want to know an expression for w(A+-A|X) in&#xa;terms of logical expressions of A. Any syntax tree&#xa;must have NOT nodes with one child, and AND nodes&#xa;with 2 children. Since AND &amp; NOT are complete, these&#xa;are the oly needs we need consider.&#xa;&#xa;Thus, any synatax tree will have nodes at the bottom&#xa;of the tree that look like this exhaustive list:&#xa;1:        A&#xa;2:       -A&#xa;3:      AA&#xa;4:   (-A)A&#xa;5:   A(-A)&#xa;6:(-A)(-A)&#xa;&#xa;NB *ignore 3 because AA=A&#xa;* ignore 4 &amp; 5 because (-A)A=F, a constant&#xa;* ignore 6 since (-A)(-A)=-(A+A)=-A which is 2.&#xa;&#xa;Thus all subtrees at the bottom of any syntax tree are&#xa;equivalent to A or -A.&#xa;&#xa;NB It is an assumption that an expression w(A+-A) exists,&#xa;but not an unreasonable one.&#xa;&#xa;NB &quot;X&quot; will always be considered &quot;prior information&quot;, ie&#xa;on the right of the &quot;|&quot;. This means that plausibility terms&#xa;on which w(A+-A) depend are&#xa;&#xa;w(A|AX)   == certain&#xa;w(-A|-AX)   == certain&#xa;w(A|-AX)  == impossible&#xa;w(-A|AX)  == impossible&#xa;&#xa;w(A|X)   == ??&#xa;w(-A|X)   == ??&#xa;&#xa;As the 1st 4 are constants, only the last 2 are viable.&#xa;Thus, by exhaustion, we can firmly state:&#xa;&#xa;1==w(A+-A|X)==f( w(A|X), w(-A|X) )  ---(1)&#xa;where we want to find the form of f. Letting x=w(A|X).&#xa;Using the def'n of S:&#xa;1==f(x, S(x))   ----(2)&#xa;&#xa;But by the commutivity of &quot;+&quot;, (1) above also gives&#xa;1==f( S(x), x )&#xa;&#xa;=> f( S, x )==f(x,S)&#xa;      f_S == f_x  (deriv. wrt 1st arg)  ---(3)&#xa;&#xa;But from (2) diff'ing both sides wrt x&#xa;0==f_x + f_S * S'(x)&#xa;==f_x + f_x * S'(x)   (by eq 3)&#xa;==1 + S'(x)&#xa;&#xa;Integrating both sides wrt x gives&#xa;S(x) == -x +C&#xa;for some C. Using the requirement S(0)=1&#xa;(or likewise S(1)=0) we see C==1, s.t.&#xa;&#xa;[[ S(x) == 1-x ]]   (eq 2-42 w/ m=1)&#xa;&#xa;NB Subbing back in to (1)&#xa;1 == f( x, 1-x )&#xa;&#xa;One obvious f (uniqueness?) for this is  f=(x,y) == x+y.&#xa;THIS IS VERY SIGNIFICANT: if we know this is f, we can say&#xa;x+S(x) == 1, ie&#xa;&#xa;SUM RULE [[  w(A|X) + w(-A|X) == 1  ]]    (eq 2-47)&#xa;&#xa;" modifyDate="2010-02-27T17:46:17" color="#ff0000" >
       <boundary l="0.3362068965517241" r="0.6456896551724138" b="0.8054630246502332" t="0.7681545636242505" />
      </base>
      <hl>
@@ -372,6 +545,24 @@ w(F(x,v))=w(x)w^r(v)]]></escapedText>
       <quad dx="0.641176862745098" cx="0.6949023529411764" dy="0.5753156565656565" bx="0.6949023529411764" cy="0.5753156565656565" ax="0.641176862745098" by="0.6028914141414141" ay="0.6028914141414141" feather="1" />
      </hl>
     </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-11T19:21:24" uniqueName="okular-46-4" author="Marc Ahrens" modifyDate="2010-03-11T19:22:20" color="#ff0000" >
+      <boundary l="0.09174311926605505" r="0.2884811416921509" b="0.6028368794326241" t="0.5736800630417652" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,7,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[!!PRODUCT RULE!!]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-11T19:22:37" uniqueName="okular-46-5" author="Marc Ahrens" modifyDate="2010-03-11T19:23:17" color="#ff0000" >
+      <boundary l="0.1151885830784913" r="0.3149847094801223" b="0.6413335482484419" t="0.6122931442080378" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,7,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[!!SUM RULE!!]]></escapedText>
+     </text>
+    </annotation>
    </annotationList>
   </page>
   <page number="47" >
@@ -385,7 +576,7 @@ w(F(x,v))=w(x)w^r(v)]]></escapedText>
      </hl>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-02-28T00:23:01" uniqueName="okular-47-2" author="Marc Ahrens" contents="GENERALISED SUM RULE" modifyDate="2010-02-28T00:23:52" color="#ff0000" >
+     <base creationDate="2010-02-28T00:23:01" uniqueName="okular-47-2" author="Marc Ahrens" contents="GENERALISED SUM RULE&#xa;NB Its deriv'n is by repeated&#xa;application of sum rule&#xa;(eq2-47) and product rule&#xa;(eq2-46)." modifyDate="2010-02-28T00:23:52" color="#ff0000" >
       <boundary l="0.3062913907284768" r="0.8824503311258278" b="0.2663252240717029" t="0.2387964148527529" />
      </base>
      <hl>
@@ -405,6 +596,16 @@ w(F(x,v))=w(x)w^r(v)]]></escapedText>
      <hl>
       <quad dx="0.5435294117647059" cx="0.6231372549019608" dy="0.3939015151515152" bx="0.6231372549019608" cy="0.3939015151515152" ax="0.5435294117647059" by="0.4188510101010101" ay="0.4188510101010101" feather="1" />
      </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-11T19:35:24" uniqueName="okular-47-5" author="Marc Ahrens" modifyDate="2010-03-11T19:36:13" color="#ff0000" >
+      <boundary l="0.09072375127420999" r="0.2966360856269113" b="0.2763779527559055" t="0.2401574803149606" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,7,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[!!GENERALISED SUM!!
+!!         RULE           !!]]></escapedText>
+     </text>
     </annotation>
    </annotationList>
   </page>
@@ -1797,17 +1998,17 @@ infinite sets]]></escapedText>
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="42;C2:0.5:0:1" />
-   <oldPage viewport="41;C2:0.5:0.759259:1" />
-   <oldPage viewport="42;C2:0.5:0:1" />
-   <oldPage viewport="41;C2:0.5:0.759259:1" />
-   <oldPage viewport="42;C2:0.5:0:1" />
-   <oldPage viewport="41;C2:0.5:0.759259:1" />
-   <oldPage viewport="42;C2:0.5:0.239879:1" />
-   <oldPage viewport="41;C2:0.5:0.759259:1" />
-   <oldPage viewport="42;C2:0.5:0:1" />
-   <oldPage viewport="41;C2:0.5:1:1" />
-   <current viewport="42;C2:0.5:0:1" />
+   <oldPage viewport="46;C2:0.499383:1:1" />
+   <oldPage viewport="47;C2:0.499383:0:1" />
+   <oldPage viewport="46;C2:0.499383:1:1" />
+   <oldPage viewport="47;C2:0.499385:0.759259:1" />
+   <oldPage viewport="48;C2:0.499387:0.239879:1" />
+   <oldPage viewport="47;C2:0.499385:0.759259:1" />
+   <oldPage viewport="48;C2:0.499387:0.759259:1" />
+   <oldPage viewport="49;C2:0.499385:0.759259:1" />
+   <oldPage viewport="50;C2:0.499385:0:1" />
+   <oldPage viewport="49;C2:0.499385:0.239879:1" />
+   <current viewport="48;C2:0.499387:0.759259:1" />
   </history>
   <views>
    <view name="PageView" >
