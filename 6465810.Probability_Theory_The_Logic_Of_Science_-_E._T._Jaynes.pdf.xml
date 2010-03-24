@@ -445,7 +445,7 @@ w/    u=F(x,y)]]></escapedText>
       <boundary l="0.6788990825688074" r="0.7088990825688074" b="0.8027007874015748" t="0.7795275590551181" />
       <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
      </base>
-     <text font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+     <text icon="Note" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
     </annotation>
     <annotation type="1" >
      <base opacity="0.29" creationDate="2010-03-11T18:51:34" uniqueName="okular-42-23" author="Marc Ahrens" modifyDate="2010-03-11T18:51:57" color="#ff0000" >
@@ -465,7 +465,7 @@ w/    u=F(x,y)]]></escapedText>
       <boundary l="0.6207951070336392" r="0.6507951070336392" b="0.1625433070866142" t="0.1393700787401575" />
       <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
      </base>
-     <text font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+     <text icon="Note" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
     </annotation>
     <annotation type="4" >
      <base creationDate="2010-03-11T18:52:41" uniqueName="okular-43-3" author="Marc Ahrens" modifyDate="2010-03-11T18:52:41" color="#ffff00" >
@@ -640,7 +640,7 @@ to eq2-42 in the note there.]]></escapedText>
      </hl>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-02-28T11:01:21" uniqueName="okular-48-4" author="Marc Ahrens" contents="That is, given C, ie &quot;A=>B&quot;, B will always be true if A is, so given C, AB will be true when A is,&#xa;&#xa;ie p(AB|C)==p(A|C5)" modifyDate="2010-02-28T11:01:21" color="#ffff00" >
+     <base creationDate="2010-02-28T11:01:21" uniqueName="okular-48-4" author="Marc Ahrens" contents="That is, given C, ie &quot;A=>B&quot;, B will always be true if A is, so given C, AB will be true when A is,&#xa;&#xa;ie p(AB|C)==p(A|C)" modifyDate="2010-02-28T11:01:21" color="#ffff00" >
       <boundary l="0.1174825174825175" r="0.5692307692307692" b="0.3405405405405406" t="0.2972972972972973" />
      </base>
      <hl>
@@ -1503,7 +1503,7 @@ stated w/ prob.s]]></escapedText>
      </hl>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-02-28T12:22:57" uniqueName="okular-49-3" author="Marc Ahrens" contents="Prob Theory can be seen as divided&#xa;in to two parts&#xa;1) The less contraversial manner  in&#xa;which probabilities of  combinations&#xa;of events are related to probabilities&#xa;of other combinations&#xa;&#xa;2) The more contraversial question of&#xa;determinining the probabilities of any&#xa;events in the first place.&#xa;&#xa;Thus far we've dealt with part (1).&#xa;We're yet to deal with part (2)." modifyDate="2010-02-28T12:24:49" color="#ff0000" >
+     <base creationDate="2010-02-28T12:22:57" uniqueName="okular-49-3" author="Marc Ahrens" contents="Prob Theory can be seen as divided&#xa;in to two parts&#xa;1) The less contraversial manner  in&#xa;which probabilities of  combinations&#xa;of events are related to probabilities&#xa;of those &quot;atomic&quot; events.&#xa;ie probabilities of syntax trees of&#xa;predicates in terms of probabilities&#xa;of the leaves of those trees.&#xa;&#xa;2) The more contraversial question of&#xa;determinining the probabilities of those&#xa;&quot;atomic&quot; events in the first place.&#xa;ie What are the probabilities of the&#xa;LEAVES of the trees.&#xa;&#xa;Thus far we've dealt with part (1).&#xa;We're yet to deal with part (2).&#xa;" modifyDate="2010-02-28T12:24:49" color="#ff0000" >
       <boundary l="0.1171548117154812" r="0.8814504881450488" b="0.6752966558791802" t="0.6170442286947141" />
      </base>
      <hl>
@@ -1592,6 +1592,14 @@ stated w/ prob.s]]></escapedText>
       <quad dx="0.3007901960784313" cx="0.460005882352941" dy="0.8372348484848486" bx="0.460005882352941" cy="0.8372348484848486" ax="0.3007901960784313" by="0.8621843434343436" ay="0.8621843434343436" feather="1" />
      </hl>
     </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-11T20:03:35" uniqueName="okular-51-3" author="Marc Ahrens" contents="It is this indifference w.r.t. B that, combined with the requirement that equivalent problems should have equivalent analyses, that means p(A1|X) = p(A2|X)&#xa;&#xa;This prinicple (&quot;of indifference&quot;) for&#xa;assigning probabilities to leaves of&#xa;boolean syntax trees necessarily&#xa;means that the &quot;prior information&quot;&#xa;is encoded inthe probabilities." modifyDate="2010-03-11T20:05:29" color="#ff0000" >
+      <boundary l="0.1171548117154812" r="0.8061366806136681" b="0.6896551724137931" t="0.6476293103448276" />
+     </base>
+     <hl>
+      <quad dx="0.3262784313725489" cx="0.8058862745098039" dy="0.6477904040404041" bx="0.8058862745098039" cy="0.6477904040404041" ax="0.3262784313725489" by="0.6740530303030304" ay="0.6740530303030304" feather="1" />
+     </hl>
+    </annotation>
    </annotationList>
   </page>
   <page number="52" >
@@ -1677,15 +1685,6 @@ to the A_i  :]]></escapedText>
      </hl>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-02-28T13:34:05" uniqueName="okular-53-3" author="Marc Ahrens" modifyDate="2010-02-28T13:34:13" color="#ff0000" >
-      <boundary l="0.1517241379310345" r="0.8468965517241379" b="0.4238551650692226" t="0.3759318423855165" />
-     </base>
-     <hl>
-      <quad dx="0.1529443137254901" cx="0.6596109803921567" dy="0.3971338383838385" bx="0.6596109803921567" cy="0.3971338383838385" ax="0.1529443137254901" by="0.4247095959595961" ay="0.4247095959595961" feather="1" />
-      <quad dx="0.6596109803921568" cx="0.8470619607843137" dy="0.3971338383838385" bx="0.8470619607843137" cy="0.3971338383838385" ax="0.6596109803921568" by="0.4247095959595961" ay="0.4247095959595961" feather="1" />
-     </hl>
-    </annotation>
-    <annotation type="4" >
      <base creationDate="2010-02-28T13:35:00" uniqueName="okular-53-4" author="Marc Ahrens" modifyDate="2010-02-28T13:35:07" color="#ff0000" >
       <boundary l="0.1172413793103448" r="0.2096551724137931" b="0.5867944621938233" t="0.5463258785942492" />
      </base>
@@ -1708,6 +1707,14 @@ to the A_i  :]]></escapedText>
      <hl>
       <quad dx="0.6176556862745095" cx="0.8819694117647058" dy="0.8902146464646465" bx="0.8819694117647058" cy="0.8902146464646465" ax="0.6176556862745095" by="0.9164772727272729" ay="0.9164772727272729" feather="1" />
       <quad dx="0.1176560784313724" cx="0.5662835294117646" dy="0.9078409090909092" bx="0.5662835294117646" cy="0.9078409090909092" ax="0.1176560784313724" by="0.9327904040404041" ay="0.9327904040404041" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-11T20:12:43" uniqueName="okular-53-7" author="Marc Ahrens" contents="NOTE: the f'n p(x) had some&#xa;restrictions, but was still quite&#xa;arbitrary.&#xa;&#xa;The SUM &amp; PRODUCT rules showed&#xa;that, for a given def'n of p, the&#xa;rel'ships between a boolean syntax&#xa;tree and its leaves are fixed.&#xa;&#xa;But still p was arbitrary.&#xa;&#xa;THE PRINCIPLE OF INDIFFERENCE,&#xa;though, gives the values of the p's&#xa;for the leaves, which are also&#xa;independant of the def'n of p.&#xa;&#xa;Thus the whole calculus is&#xa;independant of the precise def'n of&#xa;p!!!&#xa;&#xa;The def'n of p, relating p(x) which&#xa;we have a complete calculus for,&#xa;to x is then irrelevant, as long as&#xa;we work with p(x) and not x." modifyDate="2010-03-11T20:12:52" color="#ff0000" >
+      <boundary l="0.116991643454039" r="0.8551532033426184" b="0.4833153928955867" t="0.4413347685683531" />
+     </base>
+     <hl>
+      <quad dx="0.1839250980392156" cx="0.8254933333333332" dy="0.4420833333333335" bx="0.8254933333333332" cy="0.4420833333333335" ax="0.1839250980392156" by="0.4670328282828284" ay="0.4670328282828284" feather="1" />
      </hl>
     </annotation>
    </annotationList>
@@ -1865,6 +1872,1213 @@ infinite sets]]></escapedText>
     </annotation>
    </annotationList>
   </page>
+  <page number="61" >
+   <annotationList>
+    <annotation type="1" >
+     <base opacity="0.28" creationDate="2010-03-11T20:18:58" uniqueName="okular-61-2" author="Marc Ahrens" modifyDate="2010-03-11T21:26:15" color="#ff0000" >
+      <boundary l="0.08345120226308345" r="0.8953323903818954" b="0.3687089715536105" t="0.2297592997811816" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,75,0,0,0,0,0" >
+      <escapedText><![CDATA[
+
+Rules for finding prob. of
+Boolean syntax trees i.t.o.
+its prob.s of its leaves.]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.28" creationDate="2010-03-11T20:21:15" uniqueName="okular-61-4" author="Marc Ahrens" modifyDate="2010-03-11T20:55:55" color="#ff0000" >
+      <boundary l="0.1216407355021216" r="0.884016973125884" b="0.5678336980306345" t="0.4266958424507659" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,75,0,0,0,0,0" >
+      <escapedText><![CDATA[Rules for finding prob.s
+of the LEAVES of Boolean
+syntax trees.]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-22T21:25:14" uniqueName="okular-61-5" author="Marc Ahrens" modifyDate="2010-03-22T21:25:14" color="#ffff00" >
+      <boundary l="0.188943894389439" r="0.5858085808580858" b="0.8960459183673469" t="0.8526785714285714" />
+     </base>
+     <hl>
+      <quad dx="0.3592176470588235" cx="0.5807862745098038" dy="0.8529419191919193" bx="0.5807862745098038" cy="0.8529419191919193" ax="0.3592176470588235" by="0.8792045454545455" ay="0.8792045454545455" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-22T21:25:25" uniqueName="okular-61-6" author="Marc Ahrens" modifyDate="2010-03-22T21:25:25" color="#ffff00" >
+      <boundary l="0.188943894389439" r="0.8407590759075908" b="0.8960459183673469" t="0.8526785714285714" />
+     </base>
+     <hl>
+      <quad dx="0.7152960784313723" cx="0.7223549019607841" dy="0.8539015151515152" bx="0.7223549019607841" cy="0.8539015151515152" ax="0.7152960784313723" by="0.8788510101010102" ay="0.8788510101010102" feather="1" />
+      <quad dx="0.7223549019607842" cx="0.841570588235294" dy="0.8529419191919193" bx="0.841570588235294" cy="0.8529419191919193" ax="0.7223549019607842" by="0.8792045454545455" ay="0.8792045454545455" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-22T21:25:30" uniqueName="okular-61-7" author="Marc Ahrens" modifyDate="2010-03-22T21:25:30" color="#ffff00" >
+      <boundary l="0.334983498349835" r="0.8176567656765676" b="0.8622448979591837" t="0.8182397959183674" />
+     </base>
+     <hl>
+      <quad dx="0.3356878431372549" cx="0.3952956862745097" dy="0.8365782828282828" bx="0.3952956862745097" cy="0.8365782828282828" ax="0.3356878431372549" by="0.8628409090909093" ay="0.8628409090909093" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-23T14:38:03" uniqueName="okular-61-8" author="Marc Ahrens" modifyDate="2010-03-23T14:38:58" color="#ffffff" >
+      <boundary l="0.679042904290429" r="0.8985148514851485" b="0.2244897959183673" t="0.1613520408163265" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Serif,6,-1,5,75,0,0,0,0,0" >
+      <escapedText><![CDATA[or
+COUNTING PROBLEMS]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="62" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T10:17:48" uniqueName="okular-62-1" author="Marc Ahrens" modifyDate="2010-03-13T10:17:48" color="#ffff00" >
+      <boundary l="0.1174825174825175" r="0.8825174825174825" b="0.5963203463203464" t="0.4523809523809524" />
+     </base>
+     <hl>
+      <quad dx="0.4341192156862745" cx="0.8823545098039213" dy="0.4696590909090909" bx="0.8823545098039213" cy="0.4696590909090909" ax="0.4341192156862745" by="0.4946085858585858" ay="0.4946085858585858" feather="1" />
+      <quad dx="0.117649019607843" cx="0.3870607843137254" dy="0.4860227272727273" bx="0.3870607843137254" cy="0.4860227272727273" ax="0.117649019607843" by="0.5109722222222223" ay="0.5109722222222223" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-22T21:19:17" uniqueName="okular-62-2" author="Marc Ahrens" modifyDate="2010-03-22T21:19:34" color="#ffffff" >
+      <boundary l="0.6672268907563025" r="0.8285714285714286" b="0.9809276980329612" t="0.9064327485380117" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[       (M  r)
+  = ----------
+       (N  r)]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-23T19:24:56" uniqueName="okular-62-3" author="Marc Ahrens" modifyDate="2010-03-23T19:25:04" color="#ffff00" >
+      <boundary l="0.09243697478991597" r="0.4445378151260504" b="0.9824561403508771" t="0.8992852501624431" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Prob of dawing r reds in a row from
+an urn w/ N balls inc M red ones. 
+NB You needn't memorize this: it's
+a special case of HGD (eq3-18)]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="63" >
+   <annotationList>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-13T21:15:10" uniqueName="okular-63-1" author="Marc Ahrens" modifyDate="2010-03-13T21:15:23" color="#ff0000" >
+      <boundary l="0.254957507082153" r="0.7393767705382436" b="0.4611171960569551" t="0.4238773274917853" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T21:17:10" uniqueName="okular-63-2" author="Marc Ahrens" modifyDate="2010-03-13T21:17:44" color="#ff0000" >
+      <boundary l="0.1175637393767705" r="0.8810198300283286" b="0.5355969331872946" t="0.4775465498357064" />
+     </base>
+     <hl>
+      <quad dx="0.8494117647058824" cx="0.8823529411764706" dy="0.4784469696969698" bx="0.8823529411764706" cy="0.4784469696969698" ax="0.8494117647058824" by="0.5033964646464647" ay="0.5033964646464647" feather="1" />
+      <quad dx="0.1176470588235294" cx="0.7874509803921569" dy="0.4938510101010102" bx="0.7874509803921569" cy="0.4938510101010102" ax="0.1176470588235294" by="0.5201136363636364" ay="0.5201136363636364" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-13T22:10:48" uniqueName="okular-63-3" author="Marc Ahrens" modifyDate="2010-03-13T22:11:09" color="#ff0000" >
+      <boundary l="0.0764872521246459" r="0.2464589235127479" b="0.4611171960569551" t="0.4260679079956188" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[# ways of ordering (ie WITH
+NUMBERS PRESENT) a given
+fixed odering of red/white balls]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-13T22:12:38" uniqueName="okular-63-5" author="Marc Ahrens" contents="# ways of ordering -- WITH&#xa;NUMBERS PRESENT ON BALLS --&#xa;a given fixed odering of red &amp;&#xa;white balls. It's the same for any&#xa;particular ordering of red and white,&#xa;and accounts for precisely the&#xa;number of ways of arranging balls&#xa;INSIDE the red cohort and INSIDE&#xa;the white one.&#xa;&#xa;c.f. eq3-16, which ignores numbers&#xa;and counts the # of arrangements&#xa;of balls identified simply as red or &#xa;white." modifyDate="2010-03-13T22:12:38" color="#ffff00" >
+      <boundary l="0.7606232294617564" r="0.7906232294617564" b="0.4415991237677984" t="0.4184008762322015" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text icon="Note" />
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-14T13:36:14" uniqueName="okular-63-7" author="Marc Ahrens" contents="NB This discussion is really an alternative&#xa;derivation of eq3-14." modifyDate="2010-03-14T14:01:11" color="#ffff00" >
+      <boundary l="0.09327731092436975" r="0.1232773109243697" b="0.7899285250162442" t="0.7667316439246263" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text icon="Note" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-21T15:00:43" uniqueName="okular-63-8" author="Marc Ahrens" modifyDate="2010-03-21T15:00:55" color="#ffffff" >
+      <boundary l="0.6773109243697479" r="0.8260504201680672" b="0.2716049382716049" t="0.2235217673814165" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,4,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[     (N-M   w)
+=--------------- cf eq3-11
+     (   N    w)
+
+w/ "(N w)"="N choose k"
+]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-22T21:26:41" uniqueName="okular-63-10" author="Marc Ahrens" modifyDate="2010-03-22T21:27:43" color="#ffff00" >
+      <boundary l="0.07815126050420168" r="0.2680672268907563" b="0.3859649122807017" t="0.3333333333333333" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[eq3-12, except w/ 
+N->N-r, M->M-r
+to account for r balls]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-23T19:29:14" uniqueName="okular-63-11" author="Marc Ahrens" modifyDate="2010-03-23T19:29:21" color="#ffff00" >
+      <boundary l="0.07815126050420168" r="0.3126050420168067" b="0.2716049382716049" t="0.2170240415854451" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[eq3-11, but for
+WHITE balls use
+N -> N-M, r -> w]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-24T11:07:12" uniqueName="okular-63-13" author="Marc Ahrens" modifyDate="2010-03-24T11:07:35" color="#ffffff" >
+      <boundary l="0.488235294117647" r="0.7378151260504202" b="0.4910287081339713" t="0.4619883040935672" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[=(N-n  M-r)/(N  M)  (notes herein)
+
+
+Proof:
+P(R_1...R_r W_{r+1}...W_{r+w} B)
+=P(W_{r+1}...W_{r+w} | R_1...R_r B)
+    *P(R_1...R_r | B)
+= ( eq3-13 )*(eq3-11)
+= (M  r)/(N  r) * (N-M  w)/(N-r  w)
+= (R  r)/(N  r) * (W  w)/(N-r  w)
+(Using not'n R=M, W=N-M, w=n-r)
+
+   M!  r!(N-r)!   (N-M)!  (N-r-w)! w!
+=----------------------------------------
+   r!(M-r)!  N!   w!(N-M-w)!  (N-r)!
+
+   M!  (N-M)!  (N-n)! 
+=----------------------------------------
+   (M-r)!  N!   (N-M-w)! 
+
+                      (N-n)! 
+=----------------------------------------
+     (N  M)   (M-r)!(N-M-w)
+Now (M-r)+(N-M-w)=N-r-w=N-n.
+This means the factorials have the form 
+(a+b)!/a!/b!
+which is (a+b  a) is (a+b  b). So
+     (N-n  M-r) 
+=----------------------------------------
+     (N  M)
+
+]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-24T11:18:30" uniqueName="okular-63-14" author="Marc Ahrens" modifyDate="2010-03-24T11:18:40" color="#ffff00" >
+      <boundary l="0.7260504201680672" r="0.888235294117647" b="0.3905133203378817" t="0.3300844704353476" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[    (N-M  w)
+=--------------
+    (N-r   w)]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="64" >
+   <annotationList>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-13T21:24:18" uniqueName="okular-64-1" author="Marc Ahrens" modifyDate="2010-03-13T21:24:30" color="#ff0000" >
+      <boundary l="0.4220963172804533" r="0.5864022662889519" b="0.3055859802847755" t="0.2573932092004381" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T21:24:53" uniqueName="okular-64-2" author="Marc Ahrens" modifyDate="2010-03-13T21:24:53" color="#ffff00" >
+      <boundary l="0.1643059490084986" r="0.8810198300283286" b="0.3472070098576123" t="0.3044906900328587" />
+     </base>
+     <hl>
+      <quad dx="0.165098431372549" cx="0.3709807843137254" dy="0.3214267676767676" bx="0.3709807843137254" cy="0.3214267676767676" ax="0.165098431372549" by="0.347689393939394" ay="0.347689393939394" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-13T21:28:26" uniqueName="okular-64-4" author="Marc Ahrens" contents="To see this is the value, consider balls to be coloured &#xa;red or white AND numbered from 1..n. The numbers&#xa;will be ultimately disregarded, as though balls were only&#xa;ever identified by colour.&#xa;&#xa;Then, according to the numbers, there are n! ways of&#xa;placing the balls: n for the 1st, n-1 for 2nd, etc.&#xa;&#xa;Now that the n balls are in place, consider ONLY RED BALLS:&#xa;there are r of them, with r! ways of ordering them.&#xa;&#xa;As for white balls, there are w=n-r of them, with (n-r)! ways&#xa;of ordering them.&#xa;&#xa;By ignoring the numbers, all the different ways of ordering&#xa;red balls (once all balls are placed) among themselves&#xa;become identical, reducing the total orderings by r!.&#xa;&#xa;Likewise, by ignoring numbers, the (n-r)! ways of ordering&#xa;white balls among themselves become identical.&#xa;&#xa;Thus, the #WAYS OF PLACING N WHITE &amp; RED BALLS&#xa;WITH NO OTHER IDENTIFYING FEATURES INTO N BOXES&#xa;IS GIVEN BY eq3-16.&#xa;" modifyDate="2010-03-13T21:41:02" color="#ff0000" >
+      <boundary l="0.6090651558073654" r="0.6390651558073654" b="0.2926396495071193" t="0.2694414019715224" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text icon="Note" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.29" creationDate="2010-03-13T21:38:54" uniqueName="okular-64-5" author="Marc Ahrens" modifyDate="2010-03-13T21:40:03" color="#ff0000" >
+      <boundary l="0.08923512747875353" r="0.4135977337110481" b="0.3055859802847755" t="0.2595837897042717" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[#ways of placing r red balls and
+(n-r) white ones in n boxes]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.29" creationDate="2010-03-13T22:20:47" uniqueName="okular-64-6" author="Marc Ahrens" modifyDate="2010-03-23T19:05:17" color="#ff0000" >
+      <boundary l="0.3526912181303116" r="0.6572237960339944" b="0.8017524644030668" t="0.7086527929901424" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[NB see notes
+herein
+
+
+
+
+
+FIRST
+There is a symmetrised form of
+eq3-18, viz eq3-62. Calling
+R=M=# of red in urn
+W=N-M=#of white in urn
+w=n-r=# of white drawn
+
+then the RHS becomes
+ (R  r)(W  w)
+--------------------
+     (N  n)
+The LHS is interesting too. eq3-18
+specifies r & n, but we can use
+exactly 2 of {r,w,n} -- any more
+over-determines the system.
+
+Sim., we can use any 2 of
+{N,R=M,W=N-M}. These figures
+are set before the experiment,
+so are part of "prior info".
+
+But of {r,w,n},n is prior info, while
+r,w aren't. Thus, the LHS may be
+h(r,w|R,W) or h(r|R,W,n). The
+former form is the one that
+appears later in the GENERALISED
+HGD (of k kinds), ie eq3-63.
+
+SECOND
+The HGD should cover the case of
+eqs 3-11 & 3-12 for when all balls drawn
+are red (w=0) and all are white (r=0) resp.
+
+If all balls drawn are red, then w=0 & n=r.
+Thus, n-r=0, so 
+   (N-M  n-r)=1
+and eq3-18 gives
+h(r|N,M,n)
+=(M  r)/(N  n)
+=(M  r)/(N  r)
+which is eq3-11.
+
+Thus the HGD includes the counting problems
+from which it was derived where one has a
+string of one colour.
+
+THIRD: Proof of eq3-18
+h(r|N,M,n)=(eq3-16)*(eq3-14)
+=(n  r)*(N-n  M-r)/(N  M)
+
+      n!       M!(N-M)!   (N-n)!
+=----------------------------------------------
+   r!(n-r)!      N!          (M-r)!(N-n-M+r)!
+
+Using not'n M=R, w=n-r, W=N-M
+
+      n!       R!W!   (N-n)!
+=----------------------------------------------
+   r!w!      N!          (R-r)!(W-w)!
+
+      n!       R!     (N-n)!   (W  w)
+=----------------------------------------------
+   r!        N!          (R-r)!
+
+               R!                (W  w)
+=----------------------------------------------
+   r!                    (R-r)! (N  n)
+
+    (R  r)  (W  w)
+=-------------------------   (HGD of 2 kinds)
+        (N  n)
+]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-13T22:21:41" uniqueName="okular-64-8" author="Marc Ahrens" modifyDate="2010-03-23T19:12:30" color="#ff0000" >
+      <boundary l="0.1218130311614731" r="0.3456090651558074" b="0.7940854326396495" t="0.7294633077765608" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,8,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Hypergeometric
+Distribution
+(of 2 kinds)]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-13T22:24:30" uniqueName="okular-64-9" author="Marc Ahrens" modifyDate="2010-03-13T22:26:06" color="#ffffff" >
+      <boundary l="0.6728045325779037" r="0.8356940509915014" b="0.80065717415115" t="0.7108433734939759" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,5,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[r=# red balls drawn
+      from urn
+n=#balls drawn
+       from urn
+N=#balls in urn
+M=#red balls in urn
+]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T22:27:07" uniqueName="okular-64-10" author="Marc Ahrens" modifyDate="2010-03-13T22:43:25" color="#ff0000" >
+      <boundary l="0.1175637393767705" r="0.8810198300283286" b="0.6615553121577218" t="0.619934282584885" />
+     </base>
+     <hl>
+      <quad dx="0.3576474509803922" cx="0.74902" dy="0.6350126262626262" bx="0.74902" cy="0.6350126262626262" ax="0.3576474509803922" by="0.6625883838383838" ay="0.6625883838383838" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-19T21:19:48" uniqueName="okular-64-11" author="Marc Ahrens" modifyDate="2010-03-19T21:20:07" color="#ffff00" >
+      <boundary l="0.5536959553695955" r="0.8786610878661087" b="0.6245096597038345" t="0.5954692556634305" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[See note next to eq3-16]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="65" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T22:50:23" uniqueName="okular-65-1" author="Marc Ahrens" contents="...because the most probable r is&#xa;r'=(n+1)(M+1)/(N+2), so&#xa;f=r'/n=(n+1)(M+1)/(N+2)/n&#xa;&#xa;and for larger n, (n+1)/n -> 1, so&#xa;f -> (M+1)/(N+2) ~ M/N&#xa;" modifyDate="2010-03-13T22:50:23" color="#ffff00" >
+      <boundary l="0.1175637393767705" r="0.8810198300283286" b="0.7294633077765608" t="0.6714129244249726" />
+     </base>
+     <hl>
+      <quad dx="0.4376470588235294" cx="0.8823529411764706" dy="0.6714267676767677" bx="0.8823529411764706" cy="0.6714267676767677" ax="0.4376470588235294" by="0.697689393939394" ay="0.697689393939394" feather="1" />
+      <quad dx="0.1176470588235294" cx="0.7137254901960781" dy="0.687790404040404" bx="0.7137254901960781" cy="0.687790404040404" ax="0.1176470588235294" by="0.7140530303030305" ay="0.7140530303030305" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T23:13:42" uniqueName="okular-65-5" author="Marc Ahrens" modifyDate="2010-03-13T23:14:33" color="#ff0000" >
+      <boundary l="0.1175637393767705" r="0.8810198300283286" b="0.8313253012048193" t="0.7732749178532311" />
+     </base>
+     <hl>
+      <quad dx="0.6137266666666666" cx="0.8823541176470588" dy="0.7739015151515153" bx="0.8823541176470588" cy="0.7739015151515153" ax="0.6137266666666666" by="0.7988510101010101" ay="0.7988510101010101" feather="1" />
+      <quad dx="0.1176486274509803" cx="0.5423545098039214" dy="0.7896085858585858" bx="0.5423545098039214" cy="0.7896085858585858" ax="0.1176486274509803" by="0.8158712121212122" ay="0.8158712121212122" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-13T23:13:58" uniqueName="okular-65-6" author="Marc Ahrens" modifyDate="2010-03-13T23:14:22" color="#ff0000" >
+      <boundary l="0.4036827195467422" r="0.6161473087818697" b="0.8619934282584885" t="0.8116100766703176" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-14T11:32:58" uniqueName="okular-65-8" author="Marc Ahrens" modifyDate="2010-03-14T11:33:07" color="#ff0000" >
+      <boundary l="0.1175637393767705" r="0.8824362606232294" b="0.932092004381161" t="0.8893756845564075" />
+     </base>
+     <hl>
+      <quad dx="0.1839239215686274" cx="0.2458847058823529" dy="0.8911742424242425" bx="0.2458847058823529" cy="0.8911742424242425" ax="0.1839239215686274" by="0.9161237373737374" ay="0.9161237373737374" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-14T11:33:18" uniqueName="okular-65-9" author="Marc Ahrens" modifyDate="2010-03-14T11:33:43" color="#00ff00" >
+      <boundary l="0.1529745042492918" r="0.2861189801699717" b="0.1193866374589266" t="0.05476451259583789" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[
+  'median'
+
+
+
+=roughly, for a PDF p(x), with
+CDF P(X)=\int_{x=0}^{x=X}dx p(x)
+the median of p(x) is the value X of x
+s.t. P(X)=0.5]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="66" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T23:04:21" uniqueName="okular-66-1" author="Marc Ahrens" modifyDate="2010-03-13T23:04:33" color="#ff0000" >
+      <boundary l="0.1174033149171271" r="0.8812154696132597" b="0.2465314834578442" t="0.1867662753468517" />
+     </base>
+     <hl>
+      <quad dx="0.6509807843137254" cx="0.8819611764705884" dy="0.1874873737373738" bx="0.8819611764705884" cy="0.1874873737373738" ax="0.6509807843137254" by="0.2137500000000001" ay="0.2137500000000001" feather="1" />
+      <quad dx="0.1176478431372549" cx="0.274118431372549" dy="0.2041540404040405" bx="0.274118431372549" cy="0.2041540404040405" ax="0.1176478431372549" by="0.2304166666666668" ay="0.2304166666666668" feather="1" />
+      <quad dx="0.274118431372549" cx="0.4082360784313726" dy="0.2041540404040405" bx="0.4082360784313726" cy="0.2041540404040405" ax="0.274118431372549" by="0.2304166666666668" ay="0.2304166666666668" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T23:10:39" uniqueName="okular-66-2" author="Marc Ahrens" modifyDate="2010-03-13T23:10:39" color="#ffff00" >
+      <boundary l="0.1174033149171271" r="0.2679558011049724" b="0.567769477054429" t="0.5432230522945571" />
+     </base>
+     <hl>
+      <quad dx="0.1176525490196077" cx="0.2682407843137254" dy="0.5435984848484849" bx="0.2682407843137254" cy="0.5435984848484849" ax="0.1176525490196077" by="0.5685479797979799" ay="0.5685479797979799" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T23:10:45" uniqueName="okular-66-3" author="Marc Ahrens" modifyDate="2010-03-13T23:10:45" color="#ffff00" >
+      <boundary l="0.3895027624309392" r="0.6104972375690608" b="0.5901814300960512" t="0.5624332977588047" />
+     </base>
+     <hl>
+      <quad dx="0.3898094117647058" cx="0.4152996078431371" dy="0.5644570707070709" bx="0.4152996078431371" cy="0.5644570707070709" ax="0.3898094117647058" by="0.5907196969696972" ay="0.5907196969696972" feather="1" />
+      <quad dx="0.4156917647058823" cx="0.5286329411764704" dy="0.5634974747474749" bx="0.5286329411764704" cy="0.5634974747474749" ax="0.4156917647058823" by="0.5910732323232325" ay="0.5910732323232325" feather="1" />
+      <quad dx="0.5286329411764705" cx="0.5368682352941176" dy="0.5644570707070709" bx="0.5368682352941176" cy="0.5644570707070709" ax="0.5286329411764705" by="0.5907196969696972" ay="0.5907196969696972" feather="1" />
+      <quad dx="0.5372603921568626" cx="0.610985882352941" dy="0.5634974747474749" bx="0.610985882352941" cy="0.5634974747474749" ax="0.5372603921568626" by="0.5910732323232325" ay="0.5910732323232325" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="68" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T23:19:01" uniqueName="okular-68-1" author="Marc Ahrens" contents="This is another clear instance of&#xa;probabilities describing state of&#xa;knowlege rather than physical states.&#xa;&#xa;The probability eq3-32 is readily&#xa;derivable, but is clearly not what we'd&#xa;get for if we had knowledge of&#xa;previous draws.&#xa;&#xa;" modifyDate="2010-03-13T23:19:16" color="#ff0000" >
+      <boundary l="0.1175637393767705" r="0.8810198300283286" b="0.4698795180722892" t="0.411829134720701" />
+     </base>
+     <hl>
+      <quad dx="0.4337254901960785" cx="0.8823529411764706" dy="0.4120833333333334" bx="0.8823529411764706" cy="0.4120833333333334" ax="0.4337254901960785" by="0.4370328282828283" ay="0.4370328282828283" feather="1" />
+      <quad dx="0.1176474509803921" cx="0.8823533333333333" dy="0.4287500000000001" bx="0.8823533333333333" cy="0.4287500000000001" ax="0.1176474509803921" by="0.453699494949495" ay="0.453699494949495" feather="1" />
+      <quad dx="0.1176478431372549" cx="0.3384321568627451" dy="0.4454166666666667" bx="0.3384321568627451" cy="0.4454166666666667" ax="0.1176478431372549" by="0.4703661616161616" ay="0.4703661616161616" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T23:24:54" uniqueName="okular-68-2" author="Marc Ahrens" modifyDate="2010-03-13T23:25:05" color="#ff0000" >
+      <boundary l="0.1175637393767705" r="0.8824362606232294" b="0.8127053669222344" t="0.7546549835706462" />
+     </base>
+     <hl>
+      <quad dx="0.6031411764705882" cx="0.8827490196078431" dy="0.7557196969696971" bx="0.8827490196078431" cy="0.7557196969696971" ax="0.6031411764705882" by="0.780669191919192" ay="0.780669191919192" feather="1" />
+      <quad dx="0.1176513725490195" cx="0.7145141176470587" dy="0.7720833333333333" bx="0.7145141176470587" cy="0.7720833333333333" ax="0.1176513725490195" by="0.7970328282828284" ay="0.7970328282828284" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-14T11:56:57" uniqueName="okular-68-3" author="Marc Ahrens" contents="In this whole section, up to its end on&#xa;p311, Jaynes is concerned with &#xa;stressing the idea that probability&#xa;describes INFORMATION, and NOT&#xa;CAUSATION.&#xa;&#xa;In turn, this means it's perfectly&#xa;reasonable for events occuring&#xa;LATER in time to effect one's&#xa;reasoning about the probability of&#xa;events that have happened EARLIER. As he says, this is what&#xa;archeology is all about!" modifyDate="2010-03-14T11:56:57" color="#ffff00" >
+      <boundary l="0.1175637393767705" r="0.339943342776204" b="0.6232201533406353" t="0.592552026286966" />
+     </base>
+     <hl>
+      <quad dx="0.1176490196078431" cx="0.3341196078431372" dy="0.5930934343434343" bx="0.3341196078431372" cy="0.5930934343434343" ax="0.1176490196078431" by="0.6232954545454545" ay="0.6232954545454545" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="69" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T23:25:25" uniqueName="okular-69-1" author="Marc Ahrens" contents="So we assume here that the robot&#xa;has no knowledge of other draws.5&#xa;" modifyDate="2010-03-13T23:25:25" color="#ffff00" >
+      <boundary l="0.1175637393767705" r="0.6954674220963173" b="0.1960569550930997" t="0.1369112814895947" />
+     </base>
+     <hl>
+      <quad dx="0.332941568627451" cx="0.3674513725490196" dy="0.1674873737373738" bx="0.3674513725490196" cy="0.1674873737373738" ax="0.332941568627451" by="0.19375" ay="0.19375" feather="1" />
+      <quad dx="0.3674513725490196" cx="0.3749023529411765" dy="0.16864898989899" bx="0.3749023529411765" cy="0.16864898989899" ax="0.3674513725490196" by="0.1962247474747476" ay="0.1962247474747476" feather="1" />
+      <quad dx="0.3749023529411765" cx="0.4596082352941177" dy="0.1665277777777778" bx="0.4596082352941177" cy="0.1665277777777778" ax="0.3749023529411765" by="0.1941035353535354" ay="0.1941035353535354" feather="1" />
+      <quad dx="0.4596082352941177" cx="0.4682356862745098" dy="0.16864898989899" bx="0.4682356862745098" cy="0.16864898989899" ax="0.4596082352941177" by="0.1962247474747476" ay="0.1962247474747476" feather="1" />
+      <quad dx="0.4682356862745098" cx="0.6435298039215687" dy="0.1665277777777778" bx="0.6435298039215687" cy="0.1665277777777778" ax="0.4682356862745098" by="0.1941035353535354" ay="0.1941035353535354" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-13T23:27:49" uniqueName="okular-69-2" author="Marc Ahrens" contents="In the absence of knowledge of&#xa;most other draws, the prob of&#xa;Rj given Rk MATCHES that of Rk&#xa;given Rj.&#xa;&#xa;NB the order of k &amp; j doesn't matter.&#xa;&#xa;Of coruse, there's no breach of&#xa;causality, since the &quot;probabilities&quot; are&#xa;only numbers stating the knowledge&#xa;of a reasoning entity." modifyDate="2010-03-13T23:27:49" color="#ffff00" >
+      <boundary l="0.3371104815864023" r="0.5424929178470255" b="0.2332968236582695" t="0.203723986856517" />
+     </base>
+     <hl>
+      <quad dx="0.3380396078431373" cx="0.3588239215686274" dy="0.2050631313131315" bx="0.3588239215686274" cy="0.2050631313131315" ax="0.3380396078431373" by="0.2313257575757577" ay="0.2313257575757577" feather="1" />
+      <quad dx="0.3588239215686275" cx="0.3725494117647059" dy="0.2050631313131315" bx="0.3725494117647059" cy="0.2050631313131315" ax="0.3588239215686275" by="0.2313257575757577" ay="0.2313257575757577" feather="1" />
+      <quad dx="0.3725494117647059" cx="0.3800003921568627" dy="0.2062247474747476" bx="0.3800003921568627" cy="0.2062247474747476" ax="0.3725494117647059" by="0.2338005050505051" ay="0.2338005050505051" feather="1" />
+      <quad dx="0.3800003921568627" cx="0.3988239215686274" dy="0.2041035353535355" bx="0.3988239215686274" cy="0.2041035353535355" ax="0.3800003921568627" by="0.2316792929292931" ay="0.2316792929292931" feather="1" />
+      <quad dx="0.3988239215686274" cx="0.4062749019607843" dy="0.2062247474747476" bx="0.4062749019607843" cy="0.2062247474747476" ax="0.3988239215686274" by="0.2338005050505051" ay="0.2338005050505051" feather="1" />
+      <quad dx="0.4070592156862745" cx="0.4866670588235294" dy="0.2050631313131315" bx="0.4866670588235294" cy="0.2050631313131315" ax="0.4070592156862745" by="0.2313257575757577" ay="0.2313257575757577" feather="1" />
+      <quad dx="0.4866670588235294" cx="0.4952945098039216" dy="0.2062247474747476" bx="0.4952945098039216" cy="0.2062247474747476" ax="0.4866670588235294" by="0.2338005050505051" ay="0.2338005050505051" feather="1" />
+      <quad dx="0.4952945098039216" cx="0.5141180392156863" dy="0.2041035353535355" bx="0.5141180392156863" cy="0.2041035353535355" ax="0.4952945098039216" by="0.2316792929292931" ay="0.2316792929292931" feather="1" />
+      <quad dx="0.5141180392156863" cx="0.5215690196078432" dy="0.2062247474747476" bx="0.5215690196078432" cy="0.2062247474747476" ax="0.5141180392156863" by="0.2338005050505051" ay="0.2338005050505051" feather="1" />
+      <quad dx="0.5215690196078432" cx="0.5349023529411765" dy="0.2050631313131315" bx="0.5349023529411765" cy="0.2050631313131315" ax="0.5215690196078432" by="0.2313257575757577" ay="0.2313257575757577" feather="1" />
+      <quad dx="0.5356866666666666" cx="0.5427454901960784" dy="0.2060227272727274" bx="0.5427454901960784" cy="0.2060227272727274" ax="0.5356866666666666" by="0.2309722222222224" ay="0.2309722222222224" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-14T00:54:41" uniqueName="okular-69-4" author="Marc Ahrens" modifyDate="2010-03-14T00:54:51" color="#ff0000" >
+      <boundary l="0.1176470588235294" r="0.8823529411764706" b="0.332033788174139" t="0.2742040285899935" />
+     </base>
+     <hl>
+      <quad dx="0.5356870588235294" cx="0.882745882352941" dy="0.274507575757576" bx="0.882745882352941" cy="0.274507575757576" ax="0.5356870588235294" by="0.2994570707070709" ay="0.2994570707070709" feather="1" />
+      <quad dx="0.1176482352941176" cx="0.7713737254901961" dy="0.2911742424242425" bx="0.7713737254901961" cy="0.2911742424242425" ax="0.1176482352941176" by="0.3161237373737374" ay="0.3161237373737374" feather="1" />
+      <quad dx="0.1176486274509804" cx="0.7725505882352942" dy="0.3075378787878789" bx="0.7725505882352942" cy="0.3075378787878789" ax="0.1176486274509804" by="0.3324873737373739" ay="0.3324873737373739" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="70" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-14T01:18:07" uniqueName="okular-70-1" author="Marc Ahrens" modifyDate="2010-03-14T01:18:07" color="#ffff00" >
+      <boundary l="0.1168067226890756" r="0.8815126050420168" b="0.1773879142300195" t="0.1195581546458739" />
+     </base>
+     <hl>
+      <quad dx="0.6956858823529413" cx="0.8819603921568628" dy="0.1199621212121213" bx="0.8819603921568628" cy="0.1199621212121213" ax="0.6956858823529413" by="0.1449116161616162" ay="0.1449116161616162" feather="1" />
+      <quad dx="0.1176470588235294" cx="0.8819603921568628" dy="0.1363257575757577" bx="0.8819603921568628" cy="0.1363257575757577" ax="0.1176470588235294" by="0.1612752525252526" ay="0.1612752525252526" feather="1" />
+      <quad dx="0.1176470588235294" cx="0.1905882352941176" dy="0.1529924242424244" bx="0.1905882352941176" cy="0.1529924242424244" ax="0.1176470588235294" by="0.1779419191919193" ay="0.1779419191919193" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-14T11:36:31" uniqueName="okular-70-2" author="Marc Ahrens" modifyDate="2010-03-14T11:36:50" color="#00ff00" >
+      <boundary l="0.1572237960339943" r="0.3796033994334277" b="0.1193866374589266" t="0.06024096385542169" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[  'Exchangable'
+  distributions
+
+
+Are ones where the probability for a
+given outcome is determined only
+by the freq. distrib'n of that outcome,
+an not by the ordering. Ie, prob. is
+invariant to reordering of the seq. of
+events that comprise that outcome.]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-14T11:37:19" uniqueName="okular-70-3" author="Marc Ahrens" modifyDate="2010-03-14T11:37:28" color="#ff0000" >
+      <boundary l="0.1175637393767705" r="0.8597733711048159" b="0.5136911281489595" t="0.4720700985761227" />
+     </base>
+     <hl>
+      <quad dx="0.7560827450980392" cx="0.8549062745098037" dy="0.473169191919192" bx="0.8549062745098037" cy="0.473169191919192" ax="0.7560827450980392" by="0.4974621212121214" ay="0.4974621212121214" feather="1" />
+      <quad dx="0.8549062745098038" cx="0.8600043137254901" dy="0.4726893939393941" bx="0.8600043137254901" cy="0.4726893939393941" ax="0.8549062745098038" by="0.497638888888889" ay="0.497638888888889" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="71" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-14T11:52:39" uniqueName="okular-71-1" author="Marc Ahrens" contents="ie regrdless of the order of j and k.&#xa;Again, the point Jaynes is stressing&#xa;is not simply thre sult 3-40, which is&#xa;quite intuitive if Rk comes after Rj,&#xa;but that it holds even if Rk happens&#xa;BEFORE Rj.&#xa;&#xa;Of course, this is only counterintuitive&#xa;if you see probabilites as describing&#xa;CAUSATIONS rather than just&#xa;information." modifyDate="2010-03-14T11:52:39" color="#ffff00" >
+      <boundary l="0.5396600566572238" r="0.6770538243626062" b="0.4622124863088719" t="0.4348302300109529" />
+     </base>
+     <hl>
+      <quad dx="0.5399999999999998" cx="0.6772549019607843" dy="0.4350126262626263" bx="0.6772549019607843" cy="0.4350126262626263" ax="0.5399999999999998" by="0.4625883838383839" ay="0.4625883838383839" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-14T12:18:25" uniqueName="okular-71-2" author="Marc Ahrens" contents="in other words &quot;... we appeal again&#xa;to Bayes' Theorem for deriving&#xa;the reverse of the conditional&#xa;probability&quot;.&#xa;" modifyDate="2010-03-14T12:18:25" color="#ffff00" >
+      <boundary l="0.1175637393767705" r="0.6940509915014165" b="0.8433734939759037" t="0.8017524644030668" />
+     </base>
+     <hl>
+      <quad dx="0.1176498039215685" cx="0.5051007843137253" dy="0.8190530303030303" bx="0.5051007843137253" cy="0.8190530303030303" ax="0.1176498039215685" by="0.8440025252525253" ay="0.8440025252525253" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="72" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-14T12:06:21" uniqueName="okular-72-2" author="Marc Ahrens" modifyDate="2010-03-14T12:06:21" color="#ffff00" >
+      <boundary l="0.1175616835994194" r="0.818577648766328" b="0.2536475869809203" t="0.1829405162738496" />
+     </base>
+     <hl>
+      <quad dx="0.1443145098039215" cx="0.5949027450980392" dy="0.2114267676767678" bx="0.5949027450980392" cy="0.2114267676767678" ax="0.1443145098039215" by="0.237689393939394" ay="0.237689393939394" feather="1" />
+      <quad dx="0.5949027450980392" cx="0.6094125490196078" dy="0.2125883838383839" bx="0.6094125490196078" cy="0.2125883838383839" ax="0.5949027450980392" by="0.2401641414141415" ay="0.2401641414141415" feather="1" />
+      <quad dx="0.6094125490196078" cx="0.8176478431372549" dy="0.2123863636363638" bx="0.8176478431372549" cy="0.2123863636363638" ax="0.6094125490196078" by="0.2373358585858587" ay="0.2373358585858587" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="2" >
+     <base opacity="0.5" creationDate="2010-03-14T12:09:09" uniqueName="okular-72-3" author="Marc Ahrens" modifyDate="2010-03-14T12:09:31" color="#ffe000" >
+      <boundary l="0.3686502177068215" r="0.6357039187227866" b="0.202020202020202" t="0.1694725028058361" />
+      <penStyle width="5" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <line>
+      <point x="0.3686502177068215" y="0.2031425364758698" />
+      <point x="0.637155297532656" y="0.1694725028058361" />
+     </line>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-16T14:33:17" uniqueName="okular-72-5" author="Marc Ahrens" modifyDate="2010-03-16T20:16:17" color="#ffff00" >
+      <boundary l="0.6275805119735756" r="0.8117258464079273" b="0.3361923836061767" t="0.3071519795657727" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,7,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Not 1/2**(n-k)? V
+
+
+( NB below (N w)="N choose w"=N!/[ w!*(N-w)! ])
+
+No, of course not:that would be the result if there were continually a 50% chance of white. This
+assumes #red=#white, ie M=N-M ie M=N/2, and
+also that draws do not change the probabiltiy,
+which is the case if the trials are done "with
+replacement" (a different procedure
+altogether), or if N is so large that taking one ball
+out barely changes the odds.
+
+So, we look for our 1/2**(n-k) result when using
+eq3-46 with cond'ns: M=N/2 and  N-> \infty.
+
+Define w=n-k.
+
+Then (N-M)=(N/2) and eq3-46 is
+[ (N/2)!(N-w)! ] / [ N!(N/2-w)! ]
+
+   (N/2-0)(N/2-1)(N/2-2)...(N/2-(w-1))
+=-------------------------------------------------------   ------(1)
+   (N-0)(N-1)(N-2)(N-3)...(N-(w-1))
+
+Now, this is a product of terms of the form
+[ N/2-a ] / [ N-a ]  ------(2)
+=   [ N/2a-1 ] / [ N/a-1 ]
+where a is \in {0,1,2,...(w-1)}
+
+Now, N -> \infty, so it dwarfs a. ie N/a -> \infty. In
+such a limit for the above expression, it approaches
+\infty / \infty, thus we can use L'Hopital's rule! We
+differentiate wrt N'=N/a
+lim_{N/a->\infty}[ N/2-a ] / [ N-a ]
+   =  {d/dN' [ N'/2-1 ]} / {d/dN' [ N'-1 ]}
+   =  1/2
+
+This is the general simplification of (2) when N>>a.
+There are w such terms in the product (1): one
+for 0, one for 1,... one for (w-1). All w of them
+simplify to 1/2, giving the result that, 
+
+FOR N->\infty, w/ M=N/2,
+(N-M)!(N-n+k)!
+---------------------  =  (1/2)**w  =  (1/2)**(n-k)
+N!(N-M-n+k)
+
+]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.1" creationDate="2010-03-16T20:09:50" uniqueName="okular-72-6" author="Marc Ahrens" modifyDate="2010-03-16T20:16:31" color="#231cff" >
+      <boundary l="0.4500412881915772" r="0.6094137076796037" b="0.3275862068965517" t="0.2950191570881226" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[<-- n-k factors --->]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.1" creationDate="2010-03-16T20:33:58" uniqueName="okular-72-7" author="Marc Ahrens" modifyDate="2010-03-16T20:34:21" color="#231cff" >
+      <boundary l="0.6003303055326177" r="0.6779521056977704" b="0.822477650063857" t="0.7796934865900383" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[
+
+
+P(R1|(R2+R3)B)
+={ P(R2+R3|R1*B) }( P(R1|B)) / [ P(R2+R3|B) ]
+={ 1-P(W2.W3|R1*B) }( P(R1|B) )/ [ 1-P(W2.W3|B) ]
+={ 1-2/3*1/2 }( 1/2)/ [ 1-2/4*1/3 ]
+={ 1-1/3 }( 1/2)/ [ 1-1/6 ]
+={ 2/3 }( 1/2)/ [ 5/6 ]
+={ 1/3 }( 1/1)* [ 6/5 ]
+= 2/5
+]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.1" creationDate="2010-03-16T20:43:29" uniqueName="okular-72-8" author="Marc Ahrens" modifyDate="2010-03-16T20:43:43" color="#231cff" >
+      <boundary l="0.490503715937242" r="0.5474814203137902" b="0.8199233716475096" t="0.7835249042145593" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[
+
+
+This comes about through applic'n
+of eq-349
+Below "(N k)"="N choose k"
+
+eq3-48 is
+P(Rk|RlaterB)
+=M/[N-n+k]*{(N-1 n-k)-(N-M n-k)}/{(N n-k)-(N-M n-k)} ---(1)
+With M=2, N=4, n=3, k=1:
+=2/[4-3+1]*{(4-1 3-1)-(4-2 3-1)}/{(4 3-1)-(4-2 3-1)}
+=2/[2]*{(3 2)-(2 2)}/{(4 2)-(2 2)}
+={(3 2)-(2 2)}/{(4 2)-(2 2)}
+
+Now, (3 2)=3!/2!/1!=3
+(2 2)=2!/2!/0!=1
+(4 2)=4!/2!/2!=3!=6
+
+(1)={3-1}/{6-1}=2/5 as suggested.
+
+]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-16T20:54:18" uniqueName="okular-72-11" author="Marc Ahrens" modifyDate="2010-03-16T20:55:21" color="#ffffff" >
+      <boundary l="0.1734104046242775" r="0.3212221304706854" b="0.8186462324393359" t="0.7854406130268199" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="Serif,6,-1,5,50,1,0,0,0,0" >
+      <escapedText><![CDATA[P(R1|RlaterB)=]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-16T21:28:31" uniqueName="okular-72-12" author="Marc Ahrens" contents="Then (N-M)=(N/2) and eq3-46 is&#xa;[ (N/2)!((N-1)-w)! ] / [ (N-1)!(N/2-w)! ]&#xa;=[ (N/2)!(N-(w+1))! ] / [ (N-1)!(N/2-w)! ]&#xa;&#xa;   (N/2-0)(N/2-1)(N/2-2)...(N/2-(w-1))&#xa;=-------------------------------------------------------   ------(1)&#xa;   (N-1)(N-2)(N-3)...(N-w)&#xa;" modifyDate="2010-03-17T11:46:08" color="#ffff00" >
+      <boundary l="0.781998348472337" r="0.811998348472337" b="0.5742848020434228" t="0.5510855683269477" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="Note" top="0" />
+     </base>
+     <text icon="Note" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="73" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-16T21:07:25" uniqueName="okular-73-1" author="Marc Ahrens" modifyDate="2010-03-16T21:07:25" color="#ffff00" >
+      <boundary l="0.1172584640792733" r="0.8819157720891825" b="0.6796426292278238" t="0.6215698787492023" />
+     </base>
+     <hl>
+      <quad dx="0.8364705882352941" cx="0.8823529411764706" dy="0.6217803030303031" bx="0.8823529411764706" cy="0.6217803030303031" ax="0.8364705882352941" by="0.646729797979798" ay="0.646729797979798" feather="1" />
+      <quad dx="0.1176474509803922" cx="0.6933337254901961" dy="0.6381439393939394" bx="0.6933337254901961" cy="0.6381439393939394" ax="0.1176474509803922" by="0.6630934343434345" ay="0.6630934343434345" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-16T21:10:56" uniqueName="okular-73-2" author="Marc Ahrens" contents="Meff = number of red balls remaining,&#xa;given the circumstance &quot;Rlater&quot;.&#xa;&#xa;Since the &quot;effective number removed&quot;&#xa;is 6/5, then&#xa;Meff=M-6/5=2-6/5=10/5-6/5=4/55" modifyDate="2010-03-16T21:10:56" color="#ffff00" >
+      <boundary l="0.6168455821635013" r="0.6490503715937241" b="0.9489470325462668" t="0.9227823867262285" />
+     </base>
+     <hl>
+      <quad dx="0.6176474509803921" cx="0.6313729411764705" dy="0.9242045454545454" bx="0.6313729411764705" cy="0.9242045454545454" ax="0.6176474509803921" by="0.9491540404040404" ay="0.9491540404040404" feather="1" />
+      <quad dx="0.6313729411764706" cx="0.649412156862745" dy="0.9232449494949495" bx="0.649412156862745" cy="0.9232449494949495" ax="0.6313729411764706" by="0.9495075757575757" ay="0.9495075757575757" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-16T21:13:20" uniqueName="okular-73-4" author="Marc Ahrens" contents="GIVEN the fact Rlater --  that at least&#xa;one ball has been removed -- the&#xa;prob. of balls removed is 1/5.&#xa;&#xa;The GIVEN removed ball must be&#xa;accounted for, so the effective&#xa;removed number is 1+1/5=6/5." modifyDate="2010-03-16T21:13:20" color="#ffff00" >
+      <boundary l="0.1288191577208918" r="0.2510322047894302" b="0.9489470325462668" t="0.9227823867262285" />
+     </base>
+     <hl>
+      <quad dx="0.1294121568627451" cx="0.1854905882352941" dy="0.9232449494949495" bx="0.1854905882352941" cy="0.9232449494949495" ax="0.1294121568627451" by="0.9495075757575757" ay="0.9495075757575757" feather="1" />
+      <quad dx="0.1854905882352941" cx="0.2517650980392157" dy="0.9232449494949495" bx="0.2517650980392157" cy="0.9232449494949495" ax="0.1854905882352941" by="0.9495075757575757" ay="0.9495075757575757" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="74" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-16T21:15:56" uniqueName="okular-74-1" author="Marc Ahrens" modifyDate="2010-03-16T21:15:56" color="#ffff00" >
+      <boundary l="0.1174524400330852" r="0.8817204301075269" b="0.3395140664961637" t="0.2819693094629156" />
+     </base>
+     <hl>
+      <quad dx="0.8129419607843137" cx="0.881961568627451" dy="0.2820833333333334" bx="0.881961568627451" cy="0.2820833333333334" ax="0.8129419607843137" by="0.3070328282828283" ay="0.3070328282828283" feather="1" />
+      <quad dx="0.1176478431372548" cx="0.3886282352941176" dy="0.2984469696969698" bx="0.3886282352941176" cy="0.2984469696969698" ax="0.1176478431372548" by="0.3233964646464647" ay="0.3233964646464647" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-16T21:21:33" uniqueName="okular-74-2" author="Marc Ahrens" modifyDate="2010-03-16T21:22:27" color="#ff0000" >
+      <boundary l="0.1174524400330852" r="0.8817204301075269" b="0.9494884910485933" t="0.8682864450127877" />
+     </base>
+     <hl>
+      <quad dx="0.5317650980392156" cx="0.8819611764705884" dy="0.8683964646464646" bx="0.8819611764705884" cy="0.8683964646464646" ax="0.5317650980392156" by="0.894659090909091" ay="0.894659090909091" feather="1" />
+      <quad dx="0.1176478431372548" cx="0.5160792156862745" dy="0.8850631313131313" bx="0.5160792156862745" cy="0.8850631313131313" ax="0.1176478431372548" by="0.9113257575757575" ay="0.9113257575757575" feather="1" />
+      <quad dx="0.5160792156862745" cx="0.5239223529411764" dy="0.8902550505050505" bx="0.5239223529411764" cy="0.8902550505050505" ax="0.5160792156862745" by="0.9123156565656565" ay="0.9123156565656565" feather="1" />
+      <quad dx="0.5239223529411764" cx="0.881961568627451" dy="0.8841035353535354" bx="0.881961568627451" cy="0.8841035353535354" ax="0.5239223529411764" by="0.9116792929292928" ay="0.9116792929292928" feather="1" />
+      <quad dx="0.1176478431372548" cx="0.3450988235294117" dy="0.9014267676767677" bx="0.3450988235294117" cy="0.9014267676767677" ax="0.1176478431372548" by="0.927689393939394" ay="0.927689393939394" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="75" >
+   <annotationList>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-17T18:03:25" uniqueName="okular-75-1" author="Marc Ahrens" modifyDate="2010-03-17T18:03:37" color="#ff0000" >
+      <boundary l="0.4069478908188586" r="0.6021505376344086" b="0.5645780051150895" t="0.4680306905370844" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-17T18:06:14" uniqueName="okular-75-3" author="Marc Ahrens" modifyDate="2010-03-17T18:06:28" color="#ffffff" >
+      <boundary l="0.6145574855252275" r="0.8213399503722084" b="0.5626598465473146" t="0.4686700767263427" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[where
+R=M=#red in urn
+W=N-M=#white in urn
+r=#red drawn from urn
+w=n-r]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T18:07:47" uniqueName="okular-75-4" author="Marc Ahrens" modifyDate="2010-03-17T18:07:55" color="#ff0000" >
+      <boundary l="0.1952026468155501" r="0.6699751861042184" b="0.6425831202046036" t="0.5959079283887468" />
+     </base>
+     <hl>
+      <quad dx="0.1952945098039215" cx="0.509412156862745" dy="0.6126893939393939" bx="0.509412156862745" cy="0.6126893939393939" ax="0.1952945098039215" by="0.6376388888888889" ay="0.6376388888888889" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.28" creationDate="2010-03-17T18:11:51" uniqueName="okular-75-6" author="Marc Ahrens" modifyDate="2010-03-23T19:13:56" color="#ff0000" >
+      <boundary l="0.1728701406120761" r="0.6881720430107527" b="0.7244245524296675" t="0.6329923273657289" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[GENERALISED HYPERGEOMETRIC
+DISTRIBUTION
+(of k kinds)
+Prob. of r_X draws of colour X, w/
+N_X of colour X in urn (k=#colours)]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T18:15:43" uniqueName="okular-75-7" author="Marc Ahrens" modifyDate="2010-03-17T18:15:43" color="#ffff00" >
+      <boundary l="0.1174524400330852" r="0.8817204301075269" b="0.868925831202046" t="0.7589514066496164" />
+     </base>
+     <hl>
+      <quad dx="0.3003925490196078" cx="0.8768631372549021" dy="0.7590530303030303" bx="0.8768631372549021" cy="0.7590530303030303" ax="0.3003925490196078" by="0.7840025252525253" ay="0.7840025252525253" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-19T21:29:13" uniqueName="okular-75-8" author="Marc Ahrens" modifyDate="2010-03-19T21:30:09" color="#ff0000" >
+      <boundary l="0.1142061281337047" r="0.3969359331476323" b="0.5657327586206896" t="0.4698275862068966" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[SYMMETERISED FORM
+OF HYPERGEOM. DIST.
+(of 2 kinds)
+(equiv to eq3-18)]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-20T15:49:01" uniqueName="okular-75-10" author="Marc Ahrens" contents="1st, define new symbols&#xa;N(i)=\Sigma_{j=i+1}^{k}N_j   &amp;   r(i)=\Sigma_{j=i+1}^{k}   r_j&#xa;&#xa;NB r1,r2,ri, etc mean the usual subscripted symbols.&#xa;&#xa;Note that N(0)=N, and r(0)=r&#xa;&#xa;Note, then, that&#xa;N(i)-N(i-1)=[ \Sigma_{j=i+1}^{k}N_j ] - [ \Sigma_{j=i}^{k}N_j ] = - N_i&#xa;ie N(i)+N_i = N(i-1).&#xa;&#xa;This means           ------------------------------(1)&#xa;N(1)+N_1 = N(0)&#xa;N(2)+N_2 = N(1)&#xa;N(3)+N_3 = N(2)&#xa;N(4)+N_4 = N(3)&#xa;etc.&#xa;&#xa;Similarly for r(1).&#xa;&#xa;Now, we approach the problem of a MULTINOMIAL distribution, by starting&#xa;by considering most of the colours to be identical. We start with only&#xa;two &quot;colours&quot;, namely, the one labelled &quot;1&quot;, and &quot;everything else&quot;. There&#xa;are N1 of the first &quot;colour&quot; in the urn, and N(1) of everthing else. The&#xa;number of ways of drawing balls is then h(r1,r(i)|N1,N(i)).&#xa;&#xa;Now consider 3 colours, N1, N2 &amp; N(2). There are h( r1,r2,r(2) | N1,N2,N(2))&#xa;ways of drawing them, but they can be factored in to the number of ways&#xa;of drawing the 2 colours N1&amp;N(1), and then considering a reduced number&#xa;of balls which ignores the N1 altogther -- that is, considering how the balls&#xa;apart from the N1 are drawn.&#xa;&#xa;Thus, we get&#xa;h( r1,r2,r(2) | N1,N2,N(2))=h( r1,r(1) | N1,N(1))*h( r2,r(2) | N2,N(2))&#xa;&#xa;Applying eq3-62 3 times we get&#xa;h( r1,r2,r(2) | N1,N2,N(2))&#xa;  (N1 r1)(N(1) r(1))            (N2 r2) (N(2) r(2))&#xa;=------------------------------ x -----------------------------------&#xa;  (N1+N(1)  r1+r(1))         (N2+N(2)  r2+r(2))&#xa;&#xa;Using (1)&#xa;  (N1 r1)(N(1) r(1))            (N2 r2) (N(2) r(2))&#xa;=------------------------------ x -----------------------------------&#xa;  (N(0)  r(0))                      (N(1)  r(1))&#xa;  (N1 r1) (N2 r2) (N(2) r(2))        ----------------------(2)&#xa;=----------------------------------------    (via cancellation of ( N(1) r(1)) )&#xa;  (N(0)  r(0))&#xa;&#xa;Likewise, for h( r1,r2,r3,r(3) | N1,N2,N3,N(3))&#xa;h( r1,r2,r3,r(3) | N1,N2,N3,N(3))=h( r1,r2,r(2) | N1,N2,N(2))*h( r3,r(3) | N3,N(3))&#xa;  (N1 r1) (N2 r2) (N(2) r(2))          (N3 r3) (N(3) r(3))&#xa;=----------------------------------------  x  --------------------------------------&#xa;  (N(0)  r(0))                                 ( N3+N(3)  r3+r(3) )&#xa;&#xa;by (2) above (for 1st factor) and eq3-62 (for 2nd)&#xa;  (N1 r1) (N2 r2) (N(2) r(2))          (N3 r3) (N(3) r(3))&#xa;=----------------------------------------  x  -------------------------------------- (by N(3)+N3=N(2), etc )&#xa;  (N(0)  r(0))                                 ( N(2)  r(2) )&#xa;&#xa;  (N1 r1) (N2 r2) (N3 r3) (N(3) r(3))       -----------------------(3)&#xa;=------------------------------------------------------   &#xa;  (N(0)  r(0))&#xa;&#xa;&#xa;From (2) &amp; (3) we can see the general pattern emerging:&#xa;h( r1,r2,r3,....,rk,r(k) | N1,N2,N3,...,Nk,N(k))=&#xa;  (N1 r1) (N2 r2) ....  (Nk rk) (N(k) r(k))      &#xa;=------------------------------------------------------   &#xa;  (N(0)  r(0))&#xa;&#xa;But note, by def'n of N(i), N(k)=0, &amp; sim. r(k)=0.&#xa;Also, N(0)=N &amp; r(0)=r. Thus, we get eq3-63&#xa;h( r1,r2,r3,....,rk | N1,N2,N3,...,Nk)=&#xa;  (N1 r1) (N2 r2) ....  (Nk rk)&#xa;=----------------------------------------&#xa;                (N  r)&#xa;&#xa;" modifyDate="2010-03-20T15:49:01" color="#ffff00" >
+      <boundary l="0.1174524400330852" r="0.8825475599669148" b="0.6572890025575447" t="0.5620204603580563" />
+     </base>
+     <hl>
+      <quad dx="0.7596082352941177" cx="0.8827454901960784" dy="0.5963257575757576" bx="0.8827454901960784" cy="0.5963257575757576" ax="0.7596082352941177" by="0.6212752525252525" ay="0.6212752525252525" feather="1" />
+      <quad dx="0.1176474509803921" cx="0.1596082352941176" dy="0.6126893939393939" bx="0.1596082352941176" cy="0.6126893939393939" ax="0.1176474509803921" by="0.6376388888888889" ay="0.6376388888888889" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-20T16:32:49" uniqueName="okular-75-13" author="Marc Ahrens" modifyDate="2010-03-20T16:32:56" color="#ffff00" >
+      <boundary l="0.4416873449131514" r="0.8933002481389578" b="0.7589514066496164" t="0.7263427109974424" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[This sec'n is concerned w/ deriving identities of
+"N choose r" from HYPERGEOM. DIST.]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0" creationDate="2010-03-23T19:14:22" uniqueName="okular-75-14" author="Marc Ahrens" modifyDate="2010-03-23T19:14:41" color="#ffffff" >
+      <boundary l="0.6931348221670802" r="0.890818858560794" b="0.7225063938618926" t="0.631074168797954" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[k=# of "kinds"
+N_i=# of ith kind in urn
+
+r_i=# of ith kind drawn
+]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="76" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T18:44:37" uniqueName="okular-76-1" author="Marc Ahrens" modifyDate="2010-03-17T18:44:37" color="#ffff00" >
+      <boundary l="0.1175496688741722" r="0.8816225165562914" b="0.6229193341869398" t="0.5288092189500641" />
+     </base>
+     <hl>
+      <quad dx="0.8203933333333332" cx="0.8823541176470586" dy="0.5293560606060608" bx="0.8823541176470586" cy="0.5293560606060608" ax="0.8203933333333332" by="0.5543055555555557" ay="0.5543055555555557" feather="1" />
+      <quad dx="0.1176482352941176" cx="0.603138431372549" dy="0.5457196969696971" bx="0.603138431372549" cy="0.5457196969696971" ax="0.1176482352941176" by="0.5706691919191921" ay="0.5706691919191921" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-18T18:28:44" uniqueName="okular-76-2" author="Marc Ahrens" modifyDate="2010-03-18T18:28:54" color="#ff0000" >
+      <boundary l="0.1453781512605042" r="0.4831932773109244" b="0.8830409356725146" t="0.8531513970110461" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-18T18:35:37" uniqueName="okular-76-4" author="Marc Ahrens" modifyDate="2010-03-18T18:36:17" color="#ffff00" >
+      <boundary l="0.3672268907563025" r="0.8966386554621849" b="0.5016244314489928" t="0.4496426250812215" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,5,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Deriv'n here is the specialis'n of HYPERGEOMETRIC distrib'n -> BINOMIAL
+as M/N=f=const, & N,M -> \infty (More general than my note@eq3-45]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="77" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T18:47:54" uniqueName="okular-77-1" author="Marc Ahrens" modifyDate="2010-03-17T18:47:54" color="#ffff00" >
+      <boundary l="0.1174524400330852" r="0.8817204301075269" b="0.3107416879795397" t="0.2525575447570332" />
+     </base>
+     <hl>
+      <quad dx="0.2149019607843138" cx="0.8823529411764702" dy="0.2529924242424243" bx="0.8823529411764702" cy="0.2529924242424243" ax="0.2149019607843138" by="0.2779419191919192" ay="0.2779419191919192" feather="1" />
+      <quad dx="0.1176470588235294" cx="0.8823529411764706" dy="0.2693560606060607" bx="0.8823529411764706" cy="0.2693560606060607" ax="0.1176470588235294" by="0.2943055555555557" ay="0.2943055555555557" feather="1" />
+      <quad dx="0.1176470588235294" cx="0.2549019607843137" dy="0.2860227272727273" bx="0.2549019607843137" cy="0.2860227272727273" ax="0.1176470588235294" by="0.3109722222222223" ay="0.3109722222222223" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-19T21:12:22" uniqueName="okular-77-2" author="Marc Ahrens" modifyDate="2010-03-19T21:12:33" color="#ff0000" >
+      <boundary l="0.2900552486187845" r="0.6906077348066298" b="0.3660618996798292" t="0.3308431163287087" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-19T21:12:46" uniqueName="okular-77-3" author="Marc Ahrens" modifyDate="2010-03-19T21:12:56" color="#ff0000" >
+      <boundary l="0.1174033149171271" r="0.8812154696132597" b="0.4204909284951974" t="0.3788687299893276" />
+     </base>
+     <hl>
+      <quad dx="0.1929411764705882" cx="0.3615686274509803" dy="0.379659090909091" bx="0.3615686274509803" cy="0.379659090909091" ax="0.1929411764705882" by="0.4046085858585859" ay="0.4046085858585859" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-19T21:16:02" uniqueName="okular-77-4" author="Marc Ahrens" modifyDate="2010-03-19T21:16:11" color="#ff0000" >
+      <boundary l="0.1174033149171271" r="0.8812154696132597" b="0.695837780149413" t="0.6371398078975453" />
+     </base>
+     <hl>
+      <quad dx="0.2917670588235294" cx="0.8823552941176467" dy="0.6371843434343436" bx="0.8823552941176467" cy="0.6371843434343436" ax="0.2917670588235294" by="0.6634469696969697" ay="0.6634469696969697" feather="1" />
+      <quad dx="0.1176494117647058" cx="0.6831396078431372" dy="0.654810606060606" bx="0.6831396078431372" cy="0.654810606060606" ax="0.1176494117647058" by="0.6797601010101012" ay="0.6797601010101012" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-19T21:22:45" uniqueName="okular-77-5" author="Marc Ahrens" modifyDate="2010-03-19T21:22:56" color="#ff0000" >
+      <boundary l="0.3176795580110497" r="0.6795580110497238" b="0.8975453575240128" t="0.8623265741728922" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,9,-1,5,50,0,0,0,0,0" />
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-19T21:23:02" uniqueName="okular-77-6" author="Marc Ahrens" modifyDate="2010-03-19T21:23:09" color="#ff0000" >
+      <boundary l="0.4185082872928177" r="0.6132596685082873" b="0.8409818569903948" t="0.816435432230523" />
+     </base>
+     <hl>
+      <quad dx="0.4196078431372549" cx="0.6137254901960785" dy="0.8166287878787879" bx="0.6137254901960785" cy="0.8166287878787879" ax="0.4196078431372549" by="0.8415782828282828" ay="0.8415782828282828" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="2" >
+     <base creationDate="2010-03-20T16:34:05" uniqueName="okular-77-7" author="Marc Ahrens" modifyDate="2010-03-20T16:34:15" color="#ff0000" >
+      <boundary l="0.2188524590163934" r="0.2983606557377049" b="0.3825205826472451" t="0.3489550348321723" />
+      <penStyle width="4" ycr="0" style="1" spaces="0" marks="3" xcr="0" />
+     </base>
+     <line>
+      <point x="0.219672131147541" y="0.383153894870171" />
+      <point x="0.2991803278688525" y="0.3489550348321723" />
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="78" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T18:50:16" uniqueName="okular-78-1" author="Marc Ahrens" modifyDate="2010-03-17T18:50:24" color="#ff0000" >
+      <boundary l="0.1172584640792733" r="0.8819157720891825" b="0.8123803446075303" t="0.7383535417996171" />
+     </base>
+     <hl>
+      <quad dx="0.217256862745098" cx="0.8823549019607844" dy="0.754810606060606" bx="0.8823549019607844" cy="0.754810606060606" ax="0.217256862745098" by="0.7797601010101011" ay="0.7797601010101011" feather="1" />
+      <quad dx="0.1176494117647058" cx="0.6878454901960784" dy="0.7714772727272727" bx="0.6878454901960784" cy="0.7714772727272727" ax="0.1176494117647058" by="0.7964267676767677" ay="0.7964267676767677" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="79" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T18:51:50" uniqueName="okular-79-1" author="Marc Ahrens" contents="It is in this sense that &quot;drawing with&#xa;replacement is enormously more&#xa;complicated&quot;. The &quot;assumptions&#xa;usually made&quot; are ones like &quot;assume&#xa;the replced ball is mixed in [so that&#xa;the probability of drawing a red ball&#xa;from red+white ones doesn't&#xa;change].&quot;" modifyDate="2010-03-17T18:51:50" color="#ffff00" >
+      <boundary l="0.117056856187291" r="0.8821070234113713" b="0.1777634130575307" t="0.1195862960568843" />
+     </base>
+     <hl>
+      <quad dx="0.1176474509803921" cx="0.861176862745098" dy="0.1199621212121213" bx="0.861176862745098" cy="0.1199621212121213" ax="0.1176474509803921" by="0.1449116161616162" ay="0.1449116161616162" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T18:56:21" uniqueName="okular-79-2" author="Marc Ahrens" modifyDate="2010-03-17T18:56:29" color="#ff0000" >
+      <boundary l="0.1889632107023412" r="0.8461538461538461" b="0.7769877181641888" t="0.6994182288299935" />
+     </base>
+     <hl>
+      <quad dx="0.1890254901960783" cx="0.8466725490196078" dy="0.7193560606060607" bx="0.8466725490196078" cy="0.7193560606060607" ax="0.1890254901960783" by="0.7443055555555557" ay="0.7443055555555557" feather="1" />
+      <quad dx="0.189025882352941" cx="0.8466729411764703" dy="0.7360227272727273" bx="0.8466729411764703" cy="0.7360227272727273" ax="0.189025882352941" by="0.7609722222222224" ay="0.7609722222222224" feather="1" />
+      <quad dx="0.1890262745098038" cx="0.7847125490196075" dy="0.7528661616161617" bx="0.7847125490196075" cy="0.7528661616161617" ax="0.1890262745098038" by="0.7771590909090911" ay="0.7771590909090911" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="80" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T21:15:12" uniqueName="okular-80-1" author="Marc Ahrens" modifyDate="2010-03-17T21:15:12" color="#ffff00" >
+      <boundary l="0.1175496688741722" r="0.8824503311258278" b="0.4165067178502879" t="0.3422904670505438" />
+     </base>
+     <hl>
+      <quad dx="0.1533372549019607" cx="0.8823568627450978" dy="0.3423863636363637" bx="0.8823568627450978" cy="0.3423863636363637" ax="0.1533372549019607" by="0.3673358585858587" ay="0.3673358585858587" feather="1" />
+      <quad dx="0.1176509803921568" cx="0.7552980392156863" dy="0.3587500000000001" bx="0.7552980392156863" cy="0.3587500000000001" ax="0.1176509803921568" by="0.3836994949494951" ay="0.3836994949494951" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T21:15:31" uniqueName="okular-80-2" author="Marc Ahrens" modifyDate="2010-03-17T21:15:31" color="#ffff00" >
+      <boundary l="0.1175496688741722" r="0.8816225165562914" b="0.4664107485604607" t="0.3915547024952015" />
+     </base>
+     <hl>
+      <quad dx="0.3529454901960784" cx="0.8823572549019607" dy="0.3917803030303031" bx="0.8823572549019607" cy="0.3917803030303031" ax="0.3529454901960784" by="0.4167297979797981" ay="0.4167297979797981" feather="1" />
+      <quad dx="0.1176517647058822" cx="0.1572596078431372" dy="0.4084469696969698" bx="0.1572596078431372" cy="0.4084469696969698" ax="0.1176517647058822" by="0.4333964646464647" ay="0.4333964646464647" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T21:17:18" uniqueName="okular-80-3" author="Marc Ahrens" modifyDate="2010-03-17T21:17:18" color="#ffff00" >
+      <boundary l="0.1175496688741722" r="0.8824503311258278" b="0.7216890595009597" t="0.580934101087652" />
+     </base>
+     <hl>
+      <quad dx="0.1533399999999998" cx="0.8823596078431372" dy="0.5814772727272728" bx="0.8823596078431372" cy="0.5814772727272728" ax="0.1533399999999998" by="0.6064267676767677" ay="0.6064267676767677" feather="1" />
+      <quad dx="0.1176541176470586" cx="0.8823599999999995" dy="0.5978409090909093" bx="0.8823599999999995" cy="0.5978409090909093" ax="0.1176541176470586" by="0.6227904040404042" ay="0.6227904040404042" feather="1" />
+      <quad dx="0.1176541176470586" cx="0.8819678431372545" dy="0.6145075757575759" bx="0.8819678431372545" cy="0.6145075757575759" ax="0.1176541176470586" by="0.6394570707070708" ay="0.6394570707070708" feather="1" />
+      <quad dx="0.1176541176470586" cx="0.88236" dy="0.6308712121212122" bx="0.88236" cy="0.6308712121212122" ax="0.1176541176470586" by="0.6558207070707072" ay="0.6558207070707072" feather="1" />
+      <quad dx="0.1176545098039214" cx="0.882752549019608" dy="0.645618686868687" bx="0.882752549019608" cy="0.645618686868687" ax="0.1176545098039214" by="0.6731944444444445" ay="0.6731944444444445" feather="1" />
+      <quad dx="0.1176549019607841" cx="0.8823607843137253" dy="0.6639015151515152" bx="0.8823607843137253" cy="0.6639015151515152" ax="0.1176549019607841" by="0.6888510101010104" ay="0.6888510101010104" feather="1" />
+      <quad dx="0.1176552941176469" cx="0.8823611764705879" dy="0.6805681818181819" bx="0.8823611764705879" cy="0.6805681818181819" ax="0.1176552941176469" by="0.7055176767676768" ay="0.7055176767676768" feather="1" />
+      <quad dx="0.1176556862745096" cx="0.5243223529411764" dy="0.6969318181818184" bx="0.5243223529411764" cy="0.6969318181818184" ax="0.1176556862745096" by="0.7218813131313133" ay="0.7218813131313133" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T21:17:39" uniqueName="okular-80-4" author="Marc Ahrens" modifyDate="2010-03-17T21:17:39" color="#ffff00" >
+      <boundary l="0.1175496688741722" r="0.8816225165562914" b="0.8246960972488804" t="0.7664747280870121" />
+     </base>
+     <hl>
+      <quad dx="0.1568721568627449" cx="0.8823623529411763" dy="0.7669318181818183" bx="0.8823623529411763" cy="0.7669318181818183" ax="0.1568721568627449" by="0.7918813131313133" ay="0.7918813131313133" feather="1" />
+      <quad dx="0.1176568627450978" cx="0.1831470588235292" dy="0.784078282828283" bx="0.1831470588235292" cy="0.784078282828283" ax="0.1176568627450978" by="0.8083712121212123" ay="0.8083712121212123" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="81" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T21:21:56" uniqueName="okular-81-1" author="Marc Ahrens" modifyDate="2010-03-17T21:22:04" color="#ff0000" >
+      <boundary l="0.1172584640792733" r="0.8819157720891825" b="0.3809827696234844" t="0.3037651563497129" />
+     </base>
+     <hl>
+      <quad dx="0.4972549019607842" cx="0.8823525490196079" dy="0.3042045454545454" bx="0.8823525490196079" cy="0.3042045454545454" ax="0.4972549019607842" by="0.3291540404040404" ay="0.3291540404040404" feather="1" />
+      <quad dx="0.1176470588235293" cx="0.8823529411764708" dy="0.3186489898989899" bx="0.8823529411764708" cy="0.3186489898989899" ax="0.1176470588235293" by="0.3462247474747475" ay="0.3462247474747475" feather="1" />
+      <quad dx="0.1176470588235293" cx="0.216078431372549" dy="0.3372348484848485" bx="0.216078431372549" cy="0.3372348484848485" ax="0.1176470588235293" by="0.3621843434343435" ay="0.3621843434343435" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-17T21:34:26" uniqueName="okular-81-2" author="Marc Ahrens" modifyDate="2010-03-17T21:34:34" color="#ffff00" >
+      <boundary l="0.1073492981007432" r="0.2394715111478117" b="0.6687938736439055" t="0.5985960433950224" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[NB These are
+"Markovian"
+cond'ns]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="83" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T21:36:10" uniqueName="okular-83-1" author="Marc Ahrens" modifyDate="2010-03-17T21:36:10" color="#ffff00" >
+      <boundary l="0.1172584640792733" r="0.8819157720891825" b="0.1609195402298851" t="0.1174968071519796" />
+     </base>
+     <hl>
+      <quad dx="0.2184317647058824" cx="0.252941568627451" dy="0.1190025252525253" bx="0.252941568627451" cy="0.1190025252525253" ax="0.2184317647058824" by="0.1452651515151516" ay="0.1452651515151516" feather="1" />
+      <quad dx="0.252941568627451" cx="0.2615690196078431" dy="0.1201641414141416" bx="0.2615690196078431" cy="0.1201641414141416" ax="0.252941568627451" by="0.1477398989898991" ay="0.1477398989898991" feather="1" />
+      <quad dx="0.2615690196078431" cx="0.5258827450980392" dy="0.1180429292929294" bx="0.5258827450980392" cy="0.1180429292929294" ax="0.2615690196078431" by="0.1456186868686869" ay="0.1456186868686869" feather="1" />
+      <quad dx="0.5262749019607843" cx="0.8823533333333333" dy="0.1199621212121213" bx="0.8823533333333333" cy="0.1199621212121213" ax="0.5262749019607843" by="0.1449116161616162" ay="0.1449116161616162" feather="1" />
+      <quad dx="0.1176474509803921" cx="0.2776474509803922" dy="0.1363257575757577" bx="0.2776474509803922" cy="0.1363257575757577" ax="0.1176474509803921" by="0.1612752525252526" ay="0.1612752525252526" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-17T21:36:55" uniqueName="okular-83-2" author="Marc Ahrens" modifyDate="2010-03-17T21:37:09" color="#ff0000" >
+      <boundary l="0.1172584640792733" r="0.8819157720891825" b="0.4482758620689655" t="0.4061302681992337" />
+     </base>
+     <hl>
+      <quad dx="0.2262749019607843" cx="0.763921960784314" dy="0.4062752525252527" bx="0.763921960784314" cy="0.4062752525252527" ax="0.2262749019607843" by="0.4325378787878789" ay="0.4325378787878789" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="1" >
+     <base creationDate="2010-03-17T21:37:26" uniqueName="okular-83-3" author="Marc Ahrens" modifyDate="2010-03-17T21:37:45" color="#00ff00" >
+      <boundary l="0.1469859620148637" r="0.2956234516928158" b="0.111749680715198" t="0.06768837803320563" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Markov chain
+Trans'n matrix]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-18T17:33:34" uniqueName="okular-83-4" author="Marc Ahrens" contents="ie, if we find e-(vals,vects) we can&#xa;get the diagonalisation and then get&#xa;M^r for arbitrary r." modifyDate="2010-03-18T17:33:34" color="#ffff00" >
+      <boundary l="0.1172584640792733" r="0.8819157720891825" b="0.5472541507024266" t="0.4897828863346105" />
+     </base>
+     <hl>
+      <quad dx="0.1650992156862745" cx="0.8356874509803922" dy="0.4899116161616163" bx="0.8356874509803922" cy="0.4899116161616163" ax="0.1650992156862745" by="0.5161742424242426" ay="0.5161742424242426" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="84" >
+   <annotationList>
+    <annotation type="1" >
+     <base creationDate="2010-03-18T12:39:49" uniqueName="okular-84-2" author="Marc Ahrens" modifyDate="2010-03-18T12:40:18" color="#ffffff" >
+      <boundary l="0.6062861869313482" r="0.8163771712158809" b="0.9667519181585678" t="0.9124040920716112" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,5,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Recall, from eq3-87:
+"p"=prob of red given only C.]]></escapedText>
+     </text>
+    </annotation>
+    <annotation type="1" >
+     <base opacity="0.3" creationDate="2010-03-18T18:14:33" uniqueName="okular-84-3" author="Marc Ahrens" modifyDate="2010-03-18T18:14:48" color="#231cff" >
+      <boundary l="0.1207609594706369" r="0.8858560794044665" b="0.5607416879795396" t="0.5031969309462916" />
+      <window width="0" flags="-1" title="" left="0" height="0" summary="TextBox" top="0" />
+     </base>
+     <text icon="Note" type="1" font="DejaVu Sans,6,-1,5,50,0,0,0,0,0" >
+      <escapedText><![CDATA[Prob that kth draw is red,
+given for Markovian trials
+(ie kth trial dep on &(k-1)th) of eq3-80]]></escapedText>
+     </text>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="85" >
+   <annotationList>
+    <annotation type="4" >
+     <base creationDate="2010-03-18T18:24:56" uniqueName="okular-85-1" author="Marc Ahrens" contents="Unless we have a system for&#xa;replacing ball somewhere nearer&#xa;to the bottom, eg. shooting them&#xa;in to the bottomof the urn." modifyDate="2010-03-18T18:24:56" color="#ffff00" >
+      <boundary l="0.1174524400330852" r="0.4094292803970223" b="0.3625319693094629" t="0.3209718670076726" />
+     </base>
+     <hl>
+      <quad dx="0.2988243137254902" cx="0.4098047058823529" dy="0.3211742424242425" bx="0.4098047058823529" cy="0.3211742424242425" ax="0.2988243137254902" by="0.3461237373737374" ay="0.3461237373737374" feather="1" />
+     </hl>
+    </annotation>
+   </annotationList>
+  </page>
   <page number="560" >
    <annotationList>
     <annotation type="4" >
@@ -1998,21 +3212,21 @@ infinite sets]]></escapedText>
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="46;C2:0.499383:1:1" />
-   <oldPage viewport="47;C2:0.499383:0:1" />
-   <oldPage viewport="46;C2:0.499383:1:1" />
-   <oldPage viewport="47;C2:0.499385:0.759259:1" />
-   <oldPage viewport="48;C2:0.499387:0.239879:1" />
-   <oldPage viewport="47;C2:0.499385:0.759259:1" />
-   <oldPage viewport="48;C2:0.499387:0.759259:1" />
-   <oldPage viewport="49;C2:0.499385:0.759259:1" />
-   <oldPage viewport="50;C2:0.499385:0:1" />
-   <oldPage viewport="49;C2:0.499385:0.239879:1" />
-   <current viewport="48;C2:0.499387:0.759259:1" />
+   <oldPage viewport="73;C2:0.4995:0.804545:1" />
+   <oldPage viewport="74;C2:0.4995:0.804682:1" />
+   <oldPage viewport="75;C2:0.4995:0.804818:1" />
+   <oldPage viewport="76;C2:0.4995:0.806574:1" />
+   <oldPage viewport="77;C2:0.4995:0.811276:1" />
+   <oldPage viewport="78;C2:0.4995:0.194755:1" />
+   <oldPage viewport="77;C2:0.4995:0.811276:1" />
+   <oldPage viewport="78;C2:0.4995:0:1" />
+   <oldPage viewport="77;C2:0.4995:0.188049:1" />
+   <oldPage viewport="76;C2:0.4995:0.192734:1" />
+   <current viewport="75;C2:0.4995:0.72102:1" />
   </history>
   <views>
    <view name="PageView" >
-    <zoom mode="0" value="1.603700041770935" />
+    <zoom mode="1" value="1.975853323936462" />
    </view>
   </views>
  </generalInfo>
