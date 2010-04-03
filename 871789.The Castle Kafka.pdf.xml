@@ -217,6 +217,27 @@
       <quad dx="0.1044982460672869" cx="0.2766346350901367" dy="0.8366259747762977" bx="0.2766346350901367" cy="0.8366259747762977" ax="0.1044982460672869" by="0.8527489022757694" ay="0.8527489022757694" feather="1" />
      </hl>
     </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-25T20:32:26" uniqueName="okular-62-2" author="Marc Ahrens" contents="This is another elitest, anti-working-class comment.5" modifyDate="2010-03-25T20:32:26" color="#ffff00" >
+      <boundary l="0.1035007610350076" r="0.8949771689497716" b="0.8526119402985075" t="0.7098880597014925" />
+     </base>
+     <hl>
+      <quad dx="0.4681513572166724" cx="0.8959206295211848" dy="0.7099149136898468" bx="0.8959206295211848" cy="0.7099149136898468" ax="0.4681513572166724" by="0.7260378411893182" ay="0.7260378411893182" feather="1" />
+      <quad dx="0.1044982460672869" cx="0.8959176904351818" dy="0.731033423870922" bx="0.8959176904351818" cy="0.731033423870922" ax="0.1044982460672869" by="0.7471563513703935" ay="0.7471563513703935" feather="1" />
+      <quad dx="0.1044982460672869" cx="0.8959176904351819" dy="0.7521519340519971" bx="0.8959176904351819" cy="0.7521519340519971" ax="0.1044982460672869" by="0.7682748615514686" ay="0.7682748615514686" feather="1" />
+      <quad dx="0.1044982460672869" cx="0.8959059340911699" dy="0.7732704442330722" bx="0.8959059340911699" cy="0.7732704442330722" ax="0.1044982460672869" by="0.7893933717325439" ay="0.7893933717325439" feather="1" />
+      <quad dx="0.1044982460672869" cx="0.166953823630727" dy="0.7943889544141475" bx="0.166953823630727" cy="0.7943889544141475" ax="0.1044982460672869" by="0.810511881913619" ay="0.810511881913619" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-25T20:33:21" uniqueName="okular-62-3" author="Marc Ahrens" contents="Funny, explicite mention of concepts like &quot;autonomy&quot;." modifyDate="2010-03-25T20:33:21" color="#ffff00" >
+      <boundary l="0.1035007610350076" r="0.8949771689497716" b="0.6623134328358209" t="0.625" />
+     </base>
+     <hl>
+      <quad dx="0.4534089018256977" cx="0.8959000559191638" dy="0.6254408729655461" bx="0.8959000559191638" cy="0.6254408729655461" ax="0.4534089018256977" by="0.6415638004650177" ay="0.6415638004650177" feather="1" />
+      <quad dx="0.1044982460672869" cx="0.8392756249856466" dy="0.6465593831466213" bx="0.8392756249856466" cy="0.6465593831466213" ax="0.1044982460672869" by="0.6626823106460928" ay="0.6626823106460928" feather="1" />
+     </hl>
+    </annotation>
    </annotationList>
   </page>
   <page number="63" >
@@ -232,7 +253,7 @@
      </hl>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-01-25T10:12:58" uniqueName="okular-63-2" author="Marc Ahrens" contents="The requirement of life's constant political plannining." modifyDate="2010-01-25T10:12:58" color="#ffff00" >
+     <base creationDate="2010-01-25T10:12:58" uniqueName="okular-63-2" author="Marc Ahrens" contents="The requirement of life's constant political strategising." modifyDate="2010-03-25T20:36:00" color="#ff0000" >
       <boundary l="0.1035007610350076" r="0.8949771689497716" b="0.2611940298507462" t="0.2024253731343283" />
      </base>
      <hl>
@@ -242,7 +263,7 @@
      </hl>
     </annotation>
     <annotation type="4" >
-     <base creationDate="2010-01-25T10:15:10" uniqueName="okular-63-3" author="Marc Ahrens" modifyDate="2010-01-25T10:15:10" color="#ffff00" >
+     <base creationDate="2010-01-25T10:15:10" uniqueName="okular-63-3" author="Marc Ahrens" modifyDate="2010-03-25T20:39:14" color="#ffff00" >
       <boundary l="0.1035007610350076" r="0.8949771689497716" b="0.4934701492537313" t="0.3292910447761194" />
      </base>
      <hl>
@@ -258,6 +279,15 @@
      </base>
      <hl>
       <quad dx="0.4369704787280538" cx="0.5529174248741942" dy="0.7732886549707599" bx="0.5529174248741942" cy="0.7732886549707599" ax="0.4369704787280538" by="0.7894115824702315" ay="0.7894115824702315" feather="1" />
+     </hl>
+    </annotation>
+    <annotation type="4" >
+     <base creationDate="2010-03-25T20:38:39" uniqueName="okular-63-5" author="Marc Ahrens" modifyDate="2010-03-25T20:38:39" color="#ffff00" >
+      <boundary l="0.1035007610350076" r="0.8949771689497716" b="0.5354477611940298" t="0.4347014925373134" />
+     </base>
+     <hl>
+      <quad dx="0.620504648539001" cx="0.8959322839571789" dy="0.4353924920735572" bx="0.8959322839571789" cy="0.4353924920735572" ax="0.620504648539001" by="0.4515154195730288" ay="0.4515154195730288" feather="1" />
+      <quad dx="0.104530451387371" cx="0.2092500886798167" dy="0.4565110022546325" bx="0.2092500886798167" cy="0.4565110022546325" ax="0.104530451387371" by="0.472633929754104" ay="0.472633929754104" feather="1" />
      </hl>
     </annotation>
    </annotationList>
@@ -277,8 +307,6 @@
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="68;C2:0.476834:0:1" />
-   <oldPage viewport="69;C2:0.476834:0:1" />
    <oldPage viewport="70;C2:0.476834:0:1" />
    <oldPage viewport="71;C2:0.476834:0:1" />
    <oldPage viewport="72;C2:0.476834:0:1" />
@@ -287,11 +315,13 @@
    <oldPage viewport="69;C2:0.476834:1:1" />
    <oldPage viewport="68;C2:0.476834:1:1" />
    <oldPage viewport="67;C2:0.476834:1:1" />
-   <current viewport="66;C2:0.476834:1:1" />
+   <oldPage viewport="66;C2:0.476834:1:1" />
+   <oldPage viewport="65;C2:0.476834:1:1" />
+   <current viewport="64;C2:0.476834:1:1" />
   </history>
   <views>
    <view name="PageView" >
-    <zoom mode="2" value="0.8965687155723572" />
+    <zoom mode="2" value="0.9828788638114929" />
    </view>
   </views>
  </generalInfo>

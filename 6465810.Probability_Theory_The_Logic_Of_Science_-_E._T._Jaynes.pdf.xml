@@ -3212,21 +3212,21 @@ given for Markovian trials
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="73;C2:0.4995:0.804545:1" />
-   <oldPage viewport="74;C2:0.4995:0.804682:1" />
-   <oldPage viewport="75;C2:0.4995:0.804818:1" />
-   <oldPage viewport="76;C2:0.4995:0.806574:1" />
-   <oldPage viewport="77;C2:0.4995:0.811276:1" />
-   <oldPage viewport="78;C2:0.4995:0.194755:1" />
-   <oldPage viewport="77;C2:0.4995:0.811276:1" />
-   <oldPage viewport="78;C2:0.4995:0:1" />
-   <oldPage viewport="77;C2:0.4995:0.188049:1" />
-   <oldPage viewport="76;C2:0.4995:0.192734:1" />
-   <current viewport="75;C2:0.4995:0.72102:1" />
+   <oldPage viewport="63;C2:0.4995:0.192734:1" />
+   <oldPage viewport="62;C2:0.4995:1:1" />
+   <oldPage viewport="63;C2:0.4995:0.192734:1" />
+   <oldPage viewport="62;C2:0.4995:1:1" />
+   <oldPage viewport="63;C2:0.4995:0:1" />
+   <oldPage viewport="62;C2:0.4995:1:1" />
+   <oldPage viewport="63;C2:0.4995:0.806574:1" />
+   <oldPage viewport="64;C2:0.4995:0.806574:1" />
+   <oldPage viewport="65;C2:0.4995:0.194619:1" />
+   <oldPage viewport="64;C2:0.4995:0.192734:1" />
+   <current viewport="63;C2:0.499698:0.391931:1" />
   </history>
   <views>
    <view name="PageView" >
-    <zoom mode="1" value="1.975853323936462" />
+    <zoom mode="1" value="2.707516431808472" />
    </view>
   </views>
  </generalInfo>
